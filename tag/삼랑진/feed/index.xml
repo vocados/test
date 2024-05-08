@@ -1,0 +1,959 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>삼랑진 &#8211; 기차 시간표</title>
+	<atom:link href="/tag/%EC%82%BC%EB%9E%91%EC%A7%84/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Tue, 07 May 2024 22:48:44 +0000</lastBuildDate>
+	<language>ko-KR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/05/cropped-favicon-1-1-32x32.png</url>
+	<title>삼랑진 &#8211; 기차 시간표</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>서광주 에서 삼랑진 가는 기차 시간표</title>
+		<link>/timetable/%ec%84%9c%ea%b4%91%ec%a3%bc-%ec%97%90%ec%84%9c-%ec%82%bc%eb%9e%91%ec%a7%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:48:44 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[광주광역시]]></category>
+		<category><![CDATA[도착지-경상남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[삼랑진]]></category>
+		<category><![CDATA[서광주]]></category>
+		<category><![CDATA[출발지-광주광역시]]></category>
+		<guid isPermaLink="false">/timetable/%ec%84%9c%ea%b4%91%ec%a3%bc-%ec%97%90%ec%84%9c-%ec%82%bc%eb%9e%91%ec%a7%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 10:44 도착 : 15:16 &#8211; 무궁화호 16,900원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>10:44</td>
+<td>도착 : 15:16 &#8211; 무궁화호</td>
+<td>16,900원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>효천 에서 삼랑진 가는 기차 시간표</title>
+		<link>/timetable/%ed%9a%a8%ec%b2%9c-%ec%97%90%ec%84%9c-%ec%82%bc%eb%9e%91%ec%a7%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:48:26 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[광주광역시]]></category>
+		<category><![CDATA[도착지-경상남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[삼랑진]]></category>
+		<category><![CDATA[출발지-광주광역시]]></category>
+		<category><![CDATA[효천]]></category>
+		<guid isPermaLink="false">/timetable/%ed%9a%a8%ec%b2%9c-%ec%97%90%ec%84%9c-%ec%82%bc%eb%9e%91%ec%a7%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 10:50 도착 : 15:16 &#8211; 무궁화호 16,600원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>10:50</td>
+<td>도착 : 15:16 &#8211; 무궁화호</td>
+<td>16,600원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>화순 에서 삼랑진 가는 기차 시간표</title>
+		<link>/timetable/%ed%99%94%ec%88%9c-%ec%97%90%ec%84%9c-%ec%82%bc%eb%9e%91%ec%a7%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:48:09 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[도착지-경상남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[삼랑진]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<category><![CDATA[화순]]></category>
+		<guid isPermaLink="false">/timetable/%ed%99%94%ec%88%9c-%ec%97%90%ec%84%9c-%ec%82%bc%eb%9e%91%ec%a7%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 11:08 도착 : 15:16 &#8211; 무궁화호 15,700원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>11:08</td>
+<td>도착 : 15:16 &#8211; 무궁화호</td>
+<td>15,700원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>능주 에서 삼랑진 가는 기차 시간표</title>
+		<link>/timetable/%eb%8a%a5%ec%a3%bc-%ec%97%90%ec%84%9c-%ec%82%bc%eb%9e%91%ec%a7%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:47:50 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[능주]]></category>
+		<category><![CDATA[도착지-경상남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[삼랑진]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<guid isPermaLink="false">/timetable/%eb%8a%a5%ec%a3%bc-%ec%97%90%ec%84%9c-%ec%82%bc%eb%9e%91%ec%a7%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 11:18 도착 : 15:16 &#8211; 무궁화호 15,100원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>11:18</td>
+<td>도착 : 15:16 &#8211; 무궁화호</td>
+<td>15,100원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>이양 에서 삼랑진 가는 기차 시간표</title>
+		<link>/timetable/%ec%9d%b4%ec%96%91-%ec%97%90%ec%84%9c-%ec%82%bc%eb%9e%91%ec%a7%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:47:32 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[도착지-경상남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[삼랑진]]></category>
+		<category><![CDATA[이양]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%9d%b4%ec%96%91-%ec%97%90%ec%84%9c-%ec%82%bc%eb%9e%91%ec%a7%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 11:30 도착 : 15:16 &#8211; 무궁화호 14,400원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>11:30</td>
+<td>도착 : 15:16 &#8211; 무궁화호</td>
+<td>14,400원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>명봉 에서 삼랑진 가는 기차 시간표</title>
+		<link>/timetable/%eb%aa%85%eb%b4%89-%ec%97%90%ec%84%9c-%ec%82%bc%eb%9e%91%ec%a7%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:47:13 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[도착지-경상남도]]></category>
+		<category><![CDATA[명봉]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[삼랑진]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<guid isPermaLink="false">/timetable/%eb%aa%85%eb%b4%89-%ec%97%90%ec%84%9c-%ec%82%bc%eb%9e%91%ec%a7%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 11:44 도착 : 15:16 &#8211; 무궁화호 13,500원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>11:44</td>
+<td>도착 : 15:16 &#8211; 무궁화호</td>
+<td>13,500원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>보성 에서 삼랑진 가는 기차 시간표</title>
+		<link>/timetable/%eb%b3%b4%ec%84%b1-%ec%97%90%ec%84%9c-%ec%82%bc%eb%9e%91%ec%a7%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:46:56 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[도착지-경상남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[보성]]></category>
+		<category><![CDATA[삼랑진]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<guid isPermaLink="false">/timetable/%eb%b3%b4%ec%84%b1-%ec%97%90%ec%84%9c-%ec%82%bc%eb%9e%91%ec%a7%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 11:54 도착 : 15:16 &#8211; 무궁화호 13,000원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>11:54</td>
+<td>도착 : 15:16 &#8211; 무궁화호</td>
+<td>13,000원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>득량 에서 삼랑진 가는 기차 시간표</title>
+		<link>/timetable/%eb%93%9d%eb%9f%89-%ec%97%90%ec%84%9c-%ec%82%bc%eb%9e%91%ec%a7%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:46:39 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[도착지-경상남도]]></category>
+		<category><![CDATA[득량]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[삼랑진]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<guid isPermaLink="false">/timetable/%eb%93%9d%eb%9f%89-%ec%97%90%ec%84%9c-%ec%82%bc%eb%9e%91%ec%a7%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 12:05 도착 : 15:16 &#8211; 무궁화호 12,400원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>12:05</td>
+<td>도착 : 15:16 &#8211; 무궁화호</td>
+<td>12,400원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>예당 에서 삼랑진 가는 기차 시간표</title>
+		<link>/timetable/%ec%98%88%eb%8b%b9-%ec%97%90%ec%84%9c-%ec%82%bc%eb%9e%91%ec%a7%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:46:22 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[도착지-경상남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[삼랑진]]></category>
+		<category><![CDATA[예당]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%98%88%eb%8b%b9-%ec%97%90%ec%84%9c-%ec%82%bc%eb%9e%91%ec%a7%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 12:11 도착 : 15:16 &#8211; 무궁화호 12,100원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>12:11</td>
+<td>도착 : 15:16 &#8211; 무궁화호</td>
+<td>12,100원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>조성 에서 삼랑진 가는 기차 시간표</title>
+		<link>/timetable/%ec%a1%b0%ec%84%b1-%ec%97%90%ec%84%9c-%ec%82%bc%eb%9e%91%ec%a7%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:46:05 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[도착지-경상남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[삼랑진]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[조성]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%a1%b0%ec%84%b1-%ec%97%90%ec%84%9c-%ec%82%bc%eb%9e%91%ec%a7%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 12:17 도착 : 15:16 &#8211; 무궁화호 11,800원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>12:17</td>
+<td>도착 : 15:16 &#8211; 무궁화호</td>
+<td>11,800원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>벌교 에서 삼랑진 가는 기차 시간표</title>
+		<link>/timetable/%eb%b2%8c%ea%b5%90-%ec%97%90%ec%84%9c-%ec%82%bc%eb%9e%91%ec%a7%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:45:48 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[도착지-경상남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[벌교]]></category>
+		<category><![CDATA[삼랑진]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<guid isPermaLink="false">/timetable/%eb%b2%8c%ea%b5%90-%ec%97%90%ec%84%9c-%ec%82%bc%eb%9e%91%ec%a7%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 12:29 도착 : 15:16 &#8211; 무궁화호 11,100원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>12:29</td>
+<td>도착 : 15:16 &#8211; 무궁화호</td>
+<td>11,100원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>광양 에서 삼랑진 가는 기차 시간표</title>
+		<link>/timetable/%ea%b4%91%ec%96%91-%ec%97%90%ec%84%9c-%ec%82%bc%eb%9e%91%ec%a7%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:45:31 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[광양]]></category>
+		<category><![CDATA[도착지-경상남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[삼랑진]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b4%91%ec%96%91-%ec%97%90%ec%84%9c-%ec%82%bc%eb%9e%91%ec%a7%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 06:33 도착 : 08:44 &#8211; 무궁화호 9,100원 09:27 도착 : 11:38 &#8211; 무궁화호 9,100원 13:02 도착 : 15:16 &#8211; 무궁화호 9,100원 17:54 도착 : 20:03 &#8211; 무궁화호 9,100원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>06:33</td>
+<td>도착 : 08:44 &#8211; 무궁화호</td>
+<td>9,100원</td>
+</tr>
+<tr>
+<td>09:27</td>
+<td>도착 : 11:38 &#8211; 무궁화호</td>
+<td>9,100원</td>
+</tr>
+<tr>
+<td>13:02</td>
+<td>도착 : 15:16 &#8211; 무궁화호</td>
+<td>9,100원</td>
+</tr>
+<tr>
+<td>17:54</td>
+<td>도착 : 20:03 &#8211; 무궁화호</td>
+<td>9,100원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>진상 에서 삼랑진 가는 기차 시간표</title>
+		<link>/timetable/%ec%a7%84%ec%83%81-%ec%97%90%ec%84%9c-%ec%82%bc%eb%9e%91%ec%a7%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:45:14 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[도착지-경상남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[삼랑진]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[진상]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%a7%84%ec%83%81-%ec%97%90%ec%84%9c-%ec%82%bc%eb%9e%91%ec%a7%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 06:43 도착 : 08:44 &#8211; 무궁화호 8,200원 09:37 도착 : 11:38 &#8211; 무궁화호 8,200원 13:12 도착 : 15:16 &#8211; 무궁화호 8,200원 18:04 도착 : 20:03 &#8211; 무궁화호 8,200원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>06:43</td>
+<td>도착 : 08:44 &#8211; 무궁화호</td>
+<td>8,200원</td>
+</tr>
+<tr>
+<td>09:37</td>
+<td>도착 : 11:38 &#8211; 무궁화호</td>
+<td>8,200원</td>
+</tr>
+<tr>
+<td>13:12</td>
+<td>도착 : 15:16 &#8211; 무궁화호</td>
+<td>8,200원</td>
+</tr>
+<tr>
+<td>18:04</td>
+<td>도착 : 20:03 &#8211; 무궁화호</td>
+<td>8,200원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>하동 에서 삼랑진 가는 기차 시간표</title>
+		<link>/timetable/%ed%95%98%eb%8f%99-%ec%97%90%ec%84%9c-%ec%82%bc%eb%9e%91%ec%a7%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:44:54 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[도착지-경상남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[삼랑진]]></category>
+		<category><![CDATA[출발지-경상남도]]></category>
+		<category><![CDATA[하동]]></category>
+		<guid isPermaLink="false">/timetable/%ed%95%98%eb%8f%99-%ec%97%90%ec%84%9c-%ec%82%bc%eb%9e%91%ec%a7%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 06:50 도착 : 08:44 &#8211; 무궁화호 7,800원 09:44 도착 : 11:38 &#8211; 무궁화호 7,800원 13:20 도착 : 15:16 &#8211; 무궁화호 7,800원 18:11 도착 : 20:03 &#8211; 무궁화호 7,800원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>06:50</td>
+<td>도착 : 08:44 &#8211; 무궁화호</td>
+<td>7,800원</td>
+</tr>
+<tr>
+<td>09:44</td>
+<td>도착 : 11:38 &#8211; 무궁화호</td>
+<td>7,800원</td>
+</tr>
+<tr>
+<td>13:20</td>
+<td>도착 : 15:16 &#8211; 무궁화호</td>
+<td>7,800원</td>
+</tr>
+<tr>
+<td>18:11</td>
+<td>도착 : 20:03 &#8211; 무궁화호</td>
+<td>7,800원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>횡천 에서 삼랑진 가는 기차 시간표</title>
+		<link>/timetable/%ed%9a%a1%ec%b2%9c-%ec%97%90%ec%84%9c-%ec%82%bc%eb%9e%91%ec%a7%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:44:36 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[도착지-경상남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[삼랑진]]></category>
+		<category><![CDATA[출발지-경상남도]]></category>
+		<category><![CDATA[횡천]]></category>
+		<guid isPermaLink="false">/timetable/%ed%9a%a1%ec%b2%9c-%ec%97%90%ec%84%9c-%ec%82%bc%eb%9e%91%ec%a7%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 06:56 도착 : 08:44 &#8211; 무궁화호 7,400원 09:50 도착 : 11:38 &#8211; 무궁화호 7,400원 13:26 도착 : 15:16 &#8211; 무궁화호 7,400원 18:17 도착 : 20:03 &#8211; 무궁화호 7,400원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>06:56</td>
+<td>도착 : 08:44 &#8211; 무궁화호</td>
+<td>7,400원</td>
+</tr>
+<tr>
+<td>09:50</td>
+<td>도착 : 11:38 &#8211; 무궁화호</td>
+<td>7,400원</td>
+</tr>
+<tr>
+<td>13:26</td>
+<td>도착 : 15:16 &#8211; 무궁화호</td>
+<td>7,400원</td>
+</tr>
+<tr>
+<td>18:17</td>
+<td>도착 : 20:03 &#8211; 무궁화호</td>
+<td>7,400원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>북천 에서 삼랑진 가는 기차 시간표</title>
+		<link>/timetable/%eb%b6%81%ec%b2%9c-%ec%97%90%ec%84%9c-%ec%82%bc%eb%9e%91%ec%a7%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:44:20 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[도착지-경상남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[북천]]></category>
+		<category><![CDATA[삼랑진]]></category>
+		<category><![CDATA[출발지-경상남도]]></category>
+		<guid isPermaLink="false">/timetable/%eb%b6%81%ec%b2%9c-%ec%97%90%ec%84%9c-%ec%82%bc%eb%9e%91%ec%a7%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:04 도착 : 08:44 &#8211; 무궁화호 6,900원 09:58 도착 : 11:38 &#8211; 무궁화호 6,900원 13:34 도착 : 15:16 &#8211; 무궁화호 6,900원 18:25 도착 : 20:03 &#8211; 무궁화호 6,900원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:04</td>
+<td>도착 : 08:44 &#8211; 무궁화호</td>
+<td>6,900원</td>
+</tr>
+<tr>
+<td>09:58</td>
+<td>도착 : 11:38 &#8211; 무궁화호</td>
+<td>6,900원</td>
+</tr>
+<tr>
+<td>13:34</td>
+<td>도착 : 15:16 &#8211; 무궁화호</td>
+<td>6,900원</td>
+</tr>
+<tr>
+<td>18:25</td>
+<td>도착 : 20:03 &#8211; 무궁화호</td>
+<td>6,900원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>완사 에서 삼랑진 가는 기차 시간표</title>
+		<link>/timetable/%ec%99%84%ec%82%ac-%ec%97%90%ec%84%9c-%ec%82%bc%eb%9e%91%ec%a7%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:44:05 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[도착지-경상남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[삼랑진]]></category>
+		<category><![CDATA[완사]]></category>
+		<category><![CDATA[출발지-경상남도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%99%84%ec%82%ac-%ec%97%90%ec%84%9c-%ec%82%bc%eb%9e%91%ec%a7%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:12 도착 : 08:44 &#8211; 무궁화호 6,300원 10:06 도착 : 11:38 &#8211; 무궁화호 6,300원 13:43 도착 : 15:16 &#8211; 무궁화호 6,300원 18:33 도착 : 20:03 &#8211; 무궁화호 6,300원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:12</td>
+<td>도착 : 08:44 &#8211; 무궁화호</td>
+<td>6,300원</td>
+</tr>
+<tr>
+<td>10:06</td>
+<td>도착 : 11:38 &#8211; 무궁화호</td>
+<td>6,300원</td>
+</tr>
+<tr>
+<td>13:43</td>
+<td>도착 : 15:16 &#8211; 무궁화호</td>
+<td>6,300원</td>
+</tr>
+<tr>
+<td>18:33</td>
+<td>도착 : 20:03 &#8211; 무궁화호</td>
+<td>6,300원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>진주 에서 삼랑진 가는 기차 시간표</title>
+		<link>/timetable/%ec%a7%84%ec%a3%bc-%ec%97%90%ec%84%9c-%ec%82%bc%eb%9e%91%ec%a7%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:43:43 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[도착지-경상남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[삼랑진]]></category>
+		<category><![CDATA[진주]]></category>
+		<category><![CDATA[출발지-경상남도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%a7%84%ec%a3%bc-%ec%97%90%ec%84%9c-%ec%82%bc%eb%9e%91%ec%a7%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:21 도착 : 08:44 &#8211; 무궁화호 5,400원 10:15 도착 : 11:38 &#8211; 무궁화호 5,400원 13:53 도착 : 15:16 &#8211; 무궁화호 5,400원 18:43 도착 : 20:03 &#8211; 무궁화호 5,400원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:21</td>
+<td>도착 : 08:44 &#8211; 무궁화호</td>
+<td>5,400원</td>
+</tr>
+<tr>
+<td>10:15</td>
+<td>도착 : 11:38 &#8211; 무궁화호</td>
+<td>5,400원</td>
+</tr>
+<tr>
+<td>13:53</td>
+<td>도착 : 15:16 &#8211; 무궁화호</td>
+<td>5,400원</td>
+</tr>
+<tr>
+<td>18:43</td>
+<td>도착 : 20:03 &#8211; 무궁화호</td>
+<td>5,400원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>반성 에서 삼랑진 가는 기차 시간표</title>
+		<link>/timetable/%eb%b0%98%ec%84%b1-%ec%97%90%ec%84%9c-%ec%82%bc%eb%9e%91%ec%a7%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:43:20 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[도착지-경상남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[반성]]></category>
+		<category><![CDATA[삼랑진]]></category>
+		<category><![CDATA[출발지-경상남도]]></category>
+		<guid isPermaLink="false">/timetable/%eb%b0%98%ec%84%b1-%ec%97%90%ec%84%9c-%ec%82%bc%eb%9e%91%ec%a7%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:32 도착 : 08:44 &#8211; 무궁화호 4,600원 10:26 도착 : 11:38 &#8211; 무궁화호 4,600원 14:04 도착 : 15:16 &#8211; 무궁화호 4,600원 18:53 도착 : 20:03 &#8211; 무궁화호 4,600원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:32</td>
+<td>도착 : 08:44 &#8211; 무궁화호</td>
+<td>4,600원</td>
+</tr>
+<tr>
+<td>10:26</td>
+<td>도착 : 11:38 &#8211; 무궁화호</td>
+<td>4,600원</td>
+</tr>
+<tr>
+<td>14:04</td>
+<td>도착 : 15:16 &#8211; 무궁화호</td>
+<td>4,600원</td>
+</tr>
+<tr>
+<td>18:53</td>
+<td>도착 : 20:03 &#8211; 무궁화호</td>
+<td>4,600원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>군북 에서 삼랑진 가는 기차 시간표</title>
+		<link>/timetable/%ea%b5%b0%eb%b6%81-%ec%97%90%ec%84%9c-%ec%82%bc%eb%9e%91%ec%a7%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:42:59 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[군북]]></category>
+		<category><![CDATA[도착지-경상남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[삼랑진]]></category>
+		<category><![CDATA[출발지-경상남도]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b5%b0%eb%b6%81-%ec%97%90%ec%84%9c-%ec%82%bc%eb%9e%91%ec%a7%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:42 도착 : 08:44 &#8211; 무궁화호 3,700원 10:36 도착 : 11:38 &#8211; 무궁화호 3,700원 14:14 도착 : 15:16 &#8211; 무궁화호 3,700원 19:03 도착 : 20:03 &#8211; 무궁화호 3,700원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:42</td>
+<td>도착 : 08:44 &#8211; 무궁화호</td>
+<td>3,700원</td>
+</tr>
+<tr>
+<td>10:36</td>
+<td>도착 : 11:38 &#8211; 무궁화호</td>
+<td>3,700원</td>
+</tr>
+<tr>
+<td>14:14</td>
+<td>도착 : 15:16 &#8211; 무궁화호</td>
+<td>3,700원</td>
+</tr>
+<tr>
+<td>19:03</td>
+<td>도착 : 20:03 &#8211; 무궁화호</td>
+<td>3,700원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

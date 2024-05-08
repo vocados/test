@@ -1,0 +1,1840 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>김천구미 &#8211; 기차 시간표</title>
+	<atom:link href="/tag/%EA%B9%80%EC%B2%9C%EA%B5%AC%EB%AF%B8/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Tue, 07 May 2024 22:50:20 +0000</lastBuildDate>
+	<language>ko-KR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/05/cropped-favicon-1-1-32x32.png</url>
+	<title>김천구미 &#8211; 기차 시간표</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>울산(통도사) 에서 김천구미 가는 기차 시간표</title>
+		<link>/timetable/%ec%9a%b8%ec%82%b0%ed%86%b5%eb%8f%84%ec%82%ac-%ec%97%90%ec%84%9c-%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:50:20 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[경상북도]]></category>
+		<category><![CDATA[김천구미]]></category>
+		<category><![CDATA[도착지-경상북도]]></category>
+		<category><![CDATA[울산(통도사)]]></category>
+		<category><![CDATA[울산광역시]]></category>
+		<category><![CDATA[출발지-울산광역시]]></category>
+		<guid isPermaLink="false">/timetable/%ec%9a%b8%ec%82%b0%ed%86%b5%eb%8f%84%ec%82%ac-%ec%97%90%ec%84%9c-%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 05:33 도착 : 06:19 &#8211; KTX 18,200원 06:33 도착 : 07:25 &#8211; KTX 18,200원 07:23 도착 : 08:09 &#8211; KTX 18,200원 08:28 도착 : 09:20 &#8211; KTX 18,200원 09:13 도착 : 10:00 &#8211; KTX 18,200원 11:23 도착 : 12:10 &#8211; KTX 18,200원 12:23 도착 : 13:10 &#8211; KTX 18,200원 14:23 도착 : ... <a title="울산(통도사) 에서 김천구미 가는 기차 시간표" class="read-more" href="/timetable/%ec%9a%b8%ec%82%b0%ed%86%b5%eb%8f%84%ec%82%ac-%ec%97%90%ec%84%9c-%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/" aria-label="Read more about 울산(통도사) 에서 김천구미 가는 기차 시간표">Read more</a>]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>05:33</td>
+<td>도착 : 06:19 &#8211; KTX</td>
+<td>18,200원</td>
+</tr>
+<tr>
+<td>06:33</td>
+<td>도착 : 07:25 &#8211; KTX</td>
+<td>18,200원</td>
+</tr>
+<tr>
+<td>07:23</td>
+<td>도착 : 08:09 &#8211; KTX</td>
+<td>18,200원</td>
+</tr>
+<tr>
+<td>08:28</td>
+<td>도착 : 09:20 &#8211; KTX</td>
+<td>18,200원</td>
+</tr>
+<tr>
+<td>09:13</td>
+<td>도착 : 10:00 &#8211; KTX</td>
+<td>18,200원</td>
+</tr>
+<tr>
+<td>11:23</td>
+<td>도착 : 12:10 &#8211; KTX</td>
+<td>18,200원</td>
+</tr>
+<tr>
+<td>12:23</td>
+<td>도착 : 13:10 &#8211; KTX</td>
+<td>18,200원</td>
+</tr>
+<tr>
+<td>14:23</td>
+<td>도착 : 15:09 &#8211; KTX</td>
+<td>18,200원</td>
+</tr>
+<tr>
+<td>14:54</td>
+<td>도착 : 15:46 &#8211; KTX</td>
+<td>18,200원</td>
+</tr>
+<tr>
+<td>16:39</td>
+<td>도착 : 17:31 &#8211; KTX</td>
+<td>18,200원</td>
+</tr>
+<tr>
+<td>16:52</td>
+<td>도착 : 17:38 &#8211; KTX</td>
+<td>18,200원</td>
+</tr>
+<tr>
+<td>18:23</td>
+<td>도착 : 19:10 &#8211; KTX</td>
+<td>18,200원</td>
+</tr>
+<tr>
+<td>18:56</td>
+<td>도착 : 19:49 &#8211; KTX</td>
+<td>18,200원</td>
+</tr>
+<tr>
+<td>21:23</td>
+<td>도착 : 22:09 &#8211; KTX</td>
+<td>18,200원</td>
+</tr>
+<tr>
+<td>21:52</td>
+<td>도착 : 22:44 &#8211; KTX</td>
+<td>18,200원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>신경주 에서 김천구미 가는 기차 시간표</title>
+		<link>/timetable/%ec%8b%a0%ea%b2%bd%ec%a3%bc-%ec%97%90%ec%84%9c-%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:50:15 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[경상북도]]></category>
+		<category><![CDATA[김천구미]]></category>
+		<category><![CDATA[도착지-경상북도]]></category>
+		<category><![CDATA[신경주]]></category>
+		<category><![CDATA[출발지-경상북도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%8b%a0%ea%b2%bd%ec%a3%bc-%ec%97%90%ec%84%9c-%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 06:45 도착 : 07:25 &#8211; KTX 13,800원 08:40 도착 : 09:20 &#8211; KTX 13,800원 15:06 도착 : 15:46 &#8211; KTX 13,800원 16:51 도착 : 17:31 &#8211; KTX 13,800원 19:08 도착 : 19:49 &#8211; KTX 13,800원 22:04 도착 : 22:44 &#8211; KTX 13,800원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>06:45</td>
+<td>도착 : 07:25 &#8211; KTX</td>
+<td>13,800원</td>
+</tr>
+<tr>
+<td>08:40</td>
+<td>도착 : 09:20 &#8211; KTX</td>
+<td>13,800원</td>
+</tr>
+<tr>
+<td>15:06</td>
+<td>도착 : 15:46 &#8211; KTX</td>
+<td>13,800원</td>
+</tr>
+<tr>
+<td>16:51</td>
+<td>도착 : 17:31 &#8211; KTX</td>
+<td>13,800원</td>
+</tr>
+<tr>
+<td>19:08</td>
+<td>도착 : 19:49 &#8211; KTX</td>
+<td>13,800원</td>
+</tr>
+<tr>
+<td>22:04</td>
+<td>도착 : 22:44 &#8211; KTX</td>
+<td>13,800원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>김천구미 에서 울산(통도사) 가는 기차 시간표</title>
+		<link>/timetable/%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ec%97%90%ec%84%9c-%ec%9a%b8%ec%82%b0%ed%86%b5%eb%8f%84%ec%82%ac-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:50:09 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[KTX-산천(A-type)]]></category>
+		<category><![CDATA[경상북도]]></category>
+		<category><![CDATA[김천구미]]></category>
+		<category><![CDATA[도착지-울산광역시]]></category>
+		<category><![CDATA[울산(통도사)]]></category>
+		<category><![CDATA[울산광역시]]></category>
+		<category><![CDATA[출발지-경상북도]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ec%97%90%ec%84%9c-%ec%9a%b8%ec%82%b0%ed%86%b5%eb%8f%84%ec%82%ac-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 06:58 도착 : 07:52 &#8211; KTX 18,200원 07:38 도착 : 08:25 &#8211; KTX-산천(A-type) 18,200원 08:04 도착 : 08:58 &#8211; KTX 18,200원 09:28 도착 : 10:22 &#8211; KTX 18,200원 10:59 도착 : 11:53 &#8211; KTX-산천(A-type) 18,200원 11:28 도착 : 12:22 &#8211; KTX 18,200원 12:03 도착 : 12:50 &#8211; KTX 18,200원 13:55 도착 : ... <a title="김천구미 에서 울산(통도사) 가는 기차 시간표" class="read-more" href="/timetable/%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ec%97%90%ec%84%9c-%ec%9a%b8%ec%82%b0%ed%86%b5%eb%8f%84%ec%82%ac-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/" aria-label="Read more about 김천구미 에서 울산(통도사) 가는 기차 시간표">Read more</a>]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>06:58</td>
+<td>도착 : 07:52 &#8211; KTX</td>
+<td>18,200원</td>
+</tr>
+<tr>
+<td>07:38</td>
+<td>도착 : 08:25 &#8211; KTX-산천(A-type)</td>
+<td>18,200원</td>
+</tr>
+<tr>
+<td>08:04</td>
+<td>도착 : 08:58 &#8211; KTX</td>
+<td>18,200원</td>
+</tr>
+<tr>
+<td>09:28</td>
+<td>도착 : 10:22 &#8211; KTX</td>
+<td>18,200원</td>
+</tr>
+<tr>
+<td>10:59</td>
+<td>도착 : 11:53 &#8211; KTX-산천(A-type)</td>
+<td>18,200원</td>
+</tr>
+<tr>
+<td>11:28</td>
+<td>도착 : 12:22 &#8211; KTX</td>
+<td>18,200원</td>
+</tr>
+<tr>
+<td>12:03</td>
+<td>도착 : 12:50 &#8211; KTX</td>
+<td>18,200원</td>
+</tr>
+<tr>
+<td>13:55</td>
+<td>도착 : 14:43 &#8211; KTX</td>
+<td>18,200원</td>
+</tr>
+<tr>
+<td>15:14</td>
+<td>도착 : 16:01 &#8211; KTX</td>
+<td>18,200원</td>
+</tr>
+<tr>
+<td>18:29</td>
+<td>도착 : 19:23 &#8211; KTX</td>
+<td>18,200원</td>
+</tr>
+<tr>
+<td>18:54</td>
+<td>도착 : 19:48 &#8211; KTX</td>
+<td>18,200원</td>
+</tr>
+<tr>
+<td>19:24</td>
+<td>도착 : 20:12 &#8211; KTX</td>
+<td>18,200원</td>
+</tr>
+<tr>
+<td>19:43</td>
+<td>도착 : 20:31 &#8211; KTX</td>
+<td>18,200원</td>
+</tr>
+<tr>
+<td>20:58</td>
+<td>도착 : 21:46 &#8211; KTX</td>
+<td>18,200원</td>
+</tr>
+<tr>
+<td>22:28</td>
+<td>도착 : 23:22 &#8211; KTX</td>
+<td>18,200원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>김천구미 에서 신경주 가는 기차 시간표</title>
+		<link>/timetable/%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ec%97%90%ec%84%9c-%ec%8b%a0%ea%b2%bd%ec%a3%bc-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:50:09 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[KTX-산천(A-type)]]></category>
+		<category><![CDATA[경상북도]]></category>
+		<category><![CDATA[김천구미]]></category>
+		<category><![CDATA[도착지-경상북도]]></category>
+		<category><![CDATA[신경주]]></category>
+		<category><![CDATA[출발지-경상북도]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ec%97%90%ec%84%9c-%ec%8b%a0%ea%b2%bd%ec%a3%bc-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 06:58 도착 : 07:40 &#8211; KTX 13,800원 08:04 도착 : 08:45 &#8211; KTX 13,800원 09:28 도착 : 10:10 &#8211; KTX 13,800원 10:59 도착 : 11:40 &#8211; KTX-산천(A-type) 13,800원 11:28 도착 : 12:10 &#8211; KTX 13,800원 17:21 도착 : 18:11 &#8211; KTX 13,400원 18:29 도착 : 19:11 &#8211; KTX 13,800원 18:54 도착 : ... <a title="김천구미 에서 신경주 가는 기차 시간표" class="read-more" href="/timetable/%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ec%97%90%ec%84%9c-%ec%8b%a0%ea%b2%bd%ec%a3%bc-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/" aria-label="Read more about 김천구미 에서 신경주 가는 기차 시간표">Read more</a>]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>06:58</td>
+<td>도착 : 07:40 &#8211; KTX</td>
+<td>13,800원</td>
+</tr>
+<tr>
+<td>08:04</td>
+<td>도착 : 08:45 &#8211; KTX</td>
+<td>13,800원</td>
+</tr>
+<tr>
+<td>09:28</td>
+<td>도착 : 10:10 &#8211; KTX</td>
+<td>13,800원</td>
+</tr>
+<tr>
+<td>10:59</td>
+<td>도착 : 11:40 &#8211; KTX-산천(A-type)</td>
+<td>13,800원</td>
+</tr>
+<tr>
+<td>11:28</td>
+<td>도착 : 12:10 &#8211; KTX</td>
+<td>13,800원</td>
+</tr>
+<tr>
+<td>17:21</td>
+<td>도착 : 18:11 &#8211; KTX</td>
+<td>13,400원</td>
+</tr>
+<tr>
+<td>18:29</td>
+<td>도착 : 19:11 &#8211; KTX</td>
+<td>13,800원</td>
+</tr>
+<tr>
+<td>18:54</td>
+<td>도착 : 19:35 &#8211; KTX</td>
+<td>13,800원</td>
+</tr>
+<tr>
+<td>22:28</td>
+<td>도착 : 23:09 &#8211; KTX</td>
+<td>13,800원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>김천구미 에서 천안아산 가는 기차 시간표</title>
+		<link>/timetable/%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ec%97%90%ec%84%9c-%ec%b2%9c%ec%95%88%ec%95%84%ec%82%b0-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:50:08 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[경상북도]]></category>
+		<category><![CDATA[김천구미]]></category>
+		<category><![CDATA[도착지-충청남도]]></category>
+		<category><![CDATA[천안아산]]></category>
+		<category><![CDATA[출발지-경상북도]]></category>
+		<category><![CDATA[충청남도]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ec%97%90%ec%84%9c-%ec%b2%9c%ec%95%88%ec%95%84%ec%82%b0-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 06:21 도착 : 07:08 &#8211; KTX 21,500원 07:03 도착 : 07:57 &#8211; KTX 21,500원 07:26 도착 : 08:20 &#8211; KTX 21,500원 07:56 도착 : 08:49 &#8211; KTX 21,500원 09:21 도착 : 10:08 &#8211; KTX 21,500원 13:12 도착 : 14:06 &#8211; KTX 21,500원 15:11 도착 : 16:05 &#8211; KTX 21,500원 18:28 도착 : ... <a title="김천구미 에서 천안아산 가는 기차 시간표" class="read-more" href="/timetable/%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ec%97%90%ec%84%9c-%ec%b2%9c%ec%95%88%ec%95%84%ec%82%b0-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/" aria-label="Read more about 김천구미 에서 천안아산 가는 기차 시간표">Read more</a>]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>06:21</td>
+<td>도착 : 07:08 &#8211; KTX</td>
+<td>21,500원</td>
+</tr>
+<tr>
+<td>07:03</td>
+<td>도착 : 07:57 &#8211; KTX</td>
+<td>21,500원</td>
+</tr>
+<tr>
+<td>07:26</td>
+<td>도착 : 08:20 &#8211; KTX</td>
+<td>21,500원</td>
+</tr>
+<tr>
+<td>07:56</td>
+<td>도착 : 08:49 &#8211; KTX</td>
+<td>21,500원</td>
+</tr>
+<tr>
+<td>09:21</td>
+<td>도착 : 10:08 &#8211; KTX</td>
+<td>21,500원</td>
+</tr>
+<tr>
+<td>13:12</td>
+<td>도착 : 14:06 &#8211; KTX</td>
+<td>21,500원</td>
+</tr>
+<tr>
+<td>15:11</td>
+<td>도착 : 16:05 &#8211; KTX</td>
+<td>21,500원</td>
+</tr>
+<tr>
+<td>18:28</td>
+<td>도착 : 19:15 &#8211; KTX</td>
+<td>21,500원</td>
+</tr>
+<tr>
+<td>19:12</td>
+<td>도착 : 20:06 &#8211; KTX</td>
+<td>21,500원</td>
+</tr>
+<tr>
+<td>20:22</td>
+<td>도착 : 21:15 &#8211; KTX</td>
+<td>21,500원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>김천구미 에서 광명 가는 기차 시간표</title>
+		<link>/timetable/%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ec%97%90%ec%84%9c-%ea%b4%91%eb%aa%85-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:50:08 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[KTX-산천(A-type)]]></category>
+		<category><![CDATA[경기도]]></category>
+		<category><![CDATA[경상북도]]></category>
+		<category><![CDATA[광명]]></category>
+		<category><![CDATA[김천구미]]></category>
+		<category><![CDATA[도착지-경기도]]></category>
+		<category><![CDATA[출발지-경상북도]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ec%97%90%ec%84%9c-%ea%b4%91%eb%aa%85-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 06:21 도착 : 07:33 &#8211; KTX 32,900원 07:03 도착 : 08:23 &#8211; KTX 32,900원 07:19 도착 : 08:34 &#8211; KTX-산천(A-type) 32,900원 07:19 도착 : 08:34 &#8211; KTX-산천(A-type) 32,900원 07:26 도착 : 08:45 &#8211; KTX 32,900원 07:56 도착 : 09:15 &#8211; KTX 32,900원 08:11 도착 : 09:24 &#8211; KTX 32,900원 08:20 도착 : ... <a title="김천구미 에서 광명 가는 기차 시간표" class="read-more" href="/timetable/%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ec%97%90%ec%84%9c-%ea%b4%91%eb%aa%85-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/" aria-label="Read more about 김천구미 에서 광명 가는 기차 시간표">Read more</a>]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>06:21</td>
+<td>도착 : 07:33 &#8211; KTX</td>
+<td>32,900원</td>
+</tr>
+<tr>
+<td>07:03</td>
+<td>도착 : 08:23 &#8211; KTX</td>
+<td>32,900원</td>
+</tr>
+<tr>
+<td>07:19</td>
+<td>도착 : 08:34 &#8211; KTX-산천(A-type)</td>
+<td>32,900원</td>
+</tr>
+<tr>
+<td>07:19</td>
+<td>도착 : 08:34 &#8211; KTX-산천(A-type)</td>
+<td>32,900원</td>
+</tr>
+<tr>
+<td>07:26</td>
+<td>도착 : 08:45 &#8211; KTX</td>
+<td>32,900원</td>
+</tr>
+<tr>
+<td>07:56</td>
+<td>도착 : 09:15 &#8211; KTX</td>
+<td>32,900원</td>
+</tr>
+<tr>
+<td>08:11</td>
+<td>도착 : 09:24 &#8211; KTX</td>
+<td>32,900원</td>
+</tr>
+<tr>
+<td>08:20</td>
+<td>도착 : 09:33 &#8211; KTX-산천(A-type)</td>
+<td>32,900원</td>
+</tr>
+<tr>
+<td>08:20</td>
+<td>도착 : 09:33 &#8211; KTX-산천(A-type)</td>
+<td>32,900원</td>
+</tr>
+<tr>
+<td>10:01</td>
+<td>도착 : 11:08 &#8211; KTX</td>
+<td>32,900원</td>
+</tr>
+<tr>
+<td>10:49</td>
+<td>도착 : 11:56 &#8211; KTX-산천(A-type)</td>
+<td>32,900원</td>
+</tr>
+<tr>
+<td>12:11</td>
+<td>도착 : 13:27 &#8211; KTX</td>
+<td>32,900원</td>
+</tr>
+<tr>
+<td>13:12</td>
+<td>도착 : 14:32 &#8211; KTX</td>
+<td>32,900원</td>
+</tr>
+<tr>
+<td>15:48</td>
+<td>도착 : 16:55 &#8211; KTX</td>
+<td>32,900원</td>
+</tr>
+<tr>
+<td>17:26</td>
+<td>도착 : 18:39 &#8211; KTX-산천(A-type)</td>
+<td>32,900원</td>
+</tr>
+<tr>
+<td>17:26</td>
+<td>도착 : 18:39 &#8211; KTX-산천(A-type)</td>
+<td>32,900원</td>
+</tr>
+<tr>
+<td>17:33</td>
+<td>도착 : 18:45 &#8211; KTX</td>
+<td>32,900원</td>
+</tr>
+<tr>
+<td>17:40</td>
+<td>도착 : 18:54 &#8211; KTX</td>
+<td>32,900원</td>
+</tr>
+<tr>
+<td>18:28</td>
+<td>도착 : 19:40 &#8211; KTX</td>
+<td>32,900원</td>
+</tr>
+<tr>
+<td>19:12</td>
+<td>도착 : 20:32 &#8211; KTX</td>
+<td>32,900원</td>
+</tr>
+<tr>
+<td>19:50</td>
+<td>도착 : 21:04 &#8211; KTX</td>
+<td>32,900원</td>
+</tr>
+<tr>
+<td>20:22</td>
+<td>도착 : 21:40 &#8211; KTX</td>
+<td>32,900원</td>
+</tr>
+<tr>
+<td>22:11</td>
+<td>도착 : 23:25 &#8211; KTX</td>
+<td>32,900원</td>
+</tr>
+<tr>
+<td>22:45</td>
+<td>도착 : 23:52 &#8211; KTX</td>
+<td>32,900원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>김천구미 에서 포항 가는 기차 시간표</title>
+		<link>/timetable/%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ec%97%90%ec%84%9c-%ed%8f%ac%ed%95%ad-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:50:08 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[KTX-산천(A-type)]]></category>
+		<category><![CDATA[경상북도]]></category>
+		<category><![CDATA[김천구미]]></category>
+		<category><![CDATA[도착지-경상북도]]></category>
+		<category><![CDATA[출발지-경상북도]]></category>
+		<category><![CDATA[포항]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ec%97%90%ec%84%9c-%ed%8f%ac%ed%95%ad-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 16:03 도착 : 17:03 &#8211; KTX 18,700원 19:03 도착 : 20:03 &#8211; KTX-산천(A-type) 18,700원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>16:03</td>
+<td>도착 : 17:03 &#8211; KTX</td>
+<td>18,700원</td>
+</tr>
+<tr>
+<td>19:03</td>
+<td>도착 : 20:03 &#8211; KTX-산천(A-type)</td>
+<td>18,700원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>김천구미 에서 진주 가는 기차 시간표</title>
+		<link>/timetable/%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ec%97%90%ec%84%9c-%ec%a7%84%ec%a3%bc-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:50:08 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[경상북도]]></category>
+		<category><![CDATA[김천구미]]></category>
+		<category><![CDATA[도착지-경상남도]]></category>
+		<category><![CDATA[진주]]></category>
+		<category><![CDATA[출발지-경상북도]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ec%97%90%ec%84%9c-%ec%a7%84%ec%a3%bc-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 11:38 도착 : 13:42 &#8211; KTX 23,700원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>11:38</td>
+<td>도착 : 13:42 &#8211; KTX</td>
+<td>23,700원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>김천구미 에서 마산 가는 기차 시간표</title>
+		<link>/timetable/%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ec%97%90%ec%84%9c-%eb%a7%88%ec%82%b0-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:50:07 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[KTX-산천(A-type)]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[경상북도]]></category>
+		<category><![CDATA[김천구미]]></category>
+		<category><![CDATA[도착지-경상남도]]></category>
+		<category><![CDATA[마산]]></category>
+		<category><![CDATA[출발지-경상북도]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ec%97%90%ec%84%9c-%eb%a7%88%ec%82%b0-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 10:34 도착 : 12:12 &#8211; KTX 18,800원 11:38 도착 : 13:16 &#8211; KTX 18,800원 19:03 도착 : 20:37 &#8211; KTX-산천(A-type) 18,800원 23:33 도착 : 01:07 &#8211; KTX-산천(A-type) 18,800원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>10:34</td>
+<td>도착 : 12:12 &#8211; KTX</td>
+<td>18,800원</td>
+</tr>
+<tr>
+<td>11:38</td>
+<td>도착 : 13:16 &#8211; KTX</td>
+<td>18,800원</td>
+</tr>
+<tr>
+<td>19:03</td>
+<td>도착 : 20:37 &#8211; KTX-산천(A-type)</td>
+<td>18,800원</td>
+</tr>
+<tr>
+<td>23:33</td>
+<td>도착 : 01:07 &#8211; KTX-산천(A-type)</td>
+<td>18,800원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>김천구미 에서 행신 가는 기차 시간표</title>
+		<link>/timetable/%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ec%97%90%ec%84%9c-%ed%96%89%ec%8b%a0-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:50:07 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[경기도]]></category>
+		<category><![CDATA[경상북도]]></category>
+		<category><![CDATA[김천구미]]></category>
+		<category><![CDATA[도착지-경기도]]></category>
+		<category><![CDATA[출발지-경상북도]]></category>
+		<category><![CDATA[행신]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ec%97%90%ec%84%9c-%ed%96%89%ec%8b%a0-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 15:11 도착 : 17:07 &#8211; KTX 36,400원 15:48 도착 : 17:37 &#8211; KTX 36,400원 22:11 도착 : 00:06 &#8211; KTX 36,400원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>15:11</td>
+<td>도착 : 17:07 &#8211; KTX</td>
+<td>36,400원</td>
+</tr>
+<tr>
+<td>15:48</td>
+<td>도착 : 17:37 &#8211; KTX</td>
+<td>36,400원</td>
+</tr>
+<tr>
+<td>22:11</td>
+<td>도착 : 00:06 &#8211; KTX</td>
+<td>36,400원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>김천구미 에서 진영 가는 기차 시간표</title>
+		<link>/timetable/%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ec%97%90%ec%84%9c-%ec%a7%84%ec%98%81-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:50:07 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[경상북도]]></category>
+		<category><![CDATA[김천구미]]></category>
+		<category><![CDATA[도착지-경상남도]]></category>
+		<category><![CDATA[진영]]></category>
+		<category><![CDATA[출발지-경상북도]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ec%97%90%ec%84%9c-%ec%a7%84%ec%98%81-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 10:34 도착 : 11:49 &#8211; KTX 15,900원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>10:34</td>
+<td>도착 : 11:49 &#8211; KTX</td>
+<td>15,900원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>김천구미 에서 창원중앙 가는 기차 시간표</title>
+		<link>/timetable/%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ec%97%90%ec%84%9c-%ec%b0%bd%ec%9b%90%ec%a4%91%ec%95%99-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:50:07 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[경상북도]]></category>
+		<category><![CDATA[김천구미]]></category>
+		<category><![CDATA[도착지-경상남도]]></category>
+		<category><![CDATA[창원중앙]]></category>
+		<category><![CDATA[출발지-경상북도]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ec%97%90%ec%84%9c-%ec%b0%bd%ec%9b%90%ec%a4%91%ec%95%99-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 11:38 도착 : 13:05 &#8211; KTX 17,300원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>11:38</td>
+<td>도착 : 13:05 &#8211; KTX</td>
+<td>17,300원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>김천구미 에서 창원 가는 기차 시간표</title>
+		<link>/timetable/%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ec%97%90%ec%84%9c-%ec%b0%bd%ec%9b%90-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:50:07 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[KTX-산천(A-type)]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[경상북도]]></category>
+		<category><![CDATA[김천구미]]></category>
+		<category><![CDATA[도착지-경상남도]]></category>
+		<category><![CDATA[창원]]></category>
+		<category><![CDATA[출발지-경상북도]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ec%97%90%ec%84%9c-%ec%b0%bd%ec%9b%90-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 10:34 도착 : 12:05 &#8211; KTX 18,400원 19:03 도착 : 20:30 &#8211; KTX-산천(A-type) 18,400원 23:33 도착 : 01:00 &#8211; KTX-산천(A-type) 18,400원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>10:34</td>
+<td>도착 : 12:05 &#8211; KTX</td>
+<td>18,400원</td>
+</tr>
+<tr>
+<td>19:03</td>
+<td>도착 : 20:30 &#8211; KTX-산천(A-type)</td>
+<td>18,400원</td>
+</tr>
+<tr>
+<td>23:33</td>
+<td>도착 : 01:00 &#8211; KTX-산천(A-type)</td>
+<td>18,400원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>김천구미 에서 오송 가는 기차 시간표</title>
+		<link>/timetable/%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ec%97%90%ec%84%9c-%ec%98%a4%ec%86%a1-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:50:06 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[KTX-산천(A-type)]]></category>
+		<category><![CDATA[경상북도]]></category>
+		<category><![CDATA[김천구미]]></category>
+		<category><![CDATA[도착지-충청북도]]></category>
+		<category><![CDATA[오송]]></category>
+		<category><![CDATA[출발지-경상북도]]></category>
+		<category><![CDATA[충청북도]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ec%97%90%ec%84%9c-%ec%98%a4%ec%86%a1-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:03 도착 : 07:44 &#8211; KTX 17,000원 07:26 도착 : 08:07 &#8211; KTX 17,000원 07:56 도착 : 08:36 &#8211; KTX 17,000원 08:11 도착 : 08:51 &#8211; KTX 17,000원 08:20 도착 : 09:00 &#8211; KTX-산천(A-type) 17,000원 08:20 도착 : 09:00 &#8211; KTX-산천(A-type) 17,000원 12:11 도착 : 12:53 &#8211; KTX 17,000원 13:12 도착 : ... <a title="김천구미 에서 오송 가는 기차 시간표" class="read-more" href="/timetable/%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ec%97%90%ec%84%9c-%ec%98%a4%ec%86%a1-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/" aria-label="Read more about 김천구미 에서 오송 가는 기차 시간표">Read more</a>]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:03</td>
+<td>도착 : 07:44 &#8211; KTX</td>
+<td>17,000원</td>
+</tr>
+<tr>
+<td>07:26</td>
+<td>도착 : 08:07 &#8211; KTX</td>
+<td>17,000원</td>
+</tr>
+<tr>
+<td>07:56</td>
+<td>도착 : 08:36 &#8211; KTX</td>
+<td>17,000원</td>
+</tr>
+<tr>
+<td>08:11</td>
+<td>도착 : 08:51 &#8211; KTX</td>
+<td>17,000원</td>
+</tr>
+<tr>
+<td>08:20</td>
+<td>도착 : 09:00 &#8211; KTX-산천(A-type)</td>
+<td>17,000원</td>
+</tr>
+<tr>
+<td>08:20</td>
+<td>도착 : 09:00 &#8211; KTX-산천(A-type)</td>
+<td>17,000원</td>
+</tr>
+<tr>
+<td>12:11</td>
+<td>도착 : 12:53 &#8211; KTX</td>
+<td>17,000원</td>
+</tr>
+<tr>
+<td>13:12</td>
+<td>도착 : 13:53 &#8211; KTX</td>
+<td>17,000원</td>
+</tr>
+<tr>
+<td>15:11</td>
+<td>도착 : 15:52 &#8211; KTX</td>
+<td>17,000원</td>
+</tr>
+<tr>
+<td>17:26</td>
+<td>도착 : 18:06 &#8211; KTX-산천(A-type)</td>
+<td>17,000원</td>
+</tr>
+<tr>
+<td>17:26</td>
+<td>도착 : 18:06 &#8211; KTX-산천(A-type)</td>
+<td>17,000원</td>
+</tr>
+<tr>
+<td>17:33</td>
+<td>도착 : 18:13 &#8211; KTX</td>
+<td>17,000원</td>
+</tr>
+<tr>
+<td>17:40</td>
+<td>도착 : 18:20 &#8211; KTX</td>
+<td>17,000원</td>
+</tr>
+<tr>
+<td>18:15</td>
+<td>도착 : 18:55 &#8211; KTX-산천(A-type)</td>
+<td>17,000원</td>
+</tr>
+<tr>
+<td>19:12</td>
+<td>도착 : 19:53 &#8211; KTX</td>
+<td>17,000원</td>
+</tr>
+<tr>
+<td>19:50</td>
+<td>도착 : 20:31 &#8211; KTX</td>
+<td>17,000원</td>
+</tr>
+<tr>
+<td>20:22</td>
+<td>도착 : 21:02 &#8211; KTX</td>
+<td>17,000원</td>
+</tr>
+<tr>
+<td>22:11</td>
+<td>도착 : 22:51 &#8211; KTX</td>
+<td>17,000원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>김천구미 에서 부산 가는 기차 시간표</title>
+		<link>/timetable/%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ec%97%90%ec%84%9c-%eb%b6%80%ec%82%b0-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:50:05 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[KTX-산천(A-type)]]></category>
+		<category><![CDATA[경상북도]]></category>
+		<category><![CDATA[김천구미]]></category>
+		<category><![CDATA[도착지-부산광역시]]></category>
+		<category><![CDATA[부산]]></category>
+		<category><![CDATA[부산광역시]]></category>
+		<category><![CDATA[출발지-경상북도]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ec%97%90%ec%84%9c-%eb%b6%80%ec%82%b0-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 06:58 도착 : 08:15 &#8211; KTX 24,900원 07:38 도착 : 08:48 &#8211; KTX-산천(A-type) 24,900원 08:04 도착 : 09:21 &#8211; KTX 24,900원 09:28 도착 : 10:45 &#8211; KTX 24,900원 10:59 도착 : 12:16 &#8211; KTX-산천(A-type) 24,900원 11:28 도착 : 12:45 &#8211; KTX 24,900원 12:03 도착 : 13:13 &#8211; KTX 24,900원 13:55 도착 : ... <a title="김천구미 에서 부산 가는 기차 시간표" class="read-more" href="/timetable/%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ec%97%90%ec%84%9c-%eb%b6%80%ec%82%b0-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/" aria-label="Read more about 김천구미 에서 부산 가는 기차 시간표">Read more</a>]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>06:58</td>
+<td>도착 : 08:15 &#8211; KTX</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>07:38</td>
+<td>도착 : 08:48 &#8211; KTX-산천(A-type)</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>08:04</td>
+<td>도착 : 09:21 &#8211; KTX</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>09:28</td>
+<td>도착 : 10:45 &#8211; KTX</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>10:59</td>
+<td>도착 : 12:16 &#8211; KTX-산천(A-type)</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>11:28</td>
+<td>도착 : 12:45 &#8211; KTX</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>12:03</td>
+<td>도착 : 13:13 &#8211; KTX</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>13:55</td>
+<td>도착 : 15:06 &#8211; KTX</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>14:38</td>
+<td>도착 : 16:27 &#8211; KTX</td>
+<td>19,100원</td>
+</tr>
+<tr>
+<td>15:14</td>
+<td>도착 : 16:24 &#8211; KTX</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>15:38</td>
+<td>도착 : 16:43 &#8211; KTX-산천(A-type)</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>17:21</td>
+<td>도착 : 18:41 &#8211; KTX</td>
+<td>24,500원</td>
+</tr>
+<tr>
+<td>18:29</td>
+<td>도착 : 19:46 &#8211; KTX</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>18:54</td>
+<td>도착 : 20:11 &#8211; KTX</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>19:24</td>
+<td>도착 : 20:35 &#8211; KTX</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>19:43</td>
+<td>도착 : 20:54 &#8211; KTX</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>20:16</td>
+<td>도착 : 22:05 &#8211; KTX</td>
+<td>19,100원</td>
+</tr>
+<tr>
+<td>20:58</td>
+<td>도착 : 22:09 &#8211; KTX</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>22:28</td>
+<td>도착 : 23:45 &#8211; KTX</td>
+<td>24,900원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>김천구미 에서 구포 가는 기차 시간표</title>
+		<link>/timetable/%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ec%97%90%ec%84%9c-%ea%b5%ac%ed%8f%ac-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:50:05 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[경상북도]]></category>
+		<category><![CDATA[구포]]></category>
+		<category><![CDATA[김천구미]]></category>
+		<category><![CDATA[도착지-부산광역시]]></category>
+		<category><![CDATA[부산광역시]]></category>
+		<category><![CDATA[출발지-경상북도]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ec%97%90%ec%84%9c-%ea%b5%ac%ed%8f%ac-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 14:38 도착 : 16:12 &#8211; KTX 17,400원 20:16 도착 : 21:50 &#8211; KTX 17,400원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>14:38</td>
+<td>도착 : 16:12 &#8211; KTX</td>
+<td>17,400원</td>
+</tr>
+<tr>
+<td>20:16</td>
+<td>도착 : 21:50 &#8211; KTX</td>
+<td>17,400원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>김천구미 에서 밀양 가는 기차 시간표</title>
+		<link>/timetable/%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ec%97%90%ec%84%9c-%eb%b0%80%ec%96%91-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:50:05 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[KTX-산천(A-type)]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[경상북도]]></category>
+		<category><![CDATA[김천구미]]></category>
+		<category><![CDATA[도착지-경상남도]]></category>
+		<category><![CDATA[밀양]]></category>
+		<category><![CDATA[출발지-경상북도]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ec%97%90%ec%84%9c-%eb%b0%80%ec%96%91-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 10:34 도착 : 11:30 &#8211; KTX 13,500원 11:38 도착 : 12:39 &#8211; KTX 13,500원 14:38 도착 : 15:42 &#8211; KTX 13,100원 20:16 도착 : 21:19 &#8211; KTX 13,100원 23:33 도착 : 00:29 &#8211; KTX-산천(A-type) 13,500원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>10:34</td>
+<td>도착 : 11:30 &#8211; KTX</td>
+<td>13,500원</td>
+</tr>
+<tr>
+<td>11:38</td>
+<td>도착 : 12:39 &#8211; KTX</td>
+<td>13,500원</td>
+</tr>
+<tr>
+<td>14:38</td>
+<td>도착 : 15:42 &#8211; KTX</td>
+<td>13,100원</td>
+</tr>
+<tr>
+<td>20:16</td>
+<td>도착 : 21:19 &#8211; KTX</td>
+<td>13,100원</td>
+</tr>
+<tr>
+<td>23:33</td>
+<td>도착 : 00:29 &#8211; KTX-산천(A-type)</td>
+<td>13,500원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>김천구미 에서 동대구 가는 기차 시간표</title>
+		<link>/timetable/%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ec%97%90%ec%84%9c-%eb%8f%99%eb%8c%80%ea%b5%ac-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:50:05 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[KTX-산천(A-type)]]></category>
+		<category><![CDATA[경상북도]]></category>
+		<category><![CDATA[김천구미]]></category>
+		<category><![CDATA[대구광역시]]></category>
+		<category><![CDATA[도착지-대구광역시]]></category>
+		<category><![CDATA[동대구]]></category>
+		<category><![CDATA[출발지-경상북도]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ec%97%90%ec%84%9c-%eb%8f%99%eb%8c%80%ea%b5%ac-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 06:58 도착 : 07:21 &#8211; KTX 8,400원 07:38 도착 : 08:00 &#8211; KTX-산천(A-type) 8,400원 08:04 도착 : 08:26 &#8211; KTX 8,400원 09:28 도착 : 09:51 &#8211; KTX 8,400원 10:34 도착 : 10:57 &#8211; KTX 8,400원 10:59 도착 : 11:21 &#8211; KTX-산천(A-type) 8,400원 11:28 도착 : 11:51 &#8211; KTX 8,400원 11:38 도착 : ... <a title="김천구미 에서 동대구 가는 기차 시간표" class="read-more" href="/timetable/%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ec%97%90%ec%84%9c-%eb%8f%99%eb%8c%80%ea%b5%ac-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/" aria-label="Read more about 김천구미 에서 동대구 가는 기차 시간표">Read more</a>]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>06:58</td>
+<td>도착 : 07:21 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>07:38</td>
+<td>도착 : 08:00 &#8211; KTX-산천(A-type)</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>08:04</td>
+<td>도착 : 08:26 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>09:28</td>
+<td>도착 : 09:51 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>10:34</td>
+<td>도착 : 10:57 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>10:59</td>
+<td>도착 : 11:21 &#8211; KTX-산천(A-type)</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>11:28</td>
+<td>도착 : 11:51 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>11:38</td>
+<td>도착 : 12:00 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>12:03</td>
+<td>도착 : 12:25 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>13:55</td>
+<td>도착 : 14:18 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>14:38</td>
+<td>도착 : 15:09 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>15:14</td>
+<td>도착 : 15:36 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>15:38</td>
+<td>도착 : 16:00 &#8211; KTX-산천(A-type)</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>16:03</td>
+<td>도착 : 16:26 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>17:21</td>
+<td>도착 : 17:51 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>18:29</td>
+<td>도착 : 18:52 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>18:54</td>
+<td>도착 : 19:16 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>19:03</td>
+<td>도착 : 19:26 &#8211; KTX-산천(A-type)</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>19:03</td>
+<td>도착 : 19:26 &#8211; KTX-산천(A-type)</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>19:24</td>
+<td>도착 : 19:46 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>19:43</td>
+<td>도착 : 20:06 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>20:16</td>
+<td>도착 : 20:46 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>20:58</td>
+<td>도착 : 21:21 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>22:28</td>
+<td>도착 : 22:50 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>23:33</td>
+<td>도착 : 23:55 &#8211; KTX-산천(A-type)</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>00:33</td>
+<td>도착 : 01:04 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>김천구미 에서 대전 가는 기차 시간표</title>
+		<link>/timetable/%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ec%97%90%ec%84%9c-%eb%8c%80%ec%a0%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:50:04 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[KTX-산천(A-type)]]></category>
+		<category><![CDATA[경상북도]]></category>
+		<category><![CDATA[김천구미]]></category>
+		<category><![CDATA[대전]]></category>
+		<category><![CDATA[대전광역시]]></category>
+		<category><![CDATA[도착지-대전광역시]]></category>
+		<category><![CDATA[출발지-경상북도]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ec%97%90%ec%84%9c-%eb%8c%80%ec%a0%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 06:21 도착 : 06:43 &#8211; KTX 11,900원 07:03 도착 : 07:25 &#8211; KTX 11,900원 07:19 도착 : 07:41 &#8211; KTX-산천(A-type) 11,900원 07:19 도착 : 07:41 &#8211; KTX-산천(A-type) 11,900원 07:26 도착 : 07:49 &#8211; KTX 11,900원 07:56 도착 : 08:18 &#8211; KTX 11,900원 08:11 도착 : 08:33 &#8211; KTX 11,900원 08:20 도착 : ... <a title="김천구미 에서 대전 가는 기차 시간표" class="read-more" href="/timetable/%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ec%97%90%ec%84%9c-%eb%8c%80%ec%a0%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/" aria-label="Read more about 김천구미 에서 대전 가는 기차 시간표">Read more</a>]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>06:21</td>
+<td>도착 : 06:43 &#8211; KTX</td>
+<td>11,900원</td>
+</tr>
+<tr>
+<td>07:03</td>
+<td>도착 : 07:25 &#8211; KTX</td>
+<td>11,900원</td>
+</tr>
+<tr>
+<td>07:19</td>
+<td>도착 : 07:41 &#8211; KTX-산천(A-type)</td>
+<td>11,900원</td>
+</tr>
+<tr>
+<td>07:19</td>
+<td>도착 : 07:41 &#8211; KTX-산천(A-type)</td>
+<td>11,900원</td>
+</tr>
+<tr>
+<td>07:26</td>
+<td>도착 : 07:49 &#8211; KTX</td>
+<td>11,900원</td>
+</tr>
+<tr>
+<td>07:56</td>
+<td>도착 : 08:18 &#8211; KTX</td>
+<td>11,900원</td>
+</tr>
+<tr>
+<td>08:11</td>
+<td>도착 : 08:33 &#8211; KTX</td>
+<td>11,900원</td>
+</tr>
+<tr>
+<td>08:20</td>
+<td>도착 : 08:42 &#8211; KTX-산천(A-type)</td>
+<td>11,900원</td>
+</tr>
+<tr>
+<td>08:20</td>
+<td>도착 : 08:42 &#8211; KTX-산천(A-type)</td>
+<td>11,900원</td>
+</tr>
+<tr>
+<td>09:21</td>
+<td>도착 : 09:44 &#8211; KTX</td>
+<td>11,900원</td>
+</tr>
+<tr>
+<td>10:01</td>
+<td>도착 : 10:24 &#8211; KTX</td>
+<td>11,900원</td>
+</tr>
+<tr>
+<td>10:49</td>
+<td>도착 : 11:12 &#8211; KTX-산천(A-type)</td>
+<td>11,900원</td>
+</tr>
+<tr>
+<td>12:11</td>
+<td>도착 : 12:34 &#8211; KTX</td>
+<td>11,900원</td>
+</tr>
+<tr>
+<td>13:12</td>
+<td>도착 : 13:34 &#8211; KTX</td>
+<td>11,900원</td>
+</tr>
+<tr>
+<td>15:11</td>
+<td>도착 : 15:33 &#8211; KTX</td>
+<td>11,900원</td>
+</tr>
+<tr>
+<td>15:48</td>
+<td>도착 : 16:10 &#8211; KTX</td>
+<td>11,900원</td>
+</tr>
+<tr>
+<td>16:08</td>
+<td>도착 : 16:30 &#8211; KTX</td>
+<td>11,900원</td>
+</tr>
+<tr>
+<td>17:26</td>
+<td>도착 : 17:48 &#8211; KTX-산천(A-type)</td>
+<td>11,900원</td>
+</tr>
+<tr>
+<td>17:26</td>
+<td>도착 : 17:48 &#8211; KTX-산천(A-type)</td>
+<td>11,900원</td>
+</tr>
+<tr>
+<td>17:33</td>
+<td>도착 : 17:55 &#8211; KTX</td>
+<td>11,900원</td>
+</tr>
+<tr>
+<td>17:40</td>
+<td>도착 : 18:02 &#8211; KTX</td>
+<td>11,900원</td>
+</tr>
+<tr>
+<td>18:15</td>
+<td>도착 : 18:37 &#8211; KTX-산천(A-type)</td>
+<td>11,900원</td>
+</tr>
+<tr>
+<td>18:28</td>
+<td>도착 : 18:50 &#8211; KTX</td>
+<td>11,900원</td>
+</tr>
+<tr>
+<td>19:12</td>
+<td>도착 : 19:34 &#8211; KTX</td>
+<td>11,900원</td>
+</tr>
+<tr>
+<td>19:50</td>
+<td>도착 : 20:13 &#8211; KTX</td>
+<td>11,900원</td>
+</tr>
+<tr>
+<td>20:22</td>
+<td>도착 : 20:44 &#8211; KTX</td>
+<td>11,900원</td>
+</tr>
+<tr>
+<td>22:11</td>
+<td>도착 : 22:33 &#8211; KTX</td>
+<td>11,900원</td>
+</tr>
+<tr>
+<td>22:45</td>
+<td>도착 : 23:08 &#8211; KTX</td>
+<td>11,900원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>김천구미 에서 서울 가는 기차 시간표</title>
+		<link>/timetable/%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ec%97%90%ec%84%9c-%ec%84%9c%ec%9a%b8-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:50:04 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[KTX-산천(A-type)]]></category>
+		<category><![CDATA[경상북도]]></category>
+		<category><![CDATA[김천구미]]></category>
+		<category><![CDATA[도착지-서울특별시]]></category>
+		<category><![CDATA[서울]]></category>
+		<category><![CDATA[서울특별시]]></category>
+		<category><![CDATA[출발지-경상북도]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ec%97%90%ec%84%9c-%ec%84%9c%ec%9a%b8-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 06:21 도착 : 07:53 &#8211; KTX 35,100원 07:03 도착 : 08:43 &#8211; KTX 35,100원 07:19 도착 : 08:53 &#8211; KTX-산천(A-type) 35,100원 07:19 도착 : 08:53 &#8211; KTX-산천(A-type) 35,100원 07:26 도착 : 09:05 &#8211; KTX 35,100원 07:56 도착 : 09:34 &#8211; KTX 35,100원 08:11 도착 : 09:43 &#8211; KTX 35,100원 08:20 도착 : ... <a title="김천구미 에서 서울 가는 기차 시간표" class="read-more" href="/timetable/%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ec%97%90%ec%84%9c-%ec%84%9c%ec%9a%b8-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/" aria-label="Read more about 김천구미 에서 서울 가는 기차 시간표">Read more</a>]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>06:21</td>
+<td>도착 : 07:53 &#8211; KTX</td>
+<td>35,100원</td>
+</tr>
+<tr>
+<td>07:03</td>
+<td>도착 : 08:43 &#8211; KTX</td>
+<td>35,100원</td>
+</tr>
+<tr>
+<td>07:19</td>
+<td>도착 : 08:53 &#8211; KTX-산천(A-type)</td>
+<td>35,100원</td>
+</tr>
+<tr>
+<td>07:19</td>
+<td>도착 : 08:53 &#8211; KTX-산천(A-type)</td>
+<td>35,100원</td>
+</tr>
+<tr>
+<td>07:26</td>
+<td>도착 : 09:05 &#8211; KTX</td>
+<td>35,100원</td>
+</tr>
+<tr>
+<td>07:56</td>
+<td>도착 : 09:34 &#8211; KTX</td>
+<td>35,100원</td>
+</tr>
+<tr>
+<td>08:11</td>
+<td>도착 : 09:43 &#8211; KTX</td>
+<td>35,100원</td>
+</tr>
+<tr>
+<td>08:20</td>
+<td>도착 : 09:52 &#8211; KTX-산천(A-type)</td>
+<td>35,100원</td>
+</tr>
+<tr>
+<td>08:20</td>
+<td>도착 : 09:52 &#8211; KTX-산천(A-type)</td>
+<td>35,100원</td>
+</tr>
+<tr>
+<td>09:21</td>
+<td>도착 : 10:48 &#8211; KTX</td>
+<td>35,100원</td>
+</tr>
+<tr>
+<td>10:01</td>
+<td>도착 : 11:28 &#8211; KTX</td>
+<td>35,100원</td>
+</tr>
+<tr>
+<td>10:49</td>
+<td>도착 : 12:15 &#8211; KTX-산천(A-type)</td>
+<td>35,100원</td>
+</tr>
+<tr>
+<td>12:11</td>
+<td>도착 : 13:47 &#8211; KTX</td>
+<td>35,100원</td>
+</tr>
+<tr>
+<td>13:12</td>
+<td>도착 : 14:51 &#8211; KTX</td>
+<td>35,100원</td>
+</tr>
+<tr>
+<td>15:11</td>
+<td>도착 : 16:45 &#8211; KTX</td>
+<td>35,100원</td>
+</tr>
+<tr>
+<td>15:48</td>
+<td>도착 : 17:14 &#8211; KTX</td>
+<td>35,100원</td>
+</tr>
+<tr>
+<td>16:08</td>
+<td>도착 : 17:28 &#8211; KTX</td>
+<td>35,100원</td>
+</tr>
+<tr>
+<td>17:26</td>
+<td>도착 : 18:58 &#8211; KTX-산천(A-type)</td>
+<td>35,100원</td>
+</tr>
+<tr>
+<td>17:26</td>
+<td>도착 : 18:58 &#8211; KTX-산천(A-type)</td>
+<td>35,100원</td>
+</tr>
+<tr>
+<td>17:33</td>
+<td>도착 : 19:04 &#8211; KTX</td>
+<td>35,100원</td>
+</tr>
+<tr>
+<td>17:40</td>
+<td>도착 : 19:14 &#8211; KTX</td>
+<td>35,100원</td>
+</tr>
+<tr>
+<td>18:15</td>
+<td>도착 : 19:48 &#8211; KTX-산천(A-type)</td>
+<td>35,100원</td>
+</tr>
+<tr>
+<td>18:28</td>
+<td>도착 : 20:00 &#8211; KTX</td>
+<td>35,100원</td>
+</tr>
+<tr>
+<td>19:12</td>
+<td>도착 : 20:52 &#8211; KTX</td>
+<td>35,100원</td>
+</tr>
+<tr>
+<td>19:50</td>
+<td>도착 : 21:24 &#8211; KTX</td>
+<td>35,100원</td>
+</tr>
+<tr>
+<td>20:22</td>
+<td>도착 : 21:59 &#8211; KTX</td>
+<td>35,100원</td>
+</tr>
+<tr>
+<td>22:11</td>
+<td>도착 : 23:44 &#8211; KTX</td>
+<td>35,100원</td>
+</tr>
+<tr>
+<td>22:45</td>
+<td>도착 : 00:11 &#8211; KTX</td>
+<td>35,100원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

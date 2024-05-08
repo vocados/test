@@ -1,0 +1,2953 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>부산 &#8211; 기차 시간표</title>
+	<atom:link href="/tag/%EB%B6%80%EC%82%B0/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Tue, 07 May 2024 22:50:16 +0000</lastBuildDate>
+	<language>ko-KR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/05/cropped-favicon-1-1-32x32.png</url>
+	<title>부산 &#8211; 기차 시간표</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>울산(통도사) 에서 부산 가는 기차 시간표</title>
+		<link>/timetable/%ec%9a%b8%ec%82%b0%ed%86%b5%eb%8f%84%ec%82%ac-%ec%97%90%ec%84%9c-%eb%b6%80%ec%82%b0-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:50:16 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[KTX-산천(A-type)]]></category>
+		<category><![CDATA[도착지-부산광역시]]></category>
+		<category><![CDATA[부산]]></category>
+		<category><![CDATA[부산광역시]]></category>
+		<category><![CDATA[울산(통도사)]]></category>
+		<category><![CDATA[울산광역시]]></category>
+		<category><![CDATA[출발지-울산광역시]]></category>
+		<guid isPermaLink="false">/timetable/%ec%9a%b8%ec%82%b0%ed%86%b5%eb%8f%84%ec%82%ac-%ec%97%90%ec%84%9c-%eb%b6%80%ec%82%b0-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:28 도착 : 07:49 &#8211; KTX 8,400원 07:54 도착 : 08:15 &#8211; KTX 8,400원 08:21 도착 : 08:42 &#8211; KTX 8,400원 08:27 도착 : 08:48 &#8211; KTX-산천(A-type) 8,400원 08:59 도착 : 09:21 &#8211; KTX 8,400원 09:17 도착 : 09:38 &#8211; KTX 8,400원 10:03 도착 : 10:25 &#8211; KTX 8,400원 10:24 도착 : ... <a title="울산(통도사) 에서 부산 가는 기차 시간표" class="read-more" href="/timetable/%ec%9a%b8%ec%82%b0%ed%86%b5%eb%8f%84%ec%82%ac-%ec%97%90%ec%84%9c-%eb%b6%80%ec%82%b0-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/" aria-label="Read more about 울산(통도사) 에서 부산 가는 기차 시간표">Read more</a>]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:28</td>
+<td>도착 : 07:49 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>07:54</td>
+<td>도착 : 08:15 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>08:21</td>
+<td>도착 : 08:42 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>08:27</td>
+<td>도착 : 08:48 &#8211; KTX-산천(A-type)</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>08:59</td>
+<td>도착 : 09:21 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>09:17</td>
+<td>도착 : 09:38 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>10:03</td>
+<td>도착 : 10:25 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>10:24</td>
+<td>도착 : 10:45 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>11:11</td>
+<td>도착 : 11:32 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>11:55</td>
+<td>도착 : 12:16 &#8211; KTX-산천(A-type)</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>12:24</td>
+<td>도착 : 12:45 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>12:52</td>
+<td>도착 : 13:13 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>13:13</td>
+<td>도착 : 13:34 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>13:19</td>
+<td>도착 : 13:41 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>14:19</td>
+<td>도착 : 14:41 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>14:45</td>
+<td>도착 : 15:06 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>15:37</td>
+<td>도착 : 15:58 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>16:03</td>
+<td>도착 : 16:24 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>16:50</td>
+<td>도착 : 17:11 &#8211; KTX-산천(A-type)</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>17:25</td>
+<td>도착 : 17:47 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>17:59</td>
+<td>도착 : 18:20 &#8211; KTX-산천(A-type)</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>18:37</td>
+<td>도착 : 18:58 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>18:59</td>
+<td>도착 : 19:20 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>19:25</td>
+<td>도착 : 19:46 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>19:50</td>
+<td>도착 : 20:11 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>20:14</td>
+<td>도착 : 20:35 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>20:33</td>
+<td>도착 : 20:54 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>20:51</td>
+<td>도착 : 21:13 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>21:17</td>
+<td>도착 : 21:38 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>21:48</td>
+<td>도착 : 22:09 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>22:16</td>
+<td>도착 : 22:37 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>22:38</td>
+<td>도착 : 23:00 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>23:23</td>
+<td>도착 : 23:45 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>23:42</td>
+<td>도착 : 00:04 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>00:21</td>
+<td>도착 : 00:42 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>00:42</td>
+<td>도착 : 01:03 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>신경주 에서 부산 가는 기차 시간표</title>
+		<link>/timetable/%ec%8b%a0%ea%b2%bd%ec%a3%bc-%ec%97%90%ec%84%9c-%eb%b6%80%ec%82%b0-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:50:13 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[KTX-산천(A-type)]]></category>
+		<category><![CDATA[경상북도]]></category>
+		<category><![CDATA[도착지-부산광역시]]></category>
+		<category><![CDATA[부산]]></category>
+		<category><![CDATA[부산광역시]]></category>
+		<category><![CDATA[신경주]]></category>
+		<category><![CDATA[출발지-경상북도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%8b%a0%ea%b2%bd%ec%a3%bc-%ec%97%90%ec%84%9c-%eb%b6%80%ec%82%b0-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:15 도착 : 07:49 &#8211; KTX 11,000원 07:41 도착 : 08:15 &#8211; KTX 11,000원 08:47 도착 : 09:21 &#8211; KTX 11,000원 09:51 도착 : 10:25 &#8211; KTX 11,000원 10:11 도착 : 10:45 &#8211; KTX 11,000원 10:58 도착 : 11:32 &#8211; KTX 11,000원 11:42 도착 : 12:16 &#8211; KTX-산천(A-type) 11,000원 12:11 도착 : ... <a title="신경주 에서 부산 가는 기차 시간표" class="read-more" href="/timetable/%ec%8b%a0%ea%b2%bd%ec%a3%bc-%ec%97%90%ec%84%9c-%eb%b6%80%ec%82%b0-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/" aria-label="Read more about 신경주 에서 부산 가는 기차 시간표">Read more</a>]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:15</td>
+<td>도착 : 07:49 &#8211; KTX</td>
+<td>11,000원</td>
+</tr>
+<tr>
+<td>07:41</td>
+<td>도착 : 08:15 &#8211; KTX</td>
+<td>11,000원</td>
+</tr>
+<tr>
+<td>08:47</td>
+<td>도착 : 09:21 &#8211; KTX</td>
+<td>11,000원</td>
+</tr>
+<tr>
+<td>09:51</td>
+<td>도착 : 10:25 &#8211; KTX</td>
+<td>11,000원</td>
+</tr>
+<tr>
+<td>10:11</td>
+<td>도착 : 10:45 &#8211; KTX</td>
+<td>11,000원</td>
+</tr>
+<tr>
+<td>10:58</td>
+<td>도착 : 11:32 &#8211; KTX</td>
+<td>11,000원</td>
+</tr>
+<tr>
+<td>11:42</td>
+<td>도착 : 12:16 &#8211; KTX-산천(A-type)</td>
+<td>11,000원</td>
+</tr>
+<tr>
+<td>12:11</td>
+<td>도착 : 12:45 &#8211; KTX</td>
+<td>11,000원</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>도착 : 13:34 &#8211; KTX</td>
+<td>11,000원</td>
+</tr>
+<tr>
+<td>13:07</td>
+<td>도착 : 13:41 &#8211; KTX</td>
+<td>11,000원</td>
+</tr>
+<tr>
+<td>14:07</td>
+<td>도착 : 14:41 &#8211; KTX</td>
+<td>11,000원</td>
+</tr>
+<tr>
+<td>16:06</td>
+<td>도착 : 16:34 &#8211; KTX</td>
+<td>11,000원</td>
+</tr>
+<tr>
+<td>16:37</td>
+<td>도착 : 17:11 &#8211; KTX-산천(A-type)</td>
+<td>11,000원</td>
+</tr>
+<tr>
+<td>16:54</td>
+<td>도착 : 17:22 &#8211; KTX</td>
+<td>11,000원</td>
+</tr>
+<tr>
+<td>17:12</td>
+<td>도착 : 17:47 &#8211; KTX</td>
+<td>11,000원</td>
+</tr>
+<tr>
+<td>18:13</td>
+<td>도착 : 18:41 &#8211; KTX</td>
+<td>11,000원</td>
+</tr>
+<tr>
+<td>19:12</td>
+<td>도착 : 19:46 &#8211; KTX</td>
+<td>11,000원</td>
+</tr>
+<tr>
+<td>19:37</td>
+<td>도착 : 20:11 &#8211; KTX</td>
+<td>11,000원</td>
+</tr>
+<tr>
+<td>20:39</td>
+<td>도착 : 21:13 &#8211; KTX</td>
+<td>11,000원</td>
+</tr>
+<tr>
+<td>21:45</td>
+<td>도착 : 22:13 &#8211; KTX</td>
+<td>11,000원</td>
+</tr>
+<tr>
+<td>23:11</td>
+<td>도착 : 23:45 &#8211; KTX</td>
+<td>11,000원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>김천구미 에서 부산 가는 기차 시간표</title>
+		<link>/timetable/%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ec%97%90%ec%84%9c-%eb%b6%80%ec%82%b0-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:50:05 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[KTX-산천(A-type)]]></category>
+		<category><![CDATA[경상북도]]></category>
+		<category><![CDATA[김천구미]]></category>
+		<category><![CDATA[도착지-부산광역시]]></category>
+		<category><![CDATA[부산]]></category>
+		<category><![CDATA[부산광역시]]></category>
+		<category><![CDATA[출발지-경상북도]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ec%97%90%ec%84%9c-%eb%b6%80%ec%82%b0-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 06:58 도착 : 08:15 &#8211; KTX 24,900원 07:38 도착 : 08:48 &#8211; KTX-산천(A-type) 24,900원 08:04 도착 : 09:21 &#8211; KTX 24,900원 09:28 도착 : 10:45 &#8211; KTX 24,900원 10:59 도착 : 12:16 &#8211; KTX-산천(A-type) 24,900원 11:28 도착 : 12:45 &#8211; KTX 24,900원 12:03 도착 : 13:13 &#8211; KTX 24,900원 13:55 도착 : ... <a title="김천구미 에서 부산 가는 기차 시간표" class="read-more" href="/timetable/%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ec%97%90%ec%84%9c-%eb%b6%80%ec%82%b0-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/" aria-label="Read more about 김천구미 에서 부산 가는 기차 시간표">Read more</a>]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>06:58</td>
+<td>도착 : 08:15 &#8211; KTX</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>07:38</td>
+<td>도착 : 08:48 &#8211; KTX-산천(A-type)</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>08:04</td>
+<td>도착 : 09:21 &#8211; KTX</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>09:28</td>
+<td>도착 : 10:45 &#8211; KTX</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>10:59</td>
+<td>도착 : 12:16 &#8211; KTX-산천(A-type)</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>11:28</td>
+<td>도착 : 12:45 &#8211; KTX</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>12:03</td>
+<td>도착 : 13:13 &#8211; KTX</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>13:55</td>
+<td>도착 : 15:06 &#8211; KTX</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>14:38</td>
+<td>도착 : 16:27 &#8211; KTX</td>
+<td>19,100원</td>
+</tr>
+<tr>
+<td>15:14</td>
+<td>도착 : 16:24 &#8211; KTX</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>15:38</td>
+<td>도착 : 16:43 &#8211; KTX-산천(A-type)</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>17:21</td>
+<td>도착 : 18:41 &#8211; KTX</td>
+<td>24,500원</td>
+</tr>
+<tr>
+<td>18:29</td>
+<td>도착 : 19:46 &#8211; KTX</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>18:54</td>
+<td>도착 : 20:11 &#8211; KTX</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>19:24</td>
+<td>도착 : 20:35 &#8211; KTX</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>19:43</td>
+<td>도착 : 20:54 &#8211; KTX</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>20:16</td>
+<td>도착 : 22:05 &#8211; KTX</td>
+<td>19,100원</td>
+</tr>
+<tr>
+<td>20:58</td>
+<td>도착 : 22:09 &#8211; KTX</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>22:28</td>
+<td>도착 : 23:45 &#8211; KTX</td>
+<td>24,900원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>천안아산 에서 부산 가는 기차 시간표</title>
+		<link>/timetable/%ec%b2%9c%ec%95%88%ec%95%84%ec%82%b0-%ec%97%90%ec%84%9c-%eb%b6%80%ec%82%b0-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:49:52 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[KTX-산천(A-type)]]></category>
+		<category><![CDATA[도착지-부산광역시]]></category>
+		<category><![CDATA[부산]]></category>
+		<category><![CDATA[부산광역시]]></category>
+		<category><![CDATA[천안아산]]></category>
+		<category><![CDATA[출발지-충청남도]]></category>
+		<category><![CDATA[충청남도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%b2%9c%ec%95%88%ec%95%84%ec%82%b0-%ec%97%90%ec%84%9c-%eb%b6%80%ec%82%b0-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 06:09 도착 : 08:15 &#8211; KTX 46,500원 06:39 도착 : 08:42 &#8211; KTX 46,100원 06:44 도착 : 08:48 &#8211; KTX-산천(A-type) 46,500원 07:39 도착 : 09:38 &#8211; KTX 46,500원 08:39 도착 : 10:45 &#8211; KTX 46,500원 10:14 도착 : 12:52 &#8211; KTX 38,400원 10:39 도착 : 12:45 &#8211; KTX 46,500원 11:09 도착 : ... <a title="천안아산 에서 부산 가는 기차 시간표" class="read-more" href="/timetable/%ec%b2%9c%ec%95%88%ec%95%84%ec%82%b0-%ec%97%90%ec%84%9c-%eb%b6%80%ec%82%b0-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/" aria-label="Read more about 천안아산 에서 부산 가는 기차 시간표">Read more</a>]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>06:09</td>
+<td>도착 : 08:15 &#8211; KTX</td>
+<td>46,500원</td>
+</tr>
+<tr>
+<td>06:39</td>
+<td>도착 : 08:42 &#8211; KTX</td>
+<td>46,100원</td>
+</tr>
+<tr>
+<td>06:44</td>
+<td>도착 : 08:48 &#8211; KTX-산천(A-type)</td>
+<td>46,500원</td>
+</tr>
+<tr>
+<td>07:39</td>
+<td>도착 : 09:38 &#8211; KTX</td>
+<td>46,500원</td>
+</tr>
+<tr>
+<td>08:39</td>
+<td>도착 : 10:45 &#8211; KTX</td>
+<td>46,500원</td>
+</tr>
+<tr>
+<td>10:14</td>
+<td>도착 : 12:52 &#8211; KTX</td>
+<td>38,400원</td>
+</tr>
+<tr>
+<td>10:39</td>
+<td>도착 : 12:45 &#8211; KTX</td>
+<td>46,500원</td>
+</tr>
+<tr>
+<td>11:09</td>
+<td>도착 : 13:13 &#8211; KTX</td>
+<td>46,500원</td>
+</tr>
+<tr>
+<td>11:39</td>
+<td>도착 : 13:41 &#8211; KTX</td>
+<td>46,500원</td>
+</tr>
+<tr>
+<td>12:39</td>
+<td>도착 : 14:41 &#8211; KTX</td>
+<td>46,500원</td>
+</tr>
+<tr>
+<td>13:06</td>
+<td>도착 : 15:06 &#8211; KTX</td>
+<td>46,500원</td>
+</tr>
+<tr>
+<td>13:49</td>
+<td>도착 : 16:27 &#8211; KTX</td>
+<td>38,400원</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>도착 : 15:58 &#8211; KTX</td>
+<td>46,500원</td>
+</tr>
+<tr>
+<td>14:35</td>
+<td>도착 : 16:34 &#8211; KTX</td>
+<td>46,500원</td>
+</tr>
+<tr>
+<td>15:09</td>
+<td>도착 : 17:11 &#8211; KTX-산천(A-type)</td>
+<td>46,500원</td>
+</tr>
+<tr>
+<td>15:23</td>
+<td>도착 : 17:22 &#8211; KTX</td>
+<td>46,500원</td>
+</tr>
+<tr>
+<td>15:39</td>
+<td>도착 : 17:47 &#8211; KTX</td>
+<td>46,500원</td>
+</tr>
+<tr>
+<td>17:04</td>
+<td>도착 : 18:58 &#8211; KTX</td>
+<td>46,500원</td>
+</tr>
+<tr>
+<td>18:05</td>
+<td>도착 : 20:11 &#8211; KTX</td>
+<td>46,500원</td>
+</tr>
+<tr>
+<td>18:34</td>
+<td>도착 : 20:35 &#8211; KTX</td>
+<td>46,500원</td>
+</tr>
+<tr>
+<td>19:06</td>
+<td>도착 : 21:13 &#8211; KTX</td>
+<td>46,500원</td>
+</tr>
+<tr>
+<td>19:22</td>
+<td>도착 : 22:05 &#8211; KTX</td>
+<td>38,400원</td>
+</tr>
+<tr>
+<td>19:39</td>
+<td>도착 : 21:38 &#8211; KTX</td>
+<td>46,500원</td>
+</tr>
+<tr>
+<td>20:39</td>
+<td>도착 : 22:37 &#8211; KTX</td>
+<td>46,500원</td>
+</tr>
+<tr>
+<td>20:55</td>
+<td>도착 : 22:41 &#8211; KTX-산천(A-type)</td>
+<td>46,500원</td>
+</tr>
+<tr>
+<td>20:55</td>
+<td>도착 : 22:41 &#8211; KTX-산천(A-type)</td>
+<td>46,500원</td>
+</tr>
+<tr>
+<td>21:30</td>
+<td>도착 : 00:02 &#8211; KTX</td>
+<td>38,400원</td>
+</tr>
+<tr>
+<td>21:39</td>
+<td>도착 : 23:45 &#8211; KTX</td>
+<td>46,500원</td>
+</tr>
+<tr>
+<td>22:19</td>
+<td>도착 : 00:47 &#8211; KTX</td>
+<td>38,400원</td>
+</tr>
+<tr>
+<td>22:39</td>
+<td>도착 : 00:42 &#8211; KTX</td>
+<td>46,100원</td>
+</tr>
+<tr>
+<td>23:09</td>
+<td>도착 : 01:03 &#8211; KTX</td>
+<td>46,500원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>광명 에서 부산 가는 기차 시간표</title>
+		<link>/timetable/%ea%b4%91%eb%aa%85-%ec%97%90%ec%84%9c-%eb%b6%80%ec%82%b0-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:49:36 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[KTX-산천(A-type)]]></category>
+		<category><![CDATA[경기도]]></category>
+		<category><![CDATA[광명]]></category>
+		<category><![CDATA[도착지-부산광역시]]></category>
+		<category><![CDATA[부산]]></category>
+		<category><![CDATA[부산광역시]]></category>
+		<category><![CDATA[출발지-경기도]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b4%91%eb%aa%85-%ec%97%90%ec%84%9c-%eb%b6%80%ec%82%b0-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 05:32 도착 : 07:49 &#8211; KTX 57,700원 05:47 도착 : 08:15 &#8211; KTX 57,700원 06:17 도착 : 08:42 &#8211; KTX 57,300원 06:22 도착 : 08:48 &#8211; KTX-산천(A-type) 57,700원 06:52 도착 : 09:21 &#8211; KTX 57,700원 07:16 도착 : 09:38 &#8211; KTX 57,700원 07:47 도착 : 09:59 &#8211; KTX 57,700원 08:09 도착 : ... <a title="광명 에서 부산 가는 기차 시간표" class="read-more" href="/timetable/%ea%b4%91%eb%aa%85-%ec%97%90%ec%84%9c-%eb%b6%80%ec%82%b0-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/" aria-label="Read more about 광명 에서 부산 가는 기차 시간표">Read more</a>]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>05:32</td>
+<td>도착 : 07:49 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>05:47</td>
+<td>도착 : 08:15 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>06:17</td>
+<td>도착 : 08:42 &#8211; KTX</td>
+<td>57,300원</td>
+</tr>
+<tr>
+<td>06:22</td>
+<td>도착 : 08:48 &#8211; KTX-산천(A-type)</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>06:52</td>
+<td>도착 : 09:21 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>07:16</td>
+<td>도착 : 09:38 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>07:47</td>
+<td>도착 : 09:59 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>08:09</td>
+<td>도착 : 10:25 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>08:17</td>
+<td>도착 : 10:45 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>08:54</td>
+<td>도착 : 11:03 &#8211; KTX-산천(A-type)</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>09:47</td>
+<td>도착 : 12:16 &#8211; KTX-산천(A-type)</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>09:52</td>
+<td>도착 : 12:52 &#8211; KTX</td>
+<td>51,400원</td>
+</tr>
+<tr>
+<td>10:17</td>
+<td>도착 : 12:45 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>10:47</td>
+<td>도착 : 13:13 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>11:17</td>
+<td>도착 : 13:41 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>12:17</td>
+<td>도착 : 14:41 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>12:44</td>
+<td>도착 : 15:06 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>13:27</td>
+<td>도착 : 16:27 &#8211; KTX</td>
+<td>51,400원</td>
+</tr>
+<tr>
+<td>13:37</td>
+<td>도착 : 15:58 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>14:08</td>
+<td>도착 : 16:24 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>14:34</td>
+<td>도착 : 16:43 &#8211; KTX-산천(A-type)</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>14:38</td>
+<td>도착 : 16:49 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>14:47</td>
+<td>도착 : 17:11 &#8211; KTX-산천(A-type)</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>15:01</td>
+<td>도착 : 17:22 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>15:17</td>
+<td>도착 : 17:47 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>16:17</td>
+<td>도착 : 18:41 &#8211; KTX</td>
+<td>57,300원</td>
+</tr>
+<tr>
+<td>17:18</td>
+<td>도착 : 19:46 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>17:32</td>
+<td>도착 : 20:15 &#8211; KTX</td>
+<td>51,800원</td>
+</tr>
+<tr>
+<td>17:42</td>
+<td>도착 : 20:11 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>18:32</td>
+<td>도착 : 20:54 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>18:43</td>
+<td>도착 : 21:13 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>19:00</td>
+<td>도착 : 22:05 &#8211; KTX</td>
+<td>51,400원</td>
+</tr>
+<tr>
+<td>19:17</td>
+<td>도착 : 21:38 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>20:17</td>
+<td>도착 : 22:37 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>20:32</td>
+<td>도착 : 22:41 &#8211; KTX-산천(A-type)</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>20:32</td>
+<td>도착 : 22:41 &#8211; KTX-산천(A-type)</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>21:08</td>
+<td>도착 : 00:02 &#8211; KTX</td>
+<td>51,400원</td>
+</tr>
+<tr>
+<td>21:16</td>
+<td>도착 : 23:45 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>21:47</td>
+<td>도착 : 00:04 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>21:57</td>
+<td>도착 : 00:47 &#8211; KTX</td>
+<td>51,400원</td>
+</tr>
+<tr>
+<td>22:17</td>
+<td>도착 : 00:42 &#8211; KTX</td>
+<td>57,300원</td>
+</tr>
+<tr>
+<td>22:47</td>
+<td>도착 : 01:03 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>행신 에서 부산 가는 기차 시간표</title>
+		<link>/timetable/%ed%96%89%ec%8b%a0-%ec%97%90%ec%84%9c-%eb%b6%80%ec%82%b0-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:32:46 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[경기도]]></category>
+		<category><![CDATA[도착지-부산광역시]]></category>
+		<category><![CDATA[부산]]></category>
+		<category><![CDATA[부산광역시]]></category>
+		<category><![CDATA[출발지-경기도]]></category>
+		<category><![CDATA[행신]]></category>
+		<guid isPermaLink="false">/timetable/%ed%96%89%ec%8b%a0-%ec%97%90%ec%84%9c-%eb%b6%80%ec%82%b0-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 06:11 도착 : 09:21 &#8211; KTX 61,100원 07:05 도착 : 09:59 &#8211; KTX 61,100원 13:27 도착 : 16:24 &#8211; KTX 61,100원 14:36 도착 : 17:47 &#8211; KTX 61,100원 16:51 도착 : 20:15 &#8211; KTX 55,200원 18:03 도착 : 21:13 &#8211; KTX 61,100원 19:36 도착 : 22:37 &#8211; KTX 61,100원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>06:11</td>
+<td>도착 : 09:21 &#8211; KTX</td>
+<td>61,100원</td>
+</tr>
+<tr>
+<td>07:05</td>
+<td>도착 : 09:59 &#8211; KTX</td>
+<td>61,100원</td>
+</tr>
+<tr>
+<td>13:27</td>
+<td>도착 : 16:24 &#8211; KTX</td>
+<td>61,100원</td>
+</tr>
+<tr>
+<td>14:36</td>
+<td>도착 : 17:47 &#8211; KTX</td>
+<td>61,100원</td>
+</tr>
+<tr>
+<td>16:51</td>
+<td>도착 : 20:15 &#8211; KTX</td>
+<td>55,200원</td>
+</tr>
+<tr>
+<td>18:03</td>
+<td>도착 : 21:13 &#8211; KTX</td>
+<td>61,100원</td>
+</tr>
+<tr>
+<td>19:36</td>
+<td>도착 : 22:37 &#8211; KTX</td>
+<td>61,100원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>오송 에서 부산 가는 기차 시간표</title>
+		<link>/timetable/%ec%98%a4%ec%86%a1-%ec%97%90%ec%84%9c-%eb%b6%80%ec%82%b0-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:29:17 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[KTX-산천(A-type)]]></category>
+		<category><![CDATA[도착지-부산광역시]]></category>
+		<category><![CDATA[부산]]></category>
+		<category><![CDATA[부산광역시]]></category>
+		<category><![CDATA[오송]]></category>
+		<category><![CDATA[출발지-충청북도]]></category>
+		<category><![CDATA[충청북도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%98%a4%ec%86%a1-%ec%97%90%ec%84%9c-%eb%b6%80%ec%82%b0-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 06:57 도착 : 08:48 &#8211; KTX-산천(A-type) 42,200원 07:21 도착 : 09:21 &#8211; KTX 42,200원 07:52 도착 : 09:38 &#8211; KTX 42,200원 08:15 도착 : 09:59 &#8211; KTX 42,200원 10:16 도착 : 12:16 &#8211; KTX-산천(A-type) 42,200원 10:27 도착 : 12:52 &#8211; KTX 34,500원 11:22 도착 : 13:13 &#8211; KTX 42,200원 14:12 도착 : ... <a title="오송 에서 부산 가는 기차 시간표" class="read-more" href="/timetable/%ec%98%a4%ec%86%a1-%ec%97%90%ec%84%9c-%eb%b6%80%ec%82%b0-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/" aria-label="Read more about 오송 에서 부산 가는 기차 시간표">Read more</a>]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>06:57</td>
+<td>도착 : 08:48 &#8211; KTX-산천(A-type)</td>
+<td>42,200원</td>
+</tr>
+<tr>
+<td>07:21</td>
+<td>도착 : 09:21 &#8211; KTX</td>
+<td>42,200원</td>
+</tr>
+<tr>
+<td>07:52</td>
+<td>도착 : 09:38 &#8211; KTX</td>
+<td>42,200원</td>
+</tr>
+<tr>
+<td>08:15</td>
+<td>도착 : 09:59 &#8211; KTX</td>
+<td>42,200원</td>
+</tr>
+<tr>
+<td>10:16</td>
+<td>도착 : 12:16 &#8211; KTX-산천(A-type)</td>
+<td>42,200원</td>
+</tr>
+<tr>
+<td>10:27</td>
+<td>도착 : 12:52 &#8211; KTX</td>
+<td>34,500원</td>
+</tr>
+<tr>
+<td>11:22</td>
+<td>도착 : 13:13 &#8211; KTX</td>
+<td>42,200원</td>
+</tr>
+<tr>
+<td>14:12</td>
+<td>도착 : 15:58 &#8211; KTX</td>
+<td>42,200원</td>
+</tr>
+<tr>
+<td>14:48</td>
+<td>도착 : 16:34 &#8211; KTX</td>
+<td>42,200원</td>
+</tr>
+<tr>
+<td>15:06</td>
+<td>도착 : 16:49 &#8211; KTX</td>
+<td>42,200원</td>
+</tr>
+<tr>
+<td>15:36</td>
+<td>도착 : 17:22 &#8211; KTX</td>
+<td>42,200원</td>
+</tr>
+<tr>
+<td>15:52</td>
+<td>도착 : 17:47 &#8211; KTX</td>
+<td>42,200원</td>
+</tr>
+<tr>
+<td>17:46</td>
+<td>도착 : 19:46 &#8211; KTX</td>
+<td>42,200원</td>
+</tr>
+<tr>
+<td>19:00</td>
+<td>도착 : 20:54 &#8211; KTX</td>
+<td>42,200원</td>
+</tr>
+<tr>
+<td>19:18</td>
+<td>도착 : 21:13 &#8211; KTX</td>
+<td>42,200원</td>
+</tr>
+<tr>
+<td>19:35</td>
+<td>도착 : 22:05 &#8211; KTX</td>
+<td>34,500원</td>
+</tr>
+<tr>
+<td>19:52</td>
+<td>도착 : 21:38 &#8211; KTX</td>
+<td>42,200원</td>
+</tr>
+<tr>
+<td>20:17</td>
+<td>도착 : 22:09 &#8211; KTX</td>
+<td>42,200원</td>
+</tr>
+<tr>
+<td>20:52</td>
+<td>도착 : 22:37 &#8211; KTX</td>
+<td>42,200원</td>
+</tr>
+<tr>
+<td>22:16</td>
+<td>도착 : 00:04 &#8211; KTX</td>
+<td>42,200원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>부산 에서 김천구미 가는 기차 시간표</title>
+		<link>/timetable/%eb%b6%80%ec%82%b0-%ec%97%90%ec%84%9c-%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:16:22 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[KTX-산천(A-type)]]></category>
+		<category><![CDATA[경상북도]]></category>
+		<category><![CDATA[김천구미]]></category>
+		<category><![CDATA[도착지-경상북도]]></category>
+		<category><![CDATA[부산]]></category>
+		<category><![CDATA[부산광역시]]></category>
+		<category><![CDATA[출발지-부산광역시]]></category>
+		<guid isPermaLink="false">/timetable/%eb%b6%80%ec%82%b0-%ec%97%90%ec%84%9c-%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 05:10 도착 : 06:19 &#8211; KTX 24,900원 06:01 도착 : 07:17 &#8211; KTX-산천(A-type) 24,900원 06:01 도착 : 07:17 &#8211; KTX-산천(A-type) 24,900원 06:10 도착 : 07:25 &#8211; KTX 24,900원 06:11 도착 : 07:54 &#8211; KTX 19,500원 07:00 도착 : 08:09 &#8211; KTX 24,900원 08:05 도착 : 09:20 &#8211; KTX 24,900원 08:50 도착 : ... <a title="부산 에서 김천구미 가는 기차 시간표" class="read-more" href="/timetable/%eb%b6%80%ec%82%b0-%ec%97%90%ec%84%9c-%ea%b9%80%ec%b2%9c%ea%b5%ac%eb%af%b8-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/" aria-label="Read more about 부산 에서 김천구미 가는 기차 시간표">Read more</a>]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>05:10</td>
+<td>도착 : 06:19 &#8211; KTX</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>06:01</td>
+<td>도착 : 07:17 &#8211; KTX-산천(A-type)</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>06:01</td>
+<td>도착 : 07:17 &#8211; KTX-산천(A-type)</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>06:10</td>
+<td>도착 : 07:25 &#8211; KTX</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>06:11</td>
+<td>도착 : 07:54 &#8211; KTX</td>
+<td>19,500원</td>
+</tr>
+<tr>
+<td>07:00</td>
+<td>도착 : 08:09 &#8211; KTX</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>08:05</td>
+<td>도착 : 09:20 &#8211; KTX</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>08:50</td>
+<td>도착 : 10:00 &#8211; KTX</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>09:38</td>
+<td>도착 : 10:48 &#8211; KTX-산천(A-type)</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>11:00</td>
+<td>도착 : 12:10 &#8211; KTX</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>12:00</td>
+<td>도착 : 13:10 &#8211; KTX</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>도착 : 15:09 &#8211; KTX</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>14:31</td>
+<td>도착 : 15:46 &#8211; KTX</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>14:55</td>
+<td>도착 : 16:06 &#8211; KTX</td>
+<td>24,500원</td>
+</tr>
+<tr>
+<td>16:16</td>
+<td>도착 : 17:31 &#8211; KTX</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>16:29</td>
+<td>도착 : 17:38 &#8211; KTX</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>17:11</td>
+<td>도착 : 18:13 &#8211; KTX-산천(A-type)</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>18:00</td>
+<td>도착 : 19:10 &#8211; KTX</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>18:33</td>
+<td>도착 : 19:49 &#8211; KTX</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>19:18</td>
+<td>도착 : 20:20 &#8211; KTX</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>21:00</td>
+<td>도착 : 22:09 &#8211; KTX</td>
+<td>24,900원</td>
+</tr>
+<tr>
+<td>21:29</td>
+<td>도착 : 22:44 &#8211; KTX</td>
+<td>24,900원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>부산 에서 천안아산 가는 기차 시간표</title>
+		<link>/timetable/%eb%b6%80%ec%82%b0-%ec%97%90%ec%84%9c-%ec%b2%9c%ec%95%88%ec%95%84%ec%82%b0-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:16:22 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[KTX-산천(A-type)]]></category>
+		<category><![CDATA[도착지-충청남도]]></category>
+		<category><![CDATA[부산]]></category>
+		<category><![CDATA[부산광역시]]></category>
+		<category><![CDATA[천안아산]]></category>
+		<category><![CDATA[출발지-부산광역시]]></category>
+		<category><![CDATA[충청남도]]></category>
+		<guid isPermaLink="false">/timetable/%eb%b6%80%ec%82%b0-%ec%97%90%ec%84%9c-%ec%b2%9c%ec%95%88%ec%95%84%ec%82%b0-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 05:10 도착 : 07:08 &#8211; KTX 46,500원 05:40 도착 : 07:39 &#8211; KTX 46,500원 06:01 도착 : 08:08 &#8211; KTX-산천(A-type) 46,500원 06:01 도착 : 08:08 &#8211; KTX-산천(A-type) 46,500원 06:10 도착 : 08:20 &#8211; KTX 46,500원 06:11 도착 : 08:49 &#8211; KTX 38,800원 07:23 도착 : 09:31 &#8211; KTX 46,100원 08:05 도착 : ... <a title="부산 에서 천안아산 가는 기차 시간표" class="read-more" href="/timetable/%eb%b6%80%ec%82%b0-%ec%97%90%ec%84%9c-%ec%b2%9c%ec%95%88%ec%95%84%ec%82%b0-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/" aria-label="Read more about 부산 에서 천안아산 가는 기차 시간표">Read more</a>]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>05:10</td>
+<td>도착 : 07:08 &#8211; KTX</td>
+<td>46,500원</td>
+</tr>
+<tr>
+<td>05:40</td>
+<td>도착 : 07:39 &#8211; KTX</td>
+<td>46,500원</td>
+</tr>
+<tr>
+<td>06:01</td>
+<td>도착 : 08:08 &#8211; KTX-산천(A-type)</td>
+<td>46,500원</td>
+</tr>
+<tr>
+<td>06:01</td>
+<td>도착 : 08:08 &#8211; KTX-산천(A-type)</td>
+<td>46,500원</td>
+</tr>
+<tr>
+<td>06:10</td>
+<td>도착 : 08:20 &#8211; KTX</td>
+<td>46,500원</td>
+</tr>
+<tr>
+<td>06:11</td>
+<td>도착 : 08:49 &#8211; KTX</td>
+<td>38,800원</td>
+</tr>
+<tr>
+<td>07:23</td>
+<td>도착 : 09:31 &#8211; KTX</td>
+<td>46,100원</td>
+</tr>
+<tr>
+<td>08:05</td>
+<td>도착 : 10:08 &#8211; KTX</td>
+<td>46,500원</td>
+</tr>
+<tr>
+<td>09:06</td>
+<td>도착 : 11:05 &#8211; KTX</td>
+<td>46,500원</td>
+</tr>
+<tr>
+<td>09:50</td>
+<td>도착 : 11:48 &#8211; KTX</td>
+<td>46,500원</td>
+</tr>
+<tr>
+<td>12:00</td>
+<td>도착 : 14:06 &#8211; KTX</td>
+<td>46,500원</td>
+</tr>
+<tr>
+<td>13:04</td>
+<td>도착 : 15:09 &#8211; KTX</td>
+<td>46,500원</td>
+</tr>
+<tr>
+<td>13:23</td>
+<td>도착 : 15:56 &#8211; KTX-산천(A-type)</td>
+<td>38,800원</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>도착 : 16:05 &#8211; KTX</td>
+<td>46,500원</td>
+</tr>
+<tr>
+<td>15:26</td>
+<td>도착 : 18:00 &#8211; KTX</td>
+<td>38,400원</td>
+</tr>
+<tr>
+<td>15:45</td>
+<td>도착 : 17:37 &#8211; KTX</td>
+<td>46,500원</td>
+</tr>
+<tr>
+<td>16:56</td>
+<td>도착 : 18:48 &#8211; KTX</td>
+<td>46,500원</td>
+</tr>
+<tr>
+<td>17:00</td>
+<td>도착 : 18:59 &#8211; KTX</td>
+<td>46,500원</td>
+</tr>
+<tr>
+<td>17:11</td>
+<td>도착 : 19:08 &#8211; KTX-산천(A-type)</td>
+<td>46,500원</td>
+</tr>
+<tr>
+<td>18:00</td>
+<td>도착 : 20:06 &#8211; KTX</td>
+<td>46,500원</td>
+</tr>
+<tr>
+<td>19:18</td>
+<td>도착 : 21:15 &#8211; KTX</td>
+<td>46,500원</td>
+</tr>
+<tr>
+<td>19:30</td>
+<td>도착 : 21:32 &#8211; KTX</td>
+<td>46,500원</td>
+</tr>
+<tr>
+<td>19:38</td>
+<td>도착 : 21:36 &#8211; KTX-산천(A-type)</td>
+<td>46,500원</td>
+</tr>
+<tr>
+<td>20:23</td>
+<td>도착 : 22:19 &#8211; KTX</td>
+<td>46,500원</td>
+</tr>
+<tr>
+<td>20:40</td>
+<td>도착 : 22:38 &#8211; KTX</td>
+<td>46,500원</td>
+</tr>
+<tr>
+<td>22:10</td>
+<td>도착 : 00:02 &#8211; KTX</td>
+<td>46,500원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>부산 에서 신경주 가는 기차 시간표</title>
+		<link>/timetable/%eb%b6%80%ec%82%b0-%ec%97%90%ec%84%9c-%ec%8b%a0%ea%b2%bd%ec%a3%bc-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:16:22 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[KTX-산천(A-type)]]></category>
+		<category><![CDATA[경상북도]]></category>
+		<category><![CDATA[도착지-경상북도]]></category>
+		<category><![CDATA[부산]]></category>
+		<category><![CDATA[부산광역시]]></category>
+		<category><![CDATA[신경주]]></category>
+		<category><![CDATA[출발지-부산광역시]]></category>
+		<guid isPermaLink="false">/timetable/%eb%b6%80%ec%82%b0-%ec%97%90%ec%84%9c-%ec%8b%a0%ea%b2%bd%ec%a3%bc-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 05:20 도착 : 05:47 &#8211; KTX 11,000원 06:01 도착 : 06:36 &#8211; KTX-산천(A-type) 11,000원 06:01 도착 : 06:36 &#8211; KTX-산천(A-type) 11,000원 06:10 도착 : 06:43 &#8211; KTX 11,000원 07:23 도착 : 07:56 &#8211; KTX 11,000원 08:05 도착 : 08:38 &#8211; KTX 11,000원 08:40 도착 : 09:13 &#8211; KTX 11,000원 09:50 도착 : ... <a title="부산 에서 신경주 가는 기차 시간표" class="read-more" href="/timetable/%eb%b6%80%ec%82%b0-%ec%97%90%ec%84%9c-%ec%8b%a0%ea%b2%bd%ec%a3%bc-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/" aria-label="Read more about 부산 에서 신경주 가는 기차 시간표">Read more</a>]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>05:20</td>
+<td>도착 : 05:47 &#8211; KTX</td>
+<td>11,000원</td>
+</tr>
+<tr>
+<td>06:01</td>
+<td>도착 : 06:36 &#8211; KTX-산천(A-type)</td>
+<td>11,000원</td>
+</tr>
+<tr>
+<td>06:01</td>
+<td>도착 : 06:36 &#8211; KTX-산천(A-type)</td>
+<td>11,000원</td>
+</tr>
+<tr>
+<td>06:10</td>
+<td>도착 : 06:43 &#8211; KTX</td>
+<td>11,000원</td>
+</tr>
+<tr>
+<td>07:23</td>
+<td>도착 : 07:56 &#8211; KTX</td>
+<td>11,000원</td>
+</tr>
+<tr>
+<td>08:05</td>
+<td>도착 : 08:38 &#8211; KTX</td>
+<td>11,000원</td>
+</tr>
+<tr>
+<td>08:40</td>
+<td>도착 : 09:13 &#8211; KTX</td>
+<td>11,000원</td>
+</tr>
+<tr>
+<td>09:50</td>
+<td>도착 : 10:24 &#8211; KTX</td>
+<td>11,000원</td>
+</tr>
+<tr>
+<td>13:04</td>
+<td>도착 : 13:38 &#8211; KTX</td>
+<td>11,000원</td>
+</tr>
+<tr>
+<td>14:20</td>
+<td>도착 : 14:47 &#8211; KTX</td>
+<td>11,000원</td>
+</tr>
+<tr>
+<td>14:31</td>
+<td>도착 : 15:05 &#8211; KTX</td>
+<td>11,000원</td>
+</tr>
+<tr>
+<td>16:16</td>
+<td>도착 : 16:50 &#8211; KTX</td>
+<td>11,000원</td>
+</tr>
+<tr>
+<td>16:56</td>
+<td>도착 : 17:23 &#8211; KTX</td>
+<td>11,000원</td>
+</tr>
+<tr>
+<td>17:50</td>
+<td>도착 : 18:23 &#8211; KTX</td>
+<td>11,000원</td>
+</tr>
+<tr>
+<td>18:33</td>
+<td>도착 : 19:07 &#8211; KTX</td>
+<td>11,000원</td>
+</tr>
+<tr>
+<td>19:30</td>
+<td>도착 : 20:04 &#8211; KTX</td>
+<td>11,000원</td>
+</tr>
+<tr>
+<td>19:38</td>
+<td>도착 : 20:12 &#8211; KTX-산천(A-type)</td>
+<td>11,000원</td>
+</tr>
+<tr>
+<td>20:40</td>
+<td>도착 : 21:13 &#8211; KTX</td>
+<td>11,000원</td>
+</tr>
+<tr>
+<td>21:29</td>
+<td>도착 : 22:02 &#8211; KTX</td>
+<td>11,000원</td>
+</tr>
+<tr>
+<td>22:10</td>
+<td>도착 : 22:37 &#8211; KTX</td>
+<td>11,000원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>부산 에서 울산(통도사) 가는 기차 시간표</title>
+		<link>/timetable/%eb%b6%80%ec%82%b0-%ec%97%90%ec%84%9c-%ec%9a%b8%ec%82%b0%ed%86%b5%eb%8f%84%ec%82%ac-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:16:22 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[KTX-산천(A-type)]]></category>
+		<category><![CDATA[도착지-울산광역시]]></category>
+		<category><![CDATA[부산]]></category>
+		<category><![CDATA[부산광역시]]></category>
+		<category><![CDATA[울산(통도사)]]></category>
+		<category><![CDATA[울산광역시]]></category>
+		<category><![CDATA[출발지-부산광역시]]></category>
+		<guid isPermaLink="false">/timetable/%eb%b6%80%ec%82%b0-%ec%97%90%ec%84%9c-%ec%9a%b8%ec%82%b0%ed%86%b5%eb%8f%84%ec%82%ac-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 05:10 도착 : 05:31 &#8211; KTX 8,400원 05:40 도착 : 06:01 &#8211; KTX 8,400원 06:01 도착 : 06:22 &#8211; KTX-산천(A-type) 8,400원 06:01 도착 : 06:22 &#8211; KTX-산천(A-type) 8,400원 06:10 도착 : 06:31 &#8211; KTX 8,400원 07:00 도착 : 07:21 &#8211; KTX 8,400원 07:23 도착 : 07:44 &#8211; KTX 8,400원 08:05 도착 : ... <a title="부산 에서 울산(통도사) 가는 기차 시간표" class="read-more" href="/timetable/%eb%b6%80%ec%82%b0-%ec%97%90%ec%84%9c-%ec%9a%b8%ec%82%b0%ed%86%b5%eb%8f%84%ec%82%ac-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/" aria-label="Read more about 부산 에서 울산(통도사) 가는 기차 시간표">Read more</a>]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>05:10</td>
+<td>도착 : 05:31 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>05:40</td>
+<td>도착 : 06:01 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>06:01</td>
+<td>도착 : 06:22 &#8211; KTX-산천(A-type)</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>06:01</td>
+<td>도착 : 06:22 &#8211; KTX-산천(A-type)</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>06:10</td>
+<td>도착 : 06:31 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>07:00</td>
+<td>도착 : 07:21 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>07:23</td>
+<td>도착 : 07:44 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>08:05</td>
+<td>도착 : 08:26 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>08:20</td>
+<td>도착 : 08:41 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>08:40</td>
+<td>도착 : 09:01 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>08:50</td>
+<td>도착 : 09:11 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>09:06</td>
+<td>도착 : 09:27 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>09:38</td>
+<td>도착 : 09:59 &#8211; KTX-산천(A-type)</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>09:50</td>
+<td>도착 : 10:11 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>11:00</td>
+<td>도착 : 11:21 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>12:00</td>
+<td>도착 : 12:21 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>13:04</td>
+<td>도착 : 13:25 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>13:18</td>
+<td>도착 : 13:39 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>도착 : 14:21 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>14:31</td>
+<td>도착 : 14:52 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>15:45</td>
+<td>도착 : 16:06 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>16:16</td>
+<td>도착 : 16:37 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>16:29</td>
+<td>도착 : 16:50 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>16:36</td>
+<td>도착 : 16:57 &#8211; KTX-산천(A-type)</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>17:00</td>
+<td>도착 : 17:21 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>17:50</td>
+<td>도착 : 18:11 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>18:00</td>
+<td>도착 : 18:21 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>18:33</td>
+<td>도착 : 18:54 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>19:30</td>
+<td>도착 : 19:51 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>19:38</td>
+<td>도착 : 19:59 &#8211; KTX-산천(A-type)</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>20:23</td>
+<td>도착 : 20:45 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>20:40</td>
+<td>도착 : 21:01 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>21:00</td>
+<td>도착 : 21:21 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>21:29</td>
+<td>도착 : 21:50 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>21:42</td>
+<td>도착 : 22:03 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>22:00</td>
+<td>도착 : 22:21 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>부산 에서 광명 가는 기차 시간표</title>
+		<link>/timetable/%eb%b6%80%ec%82%b0-%ec%97%90%ec%84%9c-%ea%b4%91%eb%aa%85-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:16:21 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[KTX-산천(A-type)]]></category>
+		<category><![CDATA[경기도]]></category>
+		<category><![CDATA[광명]]></category>
+		<category><![CDATA[도착지-경기도]]></category>
+		<category><![CDATA[부산]]></category>
+		<category><![CDATA[부산광역시]]></category>
+		<category><![CDATA[출발지-부산광역시]]></category>
+		<guid isPermaLink="false">/timetable/%eb%b6%80%ec%82%b0-%ec%97%90%ec%84%9c-%ea%b4%91%eb%aa%85-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 05:10 도착 : 07:33 &#8211; KTX 57,700원 05:20 도착 : 07:38 &#8211; KTX 57,700원 05:40 도착 : 08:04 &#8211; KTX 57,700원 06:01 도착 : 08:34 &#8211; KTX-산천(A-type) 57,700원 06:01 도착 : 08:34 &#8211; KTX-산천(A-type) 57,700원 06:10 도착 : 08:45 &#8211; KTX 57,700원 06:11 도착 : 09:15 &#8211; KTX 51,800원 07:00 도착 : ... <a title="부산 에서 광명 가는 기차 시간표" class="read-more" href="/timetable/%eb%b6%80%ec%82%b0-%ec%97%90%ec%84%9c-%ea%b4%91%eb%aa%85-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/" aria-label="Read more about 부산 에서 광명 가는 기차 시간표">Read more</a>]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>05:10</td>
+<td>도착 : 07:33 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>05:20</td>
+<td>도착 : 07:38 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>05:40</td>
+<td>도착 : 08:04 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>06:01</td>
+<td>도착 : 08:34 &#8211; KTX-산천(A-type)</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>06:01</td>
+<td>도착 : 08:34 &#8211; KTX-산천(A-type)</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>06:10</td>
+<td>도착 : 08:45 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>06:11</td>
+<td>도착 : 09:15 &#8211; KTX</td>
+<td>51,800원</td>
+</tr>
+<tr>
+<td>07:00</td>
+<td>도착 : 09:24 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>07:23</td>
+<td>도착 : 09:57 &#8211; KTX</td>
+<td>57,300원</td>
+</tr>
+<tr>
+<td>08:02</td>
+<td>도착 : 11:00 &#8211; KTX</td>
+<td>51,400원</td>
+</tr>
+<tr>
+<td>08:40</td>
+<td>도착 : 11:04 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>08:50</td>
+<td>도착 : 11:08 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>09:06</td>
+<td>도착 : 11:30 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>09:38</td>
+<td>도착 : 11:56 &#8211; KTX-산천(A-type)</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>09:50</td>
+<td>도착 : 12:14 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>10:29</td>
+<td>도착 : 12:44 &#8211; KTX</td>
+<td>57,300원</td>
+</tr>
+<tr>
+<td>11:00</td>
+<td>도착 : 13:27 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>12:00</td>
+<td>도착 : 14:32 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>13:23</td>
+<td>도착 : 16:22 &#8211; KTX-산천(A-type)</td>
+<td>51,800원</td>
+</tr>
+<tr>
+<td>14:31</td>
+<td>도착 : 16:55 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>15:26</td>
+<td>도착 : 18:26 &#8211; KTX</td>
+<td>51,400원</td>
+</tr>
+<tr>
+<td>15:45</td>
+<td>도착 : 18:03 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>16:16</td>
+<td>도착 : 18:45 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>16:29</td>
+<td>도착 : 18:54 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>16:36</td>
+<td>도착 : 18:58 &#8211; KTX-산천(A-type)</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>16:56</td>
+<td>도착 : 19:13 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>17:00</td>
+<td>도착 : 19:24 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>18:00</td>
+<td>도착 : 20:32 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>18:33</td>
+<td>도착 : 21:04 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>18:43</td>
+<td>도착 : 21:45 &#8211; KTX-산천(A-type)</td>
+<td>51,400원</td>
+</tr>
+<tr>
+<td>19:18</td>
+<td>도착 : 21:40 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>19:38</td>
+<td>도착 : 22:02 &#8211; KTX-산천(A-type)</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>20:23</td>
+<td>도착 : 22:44 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>20:36</td>
+<td>도착 : 23:30 &#8211; KTX</td>
+<td>51,400원</td>
+</tr>
+<tr>
+<td>20:40</td>
+<td>도착 : 23:03 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>21:00</td>
+<td>도착 : 23:25 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>21:29</td>
+<td>도착 : 23:52 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+<tr>
+<td>21:42</td>
+<td>도착 : 00:02 &#8211; KTX</td>
+<td>57,700원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>부산 에서 행신 가는 기차 시간표</title>
+		<link>/timetable/%eb%b6%80%ec%82%b0-%ec%97%90%ec%84%9c-%ed%96%89%ec%8b%a0-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:16:20 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[KTX-산천(A-type)]]></category>
+		<category><![CDATA[경기도]]></category>
+		<category><![CDATA[도착지-경기도]]></category>
+		<category><![CDATA[부산]]></category>
+		<category><![CDATA[부산광역시]]></category>
+		<category><![CDATA[출발지-부산광역시]]></category>
+		<category><![CDATA[행신]]></category>
+		<guid isPermaLink="false">/timetable/%eb%b6%80%ec%82%b0-%ec%97%90%ec%84%9c-%ed%96%89%ec%8b%a0-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 08:40 도착 : 11:45 &#8211; KTX 61,100원 14:00 도착 : 17:07 &#8211; KTX 61,100원 14:31 도착 : 17:37 &#8211; KTX 61,100원 19:13 도착 : 21:56 &#8211; KTX 61,100원 19:38 도착 : 22:43 &#8211; KTX-산천(A-type) 61,100원 21:00 도착 : 00:06 &#8211; KTX 61,100원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>08:40</td>
+<td>도착 : 11:45 &#8211; KTX</td>
+<td>61,100원</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>도착 : 17:07 &#8211; KTX</td>
+<td>61,100원</td>
+</tr>
+<tr>
+<td>14:31</td>
+<td>도착 : 17:37 &#8211; KTX</td>
+<td>61,100원</td>
+</tr>
+<tr>
+<td>19:13</td>
+<td>도착 : 21:56 &#8211; KTX</td>
+<td>61,100원</td>
+</tr>
+<tr>
+<td>19:38</td>
+<td>도착 : 22:43 &#8211; KTX-산천(A-type)</td>
+<td>61,100원</td>
+</tr>
+<tr>
+<td>21:00</td>
+<td>도착 : 00:06 &#8211; KTX</td>
+<td>61,100원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>부산 에서 오송 가는 기차 시간표</title>
+		<link>/timetable/%eb%b6%80%ec%82%b0-%ec%97%90%ec%84%9c-%ec%98%a4%ec%86%a1-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:16:18 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[KTX-산천(A-type)]]></category>
+		<category><![CDATA[도착지-충청북도]]></category>
+		<category><![CDATA[부산]]></category>
+		<category><![CDATA[부산광역시]]></category>
+		<category><![CDATA[오송]]></category>
+		<category><![CDATA[출발지-부산광역시]]></category>
+		<category><![CDATA[충청북도]]></category>
+		<guid isPermaLink="false">/timetable/%eb%b6%80%ec%82%b0-%ec%97%90%ec%84%9c-%ec%98%a4%ec%86%a1-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 05:20 도착 : 07:05 &#8211; KTX 42,200원 05:40 도착 : 07:26 &#8211; KTX 42,200원 06:10 도착 : 08:07 &#8211; KTX 42,200원 06:11 도착 : 08:36 &#8211; KTX 34,900원 07:00 도착 : 08:51 &#8211; KTX 42,200원 08:02 도착 : 10:27 &#8211; KTX 34,500원 08:40 도착 : 10:32 &#8211; KTX 42,200원 09:06 도착 : ... <a title="부산 에서 오송 가는 기차 시간표" class="read-more" href="/timetable/%eb%b6%80%ec%82%b0-%ec%97%90%ec%84%9c-%ec%98%a4%ec%86%a1-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/" aria-label="Read more about 부산 에서 오송 가는 기차 시간표">Read more</a>]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>05:20</td>
+<td>도착 : 07:05 &#8211; KTX</td>
+<td>42,200원</td>
+</tr>
+<tr>
+<td>05:40</td>
+<td>도착 : 07:26 &#8211; KTX</td>
+<td>42,200원</td>
+</tr>
+<tr>
+<td>06:10</td>
+<td>도착 : 08:07 &#8211; KTX</td>
+<td>42,200원</td>
+</tr>
+<tr>
+<td>06:11</td>
+<td>도착 : 08:36 &#8211; KTX</td>
+<td>34,900원</td>
+</tr>
+<tr>
+<td>07:00</td>
+<td>도착 : 08:51 &#8211; KTX</td>
+<td>42,200원</td>
+</tr>
+<tr>
+<td>08:02</td>
+<td>도착 : 10:27 &#8211; KTX</td>
+<td>34,500원</td>
+</tr>
+<tr>
+<td>08:40</td>
+<td>도착 : 10:32 &#8211; KTX</td>
+<td>42,200원</td>
+</tr>
+<tr>
+<td>09:06</td>
+<td>도착 : 10:52 &#8211; KTX</td>
+<td>42,200원</td>
+</tr>
+<tr>
+<td>11:00</td>
+<td>도착 : 12:53 &#8211; KTX</td>
+<td>42,200원</td>
+</tr>
+<tr>
+<td>12:00</td>
+<td>도착 : 13:53 &#8211; KTX</td>
+<td>42,200원</td>
+</tr>
+<tr>
+<td>13:04</td>
+<td>도착 : 14:56 &#8211; KTX</td>
+<td>42,200원</td>
+</tr>
+<tr>
+<td>13:23</td>
+<td>도착 : 15:43 &#8211; KTX-산천(A-type)</td>
+<td>34,900원</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>도착 : 15:52 &#8211; KTX</td>
+<td>42,200원</td>
+</tr>
+<tr>
+<td>14:20</td>
+<td>도착 : 16:05 &#8211; KTX</td>
+<td>42,200원</td>
+</tr>
+<tr>
+<td>15:26</td>
+<td>도착 : 17:47 &#8211; KTX</td>
+<td>34,500원</td>
+</tr>
+<tr>
+<td>16:16</td>
+<td>도착 : 18:13 &#8211; KTX</td>
+<td>42,200원</td>
+</tr>
+<tr>
+<td>16:29</td>
+<td>도착 : 18:20 &#8211; KTX</td>
+<td>42,200원</td>
+</tr>
+<tr>
+<td>17:00</td>
+<td>도착 : 18:46 &#8211; KTX</td>
+<td>42,200원</td>
+</tr>
+<tr>
+<td>17:11</td>
+<td>도착 : 18:55 &#8211; KTX-산천(A-type)</td>
+<td>42,200원</td>
+</tr>
+<tr>
+<td>18:00</td>
+<td>도착 : 19:53 &#8211; KTX</td>
+<td>42,200원</td>
+</tr>
+<tr>
+<td>18:33</td>
+<td>도착 : 20:31 &#8211; KTX</td>
+<td>42,200원</td>
+</tr>
+<tr>
+<td>19:18</td>
+<td>도착 : 21:02 &#8211; KTX</td>
+<td>42,200원</td>
+</tr>
+<tr>
+<td>20:36</td>
+<td>도착 : 22:58 &#8211; KTX</td>
+<td>34,500원</td>
+</tr>
+<tr>
+<td>21:00</td>
+<td>도착 : 22:51 &#8211; KTX</td>
+<td>42,200원</td>
+</tr>
+<tr>
+<td>21:42</td>
+<td>도착 : 23:29 &#8211; KTX</td>
+<td>42,200원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>부산 에서 사상 가는 기차 시간표</title>
+		<link>/timetable/%eb%b6%80%ec%82%b0-%ec%97%90%ec%84%9c-%ec%82%ac%ec%83%81-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:16:18 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[도착지-부산광역시]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[부산]]></category>
+		<category><![CDATA[부산광역시]]></category>
+		<category><![CDATA[사상]]></category>
+		<category><![CDATA[출발지-부산광역시]]></category>
+		<guid isPermaLink="false">/timetable/%eb%b6%80%ec%82%b0-%ec%97%90%ec%84%9c-%ec%82%ac%ec%83%81-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 06:52 도착 : 07:02 &#8211; 무궁화호 2,600원 18:47 도착 : 18:57 &#8211; 무궁화호 2,600원 20:01 도착 : 20:11 &#8211; 무궁화호 2,600원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>06:52</td>
+<td>도착 : 07:02 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>18:47</td>
+<td>도착 : 18:57 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>20:01</td>
+<td>도착 : 20:11 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>부산 에서 구포 가는 기차 시간표</title>
+		<link>/timetable/%eb%b6%80%ec%82%b0-%ec%97%90%ec%84%9c-%ea%b5%ac%ed%8f%ac-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:16:18 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[ITX-새마을]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[KTX-산천(A-type)]]></category>
+		<category><![CDATA[구포]]></category>
+		<category><![CDATA[도착지-부산광역시]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[부산]]></category>
+		<category><![CDATA[부산광역시]]></category>
+		<category><![CDATA[출발지-부산광역시]]></category>
+		<guid isPermaLink="false">/timetable/%eb%b6%80%ec%82%b0-%ec%97%90%ec%84%9c-%ea%b5%ac%ed%8f%ac-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 05:10 도착 : 05:23 &#8211; 무궁화호 2,600원 05:37 도착 : 05:49 &#8211; 무궁화호 2,600원 06:11 도착 : 06:23 &#8211; KTX 8,400원 06:26 도착 : 06:38 &#8211; ITX-새마을 4,800원 06:52 도착 : 07:07 &#8211; 무궁화호 2,600원 07:32 도착 : 07:44 &#8211; 무궁화호 2,600원 08:02 도착 : 08:14 &#8211; KTX 8,400원 08:20 도착 : ... <a title="부산 에서 구포 가는 기차 시간표" class="read-more" href="/timetable/%eb%b6%80%ec%82%b0-%ec%97%90%ec%84%9c-%ea%b5%ac%ed%8f%ac-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/" aria-label="Read more about 부산 에서 구포 가는 기차 시간표">Read more</a>]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>05:10</td>
+<td>도착 : 05:23 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>05:37</td>
+<td>도착 : 05:49 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>06:11</td>
+<td>도착 : 06:23 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>06:26</td>
+<td>도착 : 06:38 &#8211; ITX-새마을</td>
+<td>4,800원</td>
+</tr>
+<tr>
+<td>06:52</td>
+<td>도착 : 07:07 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>07:32</td>
+<td>도착 : 07:44 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>08:02</td>
+<td>도착 : 08:14 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>08:20</td>
+<td>도착 : 08:32 &#8211; ITX-새마을</td>
+<td>4,800원</td>
+</tr>
+<tr>
+<td>08:51</td>
+<td>도착 : 09:03 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>09:44</td>
+<td>도착 : 09:56 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>11:08</td>
+<td>도착 : 11:20 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>12:04</td>
+<td>도착 : 12:16 &#8211; ITX-새마을</td>
+<td>4,800원</td>
+</tr>
+<tr>
+<td>12:38</td>
+<td>도착 : 12:51 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>13:14</td>
+<td>도착 : 13:26 &#8211; ITX-새마을</td>
+<td>4,800원</td>
+</tr>
+<tr>
+<td>13:23</td>
+<td>도착 : 13:35 &#8211; KTX-산천(A-type)</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>13:37</td>
+<td>도착 : 13:49 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>14:44</td>
+<td>도착 : 14:56 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>15:18</td>
+<td>도착 : 15:30 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>15:26</td>
+<td>도착 : 15:38 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>16:47</td>
+<td>도착 : 16:59 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>18:15</td>
+<td>도착 : 18:27 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>18:29</td>
+<td>도착 : 18:40 &#8211; ITX-새마을</td>
+<td>4,800원</td>
+</tr>
+<tr>
+<td>18:43</td>
+<td>도착 : 18:55 &#8211; KTX-산천(A-type)</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>18:47</td>
+<td>도착 : 19:02 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>19:24</td>
+<td>도착 : 19:36 &#8211; ITX-새마을</td>
+<td>4,800원</td>
+</tr>
+<tr>
+<td>20:01</td>
+<td>도착 : 20:16 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>20:36</td>
+<td>도착 : 20:48 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>21:17</td>
+<td>도착 : 21:29 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>부산 에서 화명 가는 기차 시간표</title>
+		<link>/timetable/%eb%b6%80%ec%82%b0-%ec%97%90%ec%84%9c-%ed%99%94%eb%aa%85-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:16:18 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[도착지-부산광역시]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[부산]]></category>
+		<category><![CDATA[부산광역시]]></category>
+		<category><![CDATA[출발지-부산광역시]]></category>
+		<category><![CDATA[화명]]></category>
+		<guid isPermaLink="false">/timetable/%eb%b6%80%ec%82%b0-%ec%97%90%ec%84%9c-%ed%99%94%eb%aa%85-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 05:37 도착 : 05:55 &#8211; 무궁화호 2,600원 06:52 도착 : 07:13 &#8211; 무궁화호 2,600원 08:51 도착 : 09:09 &#8211; 무궁화호 2,600원 09:44 도착 : 10:02 &#8211; 무궁화호 2,600원 15:18 도착 : 15:36 &#8211; 무궁화호 2,600원 18:15 도착 : 18:33 &#8211; 무궁화호 2,600원 18:47 도착 : 19:08 &#8211; 무궁화호 2,600원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>05:37</td>
+<td>도착 : 05:55 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>06:52</td>
+<td>도착 : 07:13 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>08:51</td>
+<td>도착 : 09:09 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>09:44</td>
+<td>도착 : 10:02 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>15:18</td>
+<td>도착 : 15:36 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>18:15</td>
+<td>도착 : 18:33 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>18:47</td>
+<td>도착 : 19:08 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>부산 에서 밀양 가는 기차 시간표</title>
+		<link>/timetable/%eb%b6%80%ec%82%b0-%ec%97%90%ec%84%9c-%eb%b0%80%ec%96%91-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:16:17 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[ITX-새마을]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[KTX-산천(A-type)]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[도착지-경상남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[밀양]]></category>
+		<category><![CDATA[부산]]></category>
+		<category><![CDATA[부산광역시]]></category>
+		<category><![CDATA[출발지-부산광역시]]></category>
+		<guid isPermaLink="false">/timetable/%eb%b6%80%ec%82%b0-%ec%97%90%ec%84%9c-%eb%b0%80%ec%96%91-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 05:10 도착 : 05:57 &#8211; 무궁화호 3,900원 05:37 도착 : 06:25 &#8211; 무궁화호 3,900원 06:11 도착 : 06:54 &#8211; KTX 8,400원 06:26 도착 : 07:02 &#8211; ITX-새마을 5,800원 06:52 도착 : 07:43 &#8211; 무궁화호 3,900원 07:32 도착 : 08:20 &#8211; 무궁화호 3,900원 08:02 도착 : 08:45 &#8211; KTX 8,400원 08:20 도착 : ... <a title="부산 에서 밀양 가는 기차 시간표" class="read-more" href="/timetable/%eb%b6%80%ec%82%b0-%ec%97%90%ec%84%9c-%eb%b0%80%ec%96%91-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/" aria-label="Read more about 부산 에서 밀양 가는 기차 시간표">Read more</a>]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>05:10</td>
+<td>도착 : 05:57 &#8211; 무궁화호</td>
+<td>3,900원</td>
+</tr>
+<tr>
+<td>05:37</td>
+<td>도착 : 06:25 &#8211; 무궁화호</td>
+<td>3,900원</td>
+</tr>
+<tr>
+<td>06:11</td>
+<td>도착 : 06:54 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>06:26</td>
+<td>도착 : 07:02 &#8211; ITX-새마을</td>
+<td>5,800원</td>
+</tr>
+<tr>
+<td>06:52</td>
+<td>도착 : 07:43 &#8211; 무궁화호</td>
+<td>3,900원</td>
+</tr>
+<tr>
+<td>07:32</td>
+<td>도착 : 08:20 &#8211; 무궁화호</td>
+<td>3,900원</td>
+</tr>
+<tr>
+<td>08:02</td>
+<td>도착 : 08:45 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>08:20</td>
+<td>도착 : 09:02 &#8211; ITX-새마을</td>
+<td>5,800원</td>
+</tr>
+<tr>
+<td>08:51</td>
+<td>도착 : 09:42 &#8211; 무궁화호</td>
+<td>3,900원</td>
+</tr>
+<tr>
+<td>09:44</td>
+<td>도착 : 10:32 &#8211; 무궁화호</td>
+<td>3,900원</td>
+</tr>
+<tr>
+<td>11:08</td>
+<td>도착 : 11:56 &#8211; 무궁화호</td>
+<td>3,900원</td>
+</tr>
+<tr>
+<td>12:04</td>
+<td>도착 : 12:43 &#8211; ITX-새마을</td>
+<td>5,800원</td>
+</tr>
+<tr>
+<td>12:38</td>
+<td>도착 : 13:26 &#8211; 무궁화호</td>
+<td>3,900원</td>
+</tr>
+<tr>
+<td>13:14</td>
+<td>도착 : 13:54 &#8211; ITX-새마을</td>
+<td>5,800원</td>
+</tr>
+<tr>
+<td>13:23</td>
+<td>도착 : 14:06 &#8211; KTX-산천(A-type)</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>13:37</td>
+<td>도착 : 14:21 &#8211; 무궁화호</td>
+<td>3,900원</td>
+</tr>
+<tr>
+<td>14:44</td>
+<td>도착 : 15:22 &#8211; 무궁화호</td>
+<td>3,900원</td>
+</tr>
+<tr>
+<td>15:18</td>
+<td>도착 : 16:12 &#8211; 무궁화호</td>
+<td>3,900원</td>
+</tr>
+<tr>
+<td>15:26</td>
+<td>도착 : 16:05 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>16:47</td>
+<td>도착 : 17:34 &#8211; 무궁화호</td>
+<td>3,900원</td>
+</tr>
+<tr>
+<td>18:15</td>
+<td>도착 : 19:10 &#8211; 무궁화호</td>
+<td>3,900원</td>
+</tr>
+<tr>
+<td>18:29</td>
+<td>도착 : 19:04 &#8211; ITX-새마을</td>
+<td>5,800원</td>
+</tr>
+<tr>
+<td>18:43</td>
+<td>도착 : 19:26 &#8211; KTX-산천(A-type)</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>18:47</td>
+<td>도착 : 19:41 &#8211; 무궁화호</td>
+<td>3,900원</td>
+</tr>
+<tr>
+<td>19:24</td>
+<td>도착 : 20:00 &#8211; ITX-새마을</td>
+<td>5,800원</td>
+</tr>
+<tr>
+<td>20:01</td>
+<td>도착 : 20:51 &#8211; 무궁화호</td>
+<td>3,900원</td>
+</tr>
+<tr>
+<td>20:36</td>
+<td>도착 : 21:15 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>21:17</td>
+<td>도착 : 22:01 &#8211; 무궁화호</td>
+<td>3,900원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>부산 에서 청도 가는 기차 시간표</title>
+		<link>/timetable/%eb%b6%80%ec%82%b0-%ec%97%90%ec%84%9c-%ec%b2%ad%eb%8f%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:16:17 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[ITX-새마을]]></category>
+		<category><![CDATA[경상북도]]></category>
+		<category><![CDATA[도착지-경상북도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[부산]]></category>
+		<category><![CDATA[부산광역시]]></category>
+		<category><![CDATA[청도]]></category>
+		<category><![CDATA[출발지-부산광역시]]></category>
+		<guid isPermaLink="false">/timetable/%eb%b6%80%ec%82%b0-%ec%97%90%ec%84%9c-%ec%b2%ad%eb%8f%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 05:10 도착 : 06:11 &#8211; 무궁화호 5,200원 05:37 도착 : 06:39 &#8211; 무궁화호 5,200원 06:26 도착 : 07:15 &#8211; ITX-새마을 7,700원 06:52 도착 : 07:57 &#8211; 무궁화호 5,200원 07:32 도착 : 08:37 &#8211; 무궁화호 5,200원 08:20 도착 : 09:16 &#8211; ITX-새마을 7,700원 08:51 도착 : 09:56 &#8211; 무궁화호 5,200원 09:44 도착 : ... <a title="부산 에서 청도 가는 기차 시간표" class="read-more" href="/timetable/%eb%b6%80%ec%82%b0-%ec%97%90%ec%84%9c-%ec%b2%ad%eb%8f%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/" aria-label="Read more about 부산 에서 청도 가는 기차 시간표">Read more</a>]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>05:10</td>
+<td>도착 : 06:11 &#8211; 무궁화호</td>
+<td>5,200원</td>
+</tr>
+<tr>
+<td>05:37</td>
+<td>도착 : 06:39 &#8211; 무궁화호</td>
+<td>5,200원</td>
+</tr>
+<tr>
+<td>06:26</td>
+<td>도착 : 07:15 &#8211; ITX-새마을</td>
+<td>7,700원</td>
+</tr>
+<tr>
+<td>06:52</td>
+<td>도착 : 07:57 &#8211; 무궁화호</td>
+<td>5,200원</td>
+</tr>
+<tr>
+<td>07:32</td>
+<td>도착 : 08:37 &#8211; 무궁화호</td>
+<td>5,200원</td>
+</tr>
+<tr>
+<td>08:20</td>
+<td>도착 : 09:16 &#8211; ITX-새마을</td>
+<td>7,700원</td>
+</tr>
+<tr>
+<td>08:51</td>
+<td>도착 : 09:56 &#8211; 무궁화호</td>
+<td>5,200원</td>
+</tr>
+<tr>
+<td>09:44</td>
+<td>도착 : 10:49 &#8211; 무궁화호</td>
+<td>5,200원</td>
+</tr>
+<tr>
+<td>11:08</td>
+<td>도착 : 12:14 &#8211; 무궁화호</td>
+<td>5,200원</td>
+</tr>
+<tr>
+<td>12:04</td>
+<td>도착 : 12:57 &#8211; ITX-새마을</td>
+<td>7,700원</td>
+</tr>
+<tr>
+<td>12:38</td>
+<td>도착 : 13:40 &#8211; 무궁화호</td>
+<td>5,200원</td>
+</tr>
+<tr>
+<td>13:37</td>
+<td>도착 : 14:35 &#8211; 무궁화호</td>
+<td>5,200원</td>
+</tr>
+<tr>
+<td>14:44</td>
+<td>도착 : 15:36 &#8211; 무궁화호</td>
+<td>5,200원</td>
+</tr>
+<tr>
+<td>15:18</td>
+<td>도착 : 16:26 &#8211; 무궁화호</td>
+<td>5,200원</td>
+</tr>
+<tr>
+<td>16:47</td>
+<td>도착 : 17:52 &#8211; 무궁화호</td>
+<td>5,200원</td>
+</tr>
+<tr>
+<td>18:15</td>
+<td>도착 : 19:24 &#8211; 무궁화호</td>
+<td>5,200원</td>
+</tr>
+<tr>
+<td>18:29</td>
+<td>도착 : 19:18 &#8211; ITX-새마을</td>
+<td>7,700원</td>
+</tr>
+<tr>
+<td>18:47</td>
+<td>도착 : 19:58 &#8211; 무궁화호</td>
+<td>5,200원</td>
+</tr>
+<tr>
+<td>20:01</td>
+<td>도착 : 21:08 &#8211; 무궁화호</td>
+<td>5,200원</td>
+</tr>
+<tr>
+<td>21:17</td>
+<td>도착 : 22:15 &#8211; 무궁화호</td>
+<td>5,200원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>부산 에서 상동 가는 기차 시간표</title>
+		<link>/timetable/%eb%b6%80%ec%82%b0-%ec%97%90%ec%84%9c-%ec%83%81%eb%8f%99-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:16:17 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[도착지-경상남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[부산]]></category>
+		<category><![CDATA[부산광역시]]></category>
+		<category><![CDATA[상동]]></category>
+		<category><![CDATA[출발지-부산광역시]]></category>
+		<guid isPermaLink="false">/timetable/%eb%b6%80%ec%82%b0-%ec%97%90%ec%84%9c-%ec%83%81%eb%8f%99-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:32 도착 : 08:28 &#8211; 무궁화호 4,500원 09:44 도착 : 10:40 &#8211; 무궁화호 4,500원 11:08 도착 : 12:05 &#8211; 무궁화호 4,500원 16:47 도착 : 17:43 &#8211; 무궁화호 4,500원 18:47 도착 : 19:49 &#8211; 무궁화호 4,500원 20:01 도착 : 21:00 &#8211; 무궁화호 4,500원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:32</td>
+<td>도착 : 08:28 &#8211; 무궁화호</td>
+<td>4,500원</td>
+</tr>
+<tr>
+<td>09:44</td>
+<td>도착 : 10:40 &#8211; 무궁화호</td>
+<td>4,500원</td>
+</tr>
+<tr>
+<td>11:08</td>
+<td>도착 : 12:05 &#8211; 무궁화호</td>
+<td>4,500원</td>
+</tr>
+<tr>
+<td>16:47</td>
+<td>도착 : 17:43 &#8211; 무궁화호</td>
+<td>4,500원</td>
+</tr>
+<tr>
+<td>18:47</td>
+<td>도착 : 19:49 &#8211; 무궁화호</td>
+<td>4,500원</td>
+</tr>
+<tr>
+<td>20:01</td>
+<td>도착 : 21:00 &#8211; 무궁화호</td>
+<td>4,500원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,896 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>지평 &#8211; 기차 시간표</title>
+	<atom:link href="/tag/%EC%A7%80%ED%8F%89/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Tue, 07 May 2024 22:39:40 +0000</lastBuildDate>
+	<language>ko-KR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/05/cropped-favicon-1-1-32x32.png</url>
+	<title>지평 &#8211; 기차 시간표</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>태화강 에서 지평 가는 기차 시간표</title>
+		<link>/timetable/%ed%83%9c%ed%99%94%ea%b0%95-%ec%97%90%ec%84%9c-%ec%a7%80%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:39:40 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경기도]]></category>
+		<category><![CDATA[도착지-경기도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[울산광역시]]></category>
+		<category><![CDATA[지평]]></category>
+		<category><![CDATA[출발지-울산광역시]]></category>
+		<category><![CDATA[태화강]]></category>
+		<guid isPermaLink="false">/timetable/%ed%83%9c%ed%99%94%ea%b0%95-%ec%97%90%ec%84%9c-%ec%a7%80%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 08:25 도착 : 12:52 &#8211; 무궁화호 22,500원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>08:25</td>
+<td>도착 : 12:52 &#8211; 무궁화호</td>
+<td>22,500원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>남창 에서 지평 가는 기차 시간표</title>
+		<link>/timetable/%eb%82%a8%ec%b0%bd-%ec%97%90%ec%84%9c-%ec%a7%80%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:39:27 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경기도]]></category>
+		<category><![CDATA[남창]]></category>
+		<category><![CDATA[도착지-경기도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[울산광역시]]></category>
+		<category><![CDATA[지평]]></category>
+		<category><![CDATA[출발지-울산광역시]]></category>
+		<guid isPermaLink="false">/timetable/%eb%82%a8%ec%b0%bd-%ec%97%90%ec%84%9c-%ec%a7%80%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 08:09 도착 : 12:52 &#8211; 무궁화호 23,500원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>08:09</td>
+<td>도착 : 12:52 &#8211; 무궁화호</td>
+<td>23,500원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>기장 에서 지평 가는 기차 시간표</title>
+		<link>/timetable/%ea%b8%b0%ec%9e%a5-%ec%97%90%ec%84%9c-%ec%a7%80%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:39:13 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경기도]]></category>
+		<category><![CDATA[기장]]></category>
+		<category><![CDATA[도착지-경기도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[부산광역시]]></category>
+		<category><![CDATA[지평]]></category>
+		<category><![CDATA[출발지-부산광역시]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b8%b0%ec%9e%a5-%ec%97%90%ec%84%9c-%ec%a7%80%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:48 도착 : 12:52 &#8211; 무궁화호 25,000원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:48</td>
+<td>도착 : 12:52 &#8211; 무궁화호</td>
+<td>25,000원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>신해운대 에서 지평 가는 기차 시간표</title>
+		<link>/timetable/%ec%8b%a0%ed%95%b4%ec%9a%b4%eb%8c%80-%ec%97%90%ec%84%9c-%ec%a7%80%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:38:57 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경기도]]></category>
+		<category><![CDATA[도착지-경기도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[부산광역시]]></category>
+		<category><![CDATA[신해운대]]></category>
+		<category><![CDATA[지평]]></category>
+		<category><![CDATA[출발지-부산광역시]]></category>
+		<guid isPermaLink="false">/timetable/%ec%8b%a0%ed%95%b4%ec%9a%b4%eb%8c%80-%ec%97%90%ec%84%9c-%ec%a7%80%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:38 도착 : 12:52 &#8211; 무궁화호 25,600원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:38</td>
+<td>도착 : 12:52 &#8211; 무궁화호</td>
+<td>25,600원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>센텀 에서 지평 가는 기차 시간표</title>
+		<link>/timetable/%ec%84%bc%ed%85%80-%ec%97%90%ec%84%9c-%ec%a7%80%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:38:36 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경기도]]></category>
+		<category><![CDATA[도착지-경기도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[부산광역시]]></category>
+		<category><![CDATA[센텀]]></category>
+		<category><![CDATA[지평]]></category>
+		<category><![CDATA[출발지-부산광역시]]></category>
+		<guid isPermaLink="false">/timetable/%ec%84%bc%ed%85%80-%ec%97%90%ec%84%9c-%ec%a7%80%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:31 도착 : 12:52 &#8211; 무궁화호 26,000원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:31</td>
+<td>도착 : 12:52 &#8211; 무궁화호</td>
+<td>26,000원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>부전 에서 지평 가는 기차 시간표</title>
+		<link>/timetable/%eb%b6%80%ec%a0%84-%ec%97%90%ec%84%9c-%ec%a7%80%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:38:04 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경기도]]></category>
+		<category><![CDATA[도착지-경기도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[부산광역시]]></category>
+		<category><![CDATA[부전]]></category>
+		<category><![CDATA[지평]]></category>
+		<category><![CDATA[출발지-부산광역시]]></category>
+		<guid isPermaLink="false">/timetable/%eb%b6%80%ec%a0%84-%ec%97%90%ec%84%9c-%ec%a7%80%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:20 도착 : 12:52 &#8211; 무궁화호 26,600원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:20</td>
+<td>도착 : 12:52 &#8211; 무궁화호</td>
+<td>26,600원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>동백산 에서 지평 가는 기차 시간표</title>
+		<link>/timetable/%eb%8f%99%eb%b0%b1%ec%82%b0-%ec%97%90%ec%84%9c-%ec%a7%80%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:37:39 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[강원도]]></category>
+		<category><![CDATA[경기도]]></category>
+		<category><![CDATA[도착지-경기도]]></category>
+		<category><![CDATA[동백산]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[지평]]></category>
+		<category><![CDATA[출발지-강원도]]></category>
+		<guid isPermaLink="false">/timetable/%eb%8f%99%eb%b0%b1%ec%82%b0-%ec%97%90%ec%84%9c-%ec%a7%80%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 16:19 도착 : 19:20 &#8211; 무궁화호 11,800원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>16:19</td>
+<td>도착 : 19:20 &#8211; 무궁화호</td>
+<td>11,800원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>태백 에서 지평 가는 기차 시간표</title>
+		<link>/timetable/%ed%83%9c%eb%b0%b1-%ec%97%90%ec%84%9c-%ec%a7%80%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:37:29 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[강원도]]></category>
+		<category><![CDATA[경기도]]></category>
+		<category><![CDATA[도착지-경기도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[지평]]></category>
+		<category><![CDATA[출발지-강원도]]></category>
+		<category><![CDATA[태백]]></category>
+		<guid isPermaLink="false">/timetable/%ed%83%9c%eb%b0%b1-%ec%97%90%ec%84%9c-%ec%a7%80%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 06:56 도착 : 09:39 &#8211; 무궁화호 11,200원 16:31 도착 : 19:20 &#8211; 무궁화호 11,200원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>06:56</td>
+<td>도착 : 09:39 &#8211; 무궁화호</td>
+<td>11,200원</td>
+</tr>
+<tr>
+<td>16:31</td>
+<td>도착 : 19:20 &#8211; 무궁화호</td>
+<td>11,200원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>고한 에서 지평 가는 기차 시간표</title>
+		<link>/timetable/%ea%b3%a0%ed%95%9c-%ec%97%90%ec%84%9c-%ec%a7%80%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:37:21 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[강원도]]></category>
+		<category><![CDATA[경기도]]></category>
+		<category><![CDATA[고한]]></category>
+		<category><![CDATA[도착지-경기도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[지평]]></category>
+		<category><![CDATA[출발지-강원도]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b3%a0%ed%95%9c-%ec%97%90%ec%84%9c-%ec%a7%80%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:12 도착 : 09:39 &#8211; 무궁화호 10,300원 16:47 도착 : 19:20 &#8211; 무궁화호 10,300원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:12</td>
+<td>도착 : 09:39 &#8211; 무궁화호</td>
+<td>10,300원</td>
+</tr>
+<tr>
+<td>16:47</td>
+<td>도착 : 19:20 &#8211; 무궁화호</td>
+<td>10,300원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>사북 에서 지평 가는 기차 시간표</title>
+		<link>/timetable/%ec%82%ac%eb%b6%81-%ec%97%90%ec%84%9c-%ec%a7%80%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:37:09 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[강원도]]></category>
+		<category><![CDATA[경기도]]></category>
+		<category><![CDATA[도착지-경기도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[사북]]></category>
+		<category><![CDATA[지평]]></category>
+		<category><![CDATA[출발지-강원도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%82%ac%eb%b6%81-%ec%97%90%ec%84%9c-%ec%a7%80%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:19 도착 : 09:39 &#8211; 무궁화호 10,000원 16:54 도착 : 19:20 &#8211; 무궁화호 10,000원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:19</td>
+<td>도착 : 09:39 &#8211; 무궁화호</td>
+<td>10,000원</td>
+</tr>
+<tr>
+<td>16:54</td>
+<td>도착 : 19:20 &#8211; 무궁화호</td>
+<td>10,000원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>민둥산 에서 지평 가는 기차 시간표</title>
+		<link>/timetable/%eb%af%bc%eb%91%a5%ec%82%b0-%ec%97%90%ec%84%9c-%ec%a7%80%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:37:01 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[강원도]]></category>
+		<category><![CDATA[경기도]]></category>
+		<category><![CDATA[도착지-경기도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[민둥산]]></category>
+		<category><![CDATA[지평]]></category>
+		<category><![CDATA[출발지-강원도]]></category>
+		<guid isPermaLink="false">/timetable/%eb%af%bc%eb%91%a5%ec%82%b0-%ec%97%90%ec%84%9c-%ec%a7%80%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:28 도착 : 09:39 &#8211; 무궁화호 9,600원 17:03 도착 : 19:20 &#8211; 무궁화호 9,600원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:28</td>
+<td>도착 : 09:39 &#8211; 무궁화호</td>
+<td>9,600원</td>
+</tr>
+<tr>
+<td>17:03</td>
+<td>도착 : 19:20 &#8211; 무궁화호</td>
+<td>9,600원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>예미 에서 지평 가는 기차 시간표</title>
+		<link>/timetable/%ec%98%88%eb%af%b8-%ec%97%90%ec%84%9c-%ec%a7%80%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:36:52 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[강원도]]></category>
+		<category><![CDATA[경기도]]></category>
+		<category><![CDATA[도착지-경기도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[예미]]></category>
+		<category><![CDATA[지평]]></category>
+		<category><![CDATA[출발지-강원도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%98%88%eb%af%b8-%ec%97%90%ec%84%9c-%ec%a7%80%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:49 도착 : 09:39 &#8211; 무궁화호 8,500원 17:24 도착 : 19:20 &#8211; 무궁화호 8,500원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:49</td>
+<td>도착 : 09:39 &#8211; 무궁화호</td>
+<td>8,500원</td>
+</tr>
+<tr>
+<td>17:24</td>
+<td>도착 : 19:20 &#8211; 무궁화호</td>
+<td>8,500원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>영월 에서 지평 가는 기차 시간표</title>
+		<link>/timetable/%ec%98%81%ec%9b%94-%ec%97%90%ec%84%9c-%ec%a7%80%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:36:45 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[강원도]]></category>
+		<category><![CDATA[경기도]]></category>
+		<category><![CDATA[도착지-경기도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[영월]]></category>
+		<category><![CDATA[지평]]></category>
+		<category><![CDATA[출발지-강원도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%98%81%ec%9b%94-%ec%97%90%ec%84%9c-%ec%a7%80%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 08:09 도착 : 09:39 &#8211; 무궁화호 7,400원 17:44 도착 : 19:20 &#8211; 무궁화호 7,400원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>08:09</td>
+<td>도착 : 09:39 &#8211; 무궁화호</td>
+<td>7,400원</td>
+</tr>
+<tr>
+<td>17:44</td>
+<td>도착 : 19:20 &#8211; 무궁화호</td>
+<td>7,400원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>쌍룡 에서 지평 가는 기차 시간표</title>
+		<link>/timetable/%ec%8c%8d%eb%a3%a1-%ec%97%90%ec%84%9c-%ec%a7%80%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:36:37 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[강원도]]></category>
+		<category><![CDATA[경기도]]></category>
+		<category><![CDATA[도착지-경기도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[쌍룡]]></category>
+		<category><![CDATA[지평]]></category>
+		<category><![CDATA[출발지-강원도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%8c%8d%eb%a3%a1-%ec%97%90%ec%84%9c-%ec%a7%80%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 08:25 도착 : 09:39 &#8211; 무궁화호 6,400원 18:00 도착 : 19:20 &#8211; 무궁화호 6,400원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>08:25</td>
+<td>도착 : 09:39 &#8211; 무궁화호</td>
+<td>6,400원</td>
+</tr>
+<tr>
+<td>18:00</td>
+<td>도착 : 19:20 &#8211; 무궁화호</td>
+<td>6,400원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>동해 에서 지평 가는 기차 시간표</title>
+		<link>/timetable/%eb%8f%99%ed%95%b4-%ec%97%90%ec%84%9c-%ec%a7%80%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:36:08 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[강원도]]></category>
+		<category><![CDATA[경기도]]></category>
+		<category><![CDATA[도착지-경기도]]></category>
+		<category><![CDATA[동해]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[지평]]></category>
+		<category><![CDATA[출발지-강원도]]></category>
+		<guid isPermaLink="false">/timetable/%eb%8f%99%ed%95%b4-%ec%97%90%ec%84%9c-%ec%a7%80%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 05:50 도착 : 09:39 &#8211; 무궁화호 15,200원 15:20 도착 : 19:20 &#8211; 무궁화호 15,200원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>05:50</td>
+<td>도착 : 09:39 &#8211; 무궁화호</td>
+<td>15,200원</td>
+</tr>
+<tr>
+<td>15:20</td>
+<td>도착 : 19:20 &#8211; 무궁화호</td>
+<td>15,200원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>신기 에서 지평 가는 기차 시간표</title>
+		<link>/timetable/%ec%8b%a0%ea%b8%b0-%ec%97%90%ec%84%9c-%ec%a7%80%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:35:49 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[강원도]]></category>
+		<category><![CDATA[경기도]]></category>
+		<category><![CDATA[도착지-경기도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[신기]]></category>
+		<category><![CDATA[지평]]></category>
+		<category><![CDATA[출발지-강원도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%8b%a0%ea%b8%b0-%ec%97%90%ec%84%9c-%ec%a7%80%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 15:46 도착 : 19:20 &#8211; 무궁화호 13,900원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>15:46</td>
+<td>도착 : 19:20 &#8211; 무궁화호</td>
+<td>13,900원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>도계 에서 지평 가는 기차 시간표</title>
+		<link>/timetable/%eb%8f%84%ea%b3%84-%ec%97%90%ec%84%9c-%ec%a7%80%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:35:33 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[강원도]]></category>
+		<category><![CDATA[경기도]]></category>
+		<category><![CDATA[도계]]></category>
+		<category><![CDATA[도착지-경기도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[지평]]></category>
+		<category><![CDATA[출발지-강원도]]></category>
+		<guid isPermaLink="false">/timetable/%eb%8f%84%ea%b3%84-%ec%97%90%ec%84%9c-%ec%a7%80%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 06:29 도착 : 09:39 &#8211; 무궁화호 12,900원 16:03 도착 : 19:20 &#8211; 무궁화호 12,900원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>06:29</td>
+<td>도착 : 09:39 &#8211; 무궁화호</td>
+<td>12,900원</td>
+</tr>
+<tr>
+<td>16:03</td>
+<td>도착 : 19:20 &#8211; 무궁화호</td>
+<td>12,900원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>청량리 에서 지평 가는 기차 시간표</title>
+		<link>/timetable/%ec%b2%ad%eb%9f%89%eb%a6%ac-%ec%97%90%ec%84%9c-%ec%a7%80%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:33:00 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경기도]]></category>
+		<category><![CDATA[도착지-경기도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[서울특별시]]></category>
+		<category><![CDATA[지평]]></category>
+		<category><![CDATA[청량리]]></category>
+		<category><![CDATA[출발지-서울특별시]]></category>
+		<guid isPermaLink="false">/timetable/%ec%b2%ad%eb%9f%89%eb%a6%ac-%ec%97%90%ec%84%9c-%ec%a7%80%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 06:50 도착 : 07:32 &#8211; 무궁화호 4,000원 07:34 도착 : 08:21 &#8211; 무궁화호 4,000원 14:50 도착 : 15:32 &#8211; 무궁화호 4,000원 19:10 도착 : 19:56 &#8211; 무궁화호 4,000원 21:25 도착 : 22:10 &#8211; 무궁화호 4,000원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>06:50</td>
+<td>도착 : 07:32 &#8211; 무궁화호</td>
+<td>4,000원</td>
+</tr>
+<tr>
+<td>07:34</td>
+<td>도착 : 08:21 &#8211; 무궁화호</td>
+<td>4,000원</td>
+</tr>
+<tr>
+<td>14:50</td>
+<td>도착 : 15:32 &#8211; 무궁화호</td>
+<td>4,000원</td>
+</tr>
+<tr>
+<td>19:10</td>
+<td>도착 : 19:56 &#8211; 무궁화호</td>
+<td>4,000원</td>
+</tr>
+<tr>
+<td>21:25</td>
+<td>도착 : 22:10 &#8211; 무궁화호</td>
+<td>4,000원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>영천 에서 지평 가는 기차 시간표</title>
+		<link>/timetable/%ec%98%81%ec%b2%9c-%ec%97%90%ec%84%9c-%ec%a7%80%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:20:56 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경기도]]></category>
+		<category><![CDATA[경상북도]]></category>
+		<category><![CDATA[도착지-경기도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[영천]]></category>
+		<category><![CDATA[지평]]></category>
+		<category><![CDATA[출발지-경상북도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%98%81%ec%b2%9c-%ec%97%90%ec%84%9c-%ec%a7%80%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 09:27 도착 : 12:52 &#8211; 무궁화호 17,100원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>09:27</td>
+<td>도착 : 12:52 &#8211; 무궁화호</td>
+<td>17,100원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>신녕 에서 지평 가는 기차 시간표</title>
+		<link>/timetable/%ec%8b%a0%eb%85%95-%ec%97%90%ec%84%9c-%ec%a7%80%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:20:34 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경기도]]></category>
+		<category><![CDATA[경상북도]]></category>
+		<category><![CDATA[도착지-경기도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[신녕]]></category>
+		<category><![CDATA[지평]]></category>
+		<category><![CDATA[출발지-경상북도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%8b%a0%eb%85%95-%ec%97%90%ec%84%9c-%ec%a7%80%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 09:41 도착 : 12:52 &#8211; 무궁화호 16,000원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>09:41</td>
+<td>도착 : 12:52 &#8211; 무궁화호</td>
+<td>16,000원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

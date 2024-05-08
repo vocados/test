@@ -1,0 +1,1041 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>함열 &#8211; 기차 시간표</title>
+	<atom:link href="/tag/%ED%95%A8%EC%97%B4/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Tue, 07 May 2024 22:49:21 +0000</lastBuildDate>
+	<language>ko-KR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/05/cropped-favicon-1-1-32x32.png</url>
+	<title>함열 &#8211; 기차 시간표</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>극락강 에서 함열 가는 기차 시간표</title>
+		<link>/timetable/%ea%b7%b9%eb%9d%bd%ea%b0%95-%ec%97%90%ec%84%9c-%ed%95%a8%ec%97%b4-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:49:21 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[광주광역시]]></category>
+		<category><![CDATA[극락강]]></category>
+		<category><![CDATA[도착지-전라북도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[전라북도]]></category>
+		<category><![CDATA[출발지-광주광역시]]></category>
+		<category><![CDATA[함열]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b7%b9%eb%9d%bd%ea%b0%95-%ec%97%90%ec%84%9c-%ed%95%a8%ec%97%b4-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 05:46 도착 : 07:12 &#8211; 무궁화호 7,700원 12:20 도착 : 13:47 &#8211; 무궁화호 7,700원 21:29 도착 : 22:55 &#8211; 무궁화호 7,700원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>05:46</td>
+<td>도착 : 07:12 &#8211; 무궁화호</td>
+<td>7,700원</td>
+</tr>
+<tr>
+<td>12:20</td>
+<td>도착 : 13:47 &#8211; 무궁화호</td>
+<td>7,700원</td>
+</tr>
+<tr>
+<td>21:29</td>
+<td>도착 : 22:55 &#8211; 무궁화호</td>
+<td>7,700원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>광주 에서 함열 가는 기차 시간표</title>
+		<link>/timetable/%ea%b4%91%ec%a3%bc-%ec%97%90%ec%84%9c-%ed%95%a8%ec%97%b4-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:49:09 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[광주]]></category>
+		<category><![CDATA[광주광역시]]></category>
+		<category><![CDATA[도착지-전라북도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[전라북도]]></category>
+		<category><![CDATA[출발지-광주광역시]]></category>
+		<category><![CDATA[함열]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b4%91%ec%a3%bc-%ec%97%90%ec%84%9c-%ed%95%a8%ec%97%b4-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 05:37 도착 : 07:12 &#8211; 무궁화호 8,100원 12:11 도착 : 13:47 &#8211; 무궁화호 8,100원 12:43 도착 : 14:10 &#8211; 무궁화호 8,100원 14:59 도착 : 16:34 &#8211; 무궁화호 8,100원 21:20 도착 : 22:55 &#8211; 무궁화호 8,100원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>05:37</td>
+<td>도착 : 07:12 &#8211; 무궁화호</td>
+<td>8,100원</td>
+</tr>
+<tr>
+<td>12:11</td>
+<td>도착 : 13:47 &#8211; 무궁화호</td>
+<td>8,100원</td>
+</tr>
+<tr>
+<td>12:43</td>
+<td>도착 : 14:10 &#8211; 무궁화호</td>
+<td>8,100원</td>
+</tr>
+<tr>
+<td>14:59</td>
+<td>도착 : 16:34 &#8211; 무궁화호</td>
+<td>8,100원</td>
+</tr>
+<tr>
+<td>21:20</td>
+<td>도착 : 22:55 &#8211; 무궁화호</td>
+<td>8,100원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>여수EXPO 에서 함열 가는 기차 시간표</title>
+		<link>/timetable/%ec%97%ac%ec%88%98expo-%ec%97%90%ec%84%9c-%ed%95%a8%ec%97%b4-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:29:05 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[도착지-전라북도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[여수EXPO]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[전라북도]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<category><![CDATA[함열]]></category>
+		<guid isPermaLink="false">/timetable/%ec%97%ac%ec%88%98expo-%ec%97%90%ec%84%9c-%ed%95%a8%ec%97%b4-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 06:30 도착 : 08:51 &#8211; 무궁화호 12,700원 13:19 도착 : 15:35 &#8211; 무궁화호 12,700원 18:12 도착 : 20:30 &#8211; 무궁화호 12,700원 19:14 도착 : 21:37 &#8211; 무궁화호 12,700원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>06:30</td>
+<td>도착 : 08:51 &#8211; 무궁화호</td>
+<td>12,700원</td>
+</tr>
+<tr>
+<td>13:19</td>
+<td>도착 : 15:35 &#8211; 무궁화호</td>
+<td>12,700원</td>
+</tr>
+<tr>
+<td>18:12</td>
+<td>도착 : 20:30 &#8211; 무궁화호</td>
+<td>12,700원</td>
+</tr>
+<tr>
+<td>19:14</td>
+<td>도착 : 21:37 &#8211; 무궁화호</td>
+<td>12,700원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>여천 에서 함열 가는 기차 시간표</title>
+		<link>/timetable/%ec%97%ac%ec%b2%9c-%ec%97%90%ec%84%9c-%ed%95%a8%ec%97%b4-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:28:55 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[도착지-전라북도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[여천]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[전라북도]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<category><![CDATA[함열]]></category>
+		<guid isPermaLink="false">/timetable/%ec%97%ac%ec%b2%9c-%ec%97%90%ec%84%9c-%ed%95%a8%ec%97%b4-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 06:38 도착 : 08:51 &#8211; 무궁화호 12,100원 13:28 도착 : 15:35 &#8211; 무궁화호 12,100원 18:21 도착 : 20:30 &#8211; 무궁화호 12,100원 19:22 도착 : 21:37 &#8211; 무궁화호 12,100원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>06:38</td>
+<td>도착 : 08:51 &#8211; 무궁화호</td>
+<td>12,100원</td>
+</tr>
+<tr>
+<td>13:28</td>
+<td>도착 : 15:35 &#8211; 무궁화호</td>
+<td>12,100원</td>
+</tr>
+<tr>
+<td>18:21</td>
+<td>도착 : 20:30 &#8211; 무궁화호</td>
+<td>12,100원</td>
+</tr>
+<tr>
+<td>19:22</td>
+<td>도착 : 21:37 &#8211; 무궁화호</td>
+<td>12,100원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>순천 에서 함열 가는 기차 시간표</title>
+		<link>/timetable/%ec%88%9c%ec%b2%9c-%ec%97%90%ec%84%9c-%ed%95%a8%ec%97%b4-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:28:32 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[도착지-전라북도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[순천]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[전라북도]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<category><![CDATA[함열]]></category>
+		<guid isPermaLink="false">/timetable/%ec%88%9c%ec%b2%9c-%ec%97%90%ec%84%9c-%ed%95%a8%ec%97%b4-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 06:54 도착 : 08:51 &#8211; 무궁화호 10,500원 13:44 도착 : 15:35 &#8211; 무궁화호 10,500원 18:38 도착 : 20:30 &#8211; 무궁화호 10,500원 19:38 도착 : 21:37 &#8211; 무궁화호 10,500원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>06:54</td>
+<td>도착 : 08:51 &#8211; 무궁화호</td>
+<td>10,500원</td>
+</tr>
+<tr>
+<td>13:44</td>
+<td>도착 : 15:35 &#8211; 무궁화호</td>
+<td>10,500원</td>
+</tr>
+<tr>
+<td>18:38</td>
+<td>도착 : 20:30 &#8211; 무궁화호</td>
+<td>10,500원</td>
+</tr>
+<tr>
+<td>19:38</td>
+<td>도착 : 21:37 &#8211; 무궁화호</td>
+<td>10,500원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>구례구 에서 함열 가는 기차 시간표</title>
+		<link>/timetable/%ea%b5%ac%eb%a1%80%ea%b5%ac-%ec%97%90%ec%84%9c-%ed%95%a8%ec%97%b4-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:28:19 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[구례구]]></category>
+		<category><![CDATA[도착지-전라북도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[전라북도]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<category><![CDATA[함열]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b5%ac%eb%a1%80%ea%b5%ac-%ec%97%90%ec%84%9c-%ed%95%a8%ec%97%b4-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:11 도착 : 08:51 &#8211; 무궁화호 8,700원 14:01 도착 : 15:35 &#8211; 무궁화호 8,700원 18:56 도착 : 20:30 &#8211; 무궁화호 8,700원 19:55 도착 : 21:37 &#8211; 무궁화호 8,700원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:11</td>
+<td>도착 : 08:51 &#8211; 무궁화호</td>
+<td>8,700원</td>
+</tr>
+<tr>
+<td>14:01</td>
+<td>도착 : 15:35 &#8211; 무궁화호</td>
+<td>8,700원</td>
+</tr>
+<tr>
+<td>18:56</td>
+<td>도착 : 20:30 &#8211; 무궁화호</td>
+<td>8,700원</td>
+</tr>
+<tr>
+<td>19:55</td>
+<td>도착 : 21:37 &#8211; 무궁화호</td>
+<td>8,700원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>곡성 에서 함열 가는 기차 시간표</title>
+		<link>/timetable/%ea%b3%a1%ec%84%b1-%ec%97%90%ec%84%9c-%ed%95%a8%ec%97%b4-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:28:11 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[곡성]]></category>
+		<category><![CDATA[도착지-전라북도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[전라북도]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<category><![CDATA[함열]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b3%a1%ec%84%b1-%ec%97%90%ec%84%9c-%ed%95%a8%ec%97%b4-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:23 도착 : 08:51 &#8211; 무궁화호 7,300원 14:14 도착 : 15:35 &#8211; 무궁화호 7,300원 19:08 도착 : 20:30 &#8211; 무궁화호 7,300원 20:14 도착 : 21:37 &#8211; 무궁화호 7,300원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:23</td>
+<td>도착 : 08:51 &#8211; 무궁화호</td>
+<td>7,300원</td>
+</tr>
+<tr>
+<td>14:14</td>
+<td>도착 : 15:35 &#8211; 무궁화호</td>
+<td>7,300원</td>
+</tr>
+<tr>
+<td>19:08</td>
+<td>도착 : 20:30 &#8211; 무궁화호</td>
+<td>7,300원</td>
+</tr>
+<tr>
+<td>20:14</td>
+<td>도착 : 21:37 &#8211; 무궁화호</td>
+<td>7,300원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>남원 에서 함열 가는 기차 시간표</title>
+		<link>/timetable/%eb%82%a8%ec%9b%90-%ec%97%90%ec%84%9c-%ed%95%a8%ec%97%b4-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:28:00 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[남원]]></category>
+		<category><![CDATA[도착지-전라북도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[전라북도]]></category>
+		<category><![CDATA[출발지-전라북도]]></category>
+		<category><![CDATA[함열]]></category>
+		<guid isPermaLink="false">/timetable/%eb%82%a8%ec%9b%90-%ec%97%90%ec%84%9c-%ed%95%a8%ec%97%b4-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:35 도착 : 08:51 &#8211; 무궁화호 6,200원 14:26 도착 : 15:35 &#8211; 무궁화호 6,200원 19:19 도착 : 20:30 &#8211; 무궁화호 6,200원 20:28 도착 : 21:37 &#8211; 무궁화호 6,200원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:35</td>
+<td>도착 : 08:51 &#8211; 무궁화호</td>
+<td>6,200원</td>
+</tr>
+<tr>
+<td>14:26</td>
+<td>도착 : 15:35 &#8211; 무궁화호</td>
+<td>6,200원</td>
+</tr>
+<tr>
+<td>19:19</td>
+<td>도착 : 20:30 &#8211; 무궁화호</td>
+<td>6,200원</td>
+</tr>
+<tr>
+<td>20:28</td>
+<td>도착 : 21:37 &#8211; 무궁화호</td>
+<td>6,200원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>오수 에서 함열 가는 기차 시간표</title>
+		<link>/timetable/%ec%98%a4%ec%88%98-%ec%97%90%ec%84%9c-%ed%95%a8%ec%97%b4-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:27:52 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[도착지-전라북도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[오수]]></category>
+		<category><![CDATA[전라북도]]></category>
+		<category><![CDATA[출발지-전라북도]]></category>
+		<category><![CDATA[함열]]></category>
+		<guid isPermaLink="false">/timetable/%ec%98%a4%ec%88%98-%ec%97%90%ec%84%9c-%ed%95%a8%ec%97%b4-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:46 도착 : 08:51 &#8211; 무궁화호 5,200원 14:37 도착 : 15:35 &#8211; 무궁화호 5,200원 19:31 도착 : 20:30 &#8211; 무궁화호 5,200원 20:39 도착 : 21:37 &#8211; 무궁화호 5,200원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:46</td>
+<td>도착 : 08:51 &#8211; 무궁화호</td>
+<td>5,200원</td>
+</tr>
+<tr>
+<td>14:37</td>
+<td>도착 : 15:35 &#8211; 무궁화호</td>
+<td>5,200원</td>
+</tr>
+<tr>
+<td>19:31</td>
+<td>도착 : 20:30 &#8211; 무궁화호</td>
+<td>5,200원</td>
+</tr>
+<tr>
+<td>20:39</td>
+<td>도착 : 21:37 &#8211; 무궁화호</td>
+<td>5,200원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>임실 에서 함열 가는 기차 시간표</title>
+		<link>/timetable/%ec%9e%84%ec%8b%a4-%ec%97%90%ec%84%9c-%ed%95%a8%ec%97%b4-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:27:45 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[도착지-전라북도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[임실]]></category>
+		<category><![CDATA[전라북도]]></category>
+		<category><![CDATA[출발지-전라북도]]></category>
+		<category><![CDATA[함열]]></category>
+		<guid isPermaLink="false">/timetable/%ec%9e%84%ec%8b%a4-%ec%97%90%ec%84%9c-%ed%95%a8%ec%97%b4-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:59 도착 : 08:51 &#8211; 무궁화호 4,500원 14:45 도착 : 15:35 &#8211; 무궁화호 4,500원 19:40 도착 : 20:30 &#8211; 무궁화호 4,500원 20:47 도착 : 21:37 &#8211; 무궁화호 4,500원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:59</td>
+<td>도착 : 08:51 &#8211; 무궁화호</td>
+<td>4,500원</td>
+</tr>
+<tr>
+<td>14:45</td>
+<td>도착 : 15:35 &#8211; 무궁화호</td>
+<td>4,500원</td>
+</tr>
+<tr>
+<td>19:40</td>
+<td>도착 : 20:30 &#8211; 무궁화호</td>
+<td>4,500원</td>
+</tr>
+<tr>
+<td>20:47</td>
+<td>도착 : 21:37 &#8211; 무궁화호</td>
+<td>4,500원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>전주 에서 함열 가는 기차 시간표</title>
+		<link>/timetable/%ec%a0%84%ec%a3%bc-%ec%97%90%ec%84%9c-%ed%95%a8%ec%97%b4-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:27:34 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[도착지-전라북도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[전라북도]]></category>
+		<category><![CDATA[전주]]></category>
+		<category><![CDATA[출발지-전라북도]]></category>
+		<category><![CDATA[함열]]></category>
+		<guid isPermaLink="false">/timetable/%ec%a0%84%ec%a3%bc-%ec%97%90%ec%84%9c-%ed%95%a8%ec%97%b4-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 08:18 도착 : 08:51 &#8211; 무궁화호 2,700원 15:03 도착 : 15:35 &#8211; 무궁화호 2,700원 19:57 도착 : 20:30 &#8211; 무궁화호 2,700원 21:04 도착 : 21:37 &#8211; 무궁화호 2,700원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>08:18</td>
+<td>도착 : 08:51 &#8211; 무궁화호</td>
+<td>2,700원</td>
+</tr>
+<tr>
+<td>15:03</td>
+<td>도착 : 15:35 &#8211; 무궁화호</td>
+<td>2,700원</td>
+</tr>
+<tr>
+<td>19:57</td>
+<td>도착 : 20:30 &#8211; 무궁화호</td>
+<td>2,700원</td>
+</tr>
+<tr>
+<td>21:04</td>
+<td>도착 : 21:37 &#8211; 무궁화호</td>
+<td>2,700원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>삼례 에서 함열 가는 기차 시간표</title>
+		<link>/timetable/%ec%82%bc%eb%a1%80-%ec%97%90%ec%84%9c-%ed%95%a8%ec%97%b4-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:27:26 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[도착지-전라북도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[삼례]]></category>
+		<category><![CDATA[전라북도]]></category>
+		<category><![CDATA[출발지-전라북도]]></category>
+		<category><![CDATA[함열]]></category>
+		<guid isPermaLink="false">/timetable/%ec%82%bc%eb%a1%80-%ec%97%90%ec%84%9c-%ed%95%a8%ec%97%b4-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 08:27 도착 : 08:51 &#8211; 무궁화호 2,600원 15:12 도착 : 15:35 &#8211; 무궁화호 2,600원 20:06 도착 : 20:30 &#8211; 무궁화호 2,600원 21:13 도착 : 21:37 &#8211; 무궁화호 2,600원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>08:27</td>
+<td>도착 : 08:51 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>15:12</td>
+<td>도착 : 15:35 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>20:06</td>
+<td>도착 : 20:30 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>21:13</td>
+<td>도착 : 21:37 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>목포 에서 함열 가는 기차 시간표</title>
+		<link>/timetable/%eb%aa%a9%ed%8f%ac-%ec%97%90%ec%84%9c-%ed%95%a8%ec%97%b4-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:27:04 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[도착지-전라북도]]></category>
+		<category><![CDATA[목포]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[전라북도]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<category><![CDATA[함열]]></category>
+		<guid isPermaLink="false">/timetable/%eb%aa%a9%ed%8f%ac-%ec%97%90%ec%84%9c-%ed%95%a8%ec%97%b4-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:11 도착 : 09:22 &#8211; 무궁화호 11,700원 16:11 도착 : 18:33 &#8211; 무궁화호 11,700원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:11</td>
+<td>도착 : 09:22 &#8211; 무궁화호</td>
+<td>11,700원</td>
+</tr>
+<tr>
+<td>16:11</td>
+<td>도착 : 18:33 &#8211; 무궁화호</td>
+<td>11,700원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>일로 에서 함열 가는 기차 시간표</title>
+		<link>/timetable/%ec%9d%bc%eb%a1%9c-%ec%97%90%ec%84%9c-%ed%95%a8%ec%97%b4-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:26:30 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[도착지-전라북도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[일로]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[전라북도]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<category><![CDATA[함열]]></category>
+		<guid isPermaLink="false">/timetable/%ec%9d%bc%eb%a1%9c-%ec%97%90%ec%84%9c-%ed%95%a8%ec%97%b4-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:21 도착 : 09:22 &#8211; 무궁화호 10,900원 16:22 도착 : 18:33 &#8211; 무궁화호 10,900원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:21</td>
+<td>도착 : 09:22 &#8211; 무궁화호</td>
+<td>10,900원</td>
+</tr>
+<tr>
+<td>16:22</td>
+<td>도착 : 18:33 &#8211; 무궁화호</td>
+<td>10,900원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>몽탄 에서 함열 가는 기차 시간표</title>
+		<link>/timetable/%eb%aa%bd%ed%83%84-%ec%97%90%ec%84%9c-%ed%95%a8%ec%97%b4-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:26:11 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[도착지-전라북도]]></category>
+		<category><![CDATA[몽탄]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[전라북도]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<category><![CDATA[함열]]></category>
+		<guid isPermaLink="false">/timetable/%eb%aa%bd%ed%83%84-%ec%97%90%ec%84%9c-%ed%95%a8%ec%97%b4-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:28 도착 : 09:22 &#8211; 무궁화호 10,300원 16:30 도착 : 18:33 &#8211; 무궁화호 10,300원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:28</td>
+<td>도착 : 09:22 &#8211; 무궁화호</td>
+<td>10,300원</td>
+</tr>
+<tr>
+<td>16:30</td>
+<td>도착 : 18:33 &#8211; 무궁화호</td>
+<td>10,300원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>무안 에서 함열 가는 기차 시간표</title>
+		<link>/timetable/%eb%ac%b4%ec%95%88-%ec%97%90%ec%84%9c-%ed%95%a8%ec%97%b4-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:25:47 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[도착지-전라북도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[무안]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[전라북도]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<category><![CDATA[함열]]></category>
+		<guid isPermaLink="false">/timetable/%eb%ac%b4%ec%95%88-%ec%97%90%ec%84%9c-%ed%95%a8%ec%97%b4-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:33 도착 : 09:22 &#8211; 무궁화호 10,000원 16:34 도착 : 18:33 &#8211; 무궁화호 10,000원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:33</td>
+<td>도착 : 09:22 &#8211; 무궁화호</td>
+<td>10,000원</td>
+</tr>
+<tr>
+<td>16:34</td>
+<td>도착 : 18:33 &#8211; 무궁화호</td>
+<td>10,000원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>함평 에서 함열 가는 기차 시간표</title>
+		<link>/timetable/%ed%95%a8%ed%8f%89-%ec%97%90%ec%84%9c-%ed%95%a8%ec%97%b4-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:25:27 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[도착지-전라북도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[전라북도]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<category><![CDATA[함열]]></category>
+		<category><![CDATA[함평]]></category>
+		<guid isPermaLink="false">/timetable/%ed%95%a8%ed%8f%89-%ec%97%90%ec%84%9c-%ed%95%a8%ec%97%b4-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:39 도착 : 09:22 &#8211; 무궁화호 9,500원 16:46 도착 : 18:33 &#8211; 무궁화호 9,500원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:39</td>
+<td>도착 : 09:22 &#8211; 무궁화호</td>
+<td>9,500원</td>
+</tr>
+<tr>
+<td>16:46</td>
+<td>도착 : 18:33 &#8211; 무궁화호</td>
+<td>9,500원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>다시 에서 함열 가는 기차 시간표</title>
+		<link>/timetable/%eb%8b%a4%ec%8b%9c-%ec%97%90%ec%84%9c-%ed%95%a8%ec%97%b4-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:25:05 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[다시]]></category>
+		<category><![CDATA[도착지-전라북도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[전라북도]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<category><![CDATA[함열]]></category>
+		<guid isPermaLink="false">/timetable/%eb%8b%a4%ec%8b%9c-%ec%97%90%ec%84%9c-%ed%95%a8%ec%97%b4-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 16:55 도착 : 18:33 &#8211; 무궁화호 8,900원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>16:55</td>
+<td>도착 : 18:33 &#8211; 무궁화호</td>
+<td>8,900원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>나주 에서 함열 가는 기차 시간표</title>
+		<link>/timetable/%eb%82%98%ec%a3%bc-%ec%97%90%ec%84%9c-%ed%95%a8%ec%97%b4-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:24:38 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[나주]]></category>
+		<category><![CDATA[도착지-전라북도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[전라북도]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<category><![CDATA[함열]]></category>
+		<guid isPermaLink="false">/timetable/%eb%82%98%ec%a3%bc-%ec%97%90%ec%84%9c-%ed%95%a8%ec%97%b4-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:51 도착 : 09:22 &#8211; 무궁화호 8,400원 17:02 도착 : 18:33 &#8211; 무궁화호 8,400원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:51</td>
+<td>도착 : 09:22 &#8211; 무궁화호</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>17:02</td>
+<td>도착 : 18:33 &#8211; 무궁화호</td>
+<td>8,400원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>광주송정 에서 함열 가는 기차 시간표</title>
+		<link>/timetable/%ea%b4%91%ec%a3%bc%ec%86%a1%ec%a0%95-%ec%97%90%ec%84%9c-%ed%95%a8%ec%97%b4-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:24:13 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[광주광역시]]></category>
+		<category><![CDATA[광주송정]]></category>
+		<category><![CDATA[도착지-전라북도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[전라북도]]></category>
+		<category><![CDATA[출발지-광주광역시]]></category>
+		<category><![CDATA[함열]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b4%91%ec%a3%bc%ec%86%a1%ec%a0%95-%ec%97%90%ec%84%9c-%ed%95%a8%ec%97%b4-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 08:03 도착 : 09:22 &#8211; 무궁화호 7,400원 17:14 도착 : 18:33 &#8211; 무궁화호 7,400원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>08:03</td>
+<td>도착 : 09:22 &#8211; 무궁화호</td>
+<td>7,400원</td>
+</tr>
+<tr>
+<td>17:14</td>
+<td>도착 : 18:33 &#8211; 무궁화호</td>
+<td>7,400원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,1033 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>김천 &#8211; 기차 시간표</title>
+	<atom:link href="/tag/%EA%B9%80%EC%B2%9C/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Tue, 07 May 2024 22:43:39 +0000</lastBuildDate>
+	<language>ko-KR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/05/cropped-favicon-1-1-32x32.png</url>
+	<title>김천 &#8211; 기차 시간표</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>진주 에서 김천 가는 기차 시간표</title>
+		<link>/timetable/%ec%a7%84%ec%a3%bc-%ec%97%90%ec%84%9c-%ea%b9%80%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:43:39 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[ITX-새마을]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[경상북도]]></category>
+		<category><![CDATA[김천]]></category>
+		<category><![CDATA[도착지-경상북도]]></category>
+		<category><![CDATA[진주]]></category>
+		<category><![CDATA[출발지-경상남도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%a7%84%ec%a3%bc-%ec%97%90%ec%84%9c-%ea%b9%80%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 08:22 도착 : 11:05 &#8211; ITX-새마을 21,400원 15:47 도착 : 18:22 &#8211; ITX-새마을 21,400원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>08:22</td>
+<td>도착 : 11:05 &#8211; ITX-새마을</td>
+<td>21,400원</td>
+</tr>
+<tr>
+<td>15:47</td>
+<td>도착 : 18:22 &#8211; ITX-새마을</td>
+<td>21,400원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>함안 에서 김천 가는 기차 시간표</title>
+		<link>/timetable/%ed%95%a8%ec%95%88-%ec%97%90%ec%84%9c-%ea%b9%80%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:42:36 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[ITX-새마을]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[경상북도]]></category>
+		<category><![CDATA[김천]]></category>
+		<category><![CDATA[도착지-경상북도]]></category>
+		<category><![CDATA[출발지-경상남도]]></category>
+		<category><![CDATA[함안]]></category>
+		<guid isPermaLink="false">/timetable/%ed%95%a8%ec%95%88-%ec%97%90%ec%84%9c-%ea%b9%80%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 08:42 도착 : 11:05 &#8211; ITX-새마을 18,200원 16:07 도착 : 18:22 &#8211; ITX-새마을 18,200원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>08:42</td>
+<td>도착 : 11:05 &#8211; ITX-새마을</td>
+<td>18,200원</td>
+</tr>
+<tr>
+<td>16:07</td>
+<td>도착 : 18:22 &#8211; ITX-새마을</td>
+<td>18,200원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>마산 에서 김천 가는 기차 시간표</title>
+		<link>/timetable/%eb%a7%88%ec%82%b0-%ec%97%90%ec%84%9c-%ea%b9%80%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:41:57 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[ITX-새마을]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[경상북도]]></category>
+		<category><![CDATA[김천]]></category>
+		<category><![CDATA[도착지-경상북도]]></category>
+		<category><![CDATA[마산]]></category>
+		<category><![CDATA[출발지-경상남도]]></category>
+		<guid isPermaLink="false">/timetable/%eb%a7%88%ec%82%b0-%ec%97%90%ec%84%9c-%ea%b9%80%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 08:53 도착 : 11:05 &#8211; ITX-새마을 16,700원 16:18 도착 : 18:22 &#8211; ITX-새마을 16,700원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>08:53</td>
+<td>도착 : 11:05 &#8211; ITX-새마을</td>
+<td>16,700원</td>
+</tr>
+<tr>
+<td>16:18</td>
+<td>도착 : 18:22 &#8211; ITX-새마을</td>
+<td>16,700원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>창원 에서 김천 가는 기차 시간표</title>
+		<link>/timetable/%ec%b0%bd%ec%9b%90-%ec%97%90%ec%84%9c-%ea%b9%80%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:41:27 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[ITX-새마을]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[경상북도]]></category>
+		<category><![CDATA[김천]]></category>
+		<category><![CDATA[도착지-경상북도]]></category>
+		<category><![CDATA[창원]]></category>
+		<category><![CDATA[출발지-경상남도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%b0%bd%ec%9b%90-%ec%97%90%ec%84%9c-%ea%b9%80%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 08:59 도착 : 11:05 &#8211; ITX-새마을 16,400원 16:24 도착 : 18:22 &#8211; ITX-새마을 16,400원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>08:59</td>
+<td>도착 : 11:05 &#8211; ITX-새마을</td>
+<td>16,400원</td>
+</tr>
+<tr>
+<td>16:24</td>
+<td>도착 : 18:22 &#8211; ITX-새마을</td>
+<td>16,400원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>창원중앙 에서 김천 가는 기차 시간표</title>
+		<link>/timetable/%ec%b0%bd%ec%9b%90%ec%a4%91%ec%95%99-%ec%97%90%ec%84%9c-%ea%b9%80%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:40:58 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[ITX-새마을]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[경상북도]]></category>
+		<category><![CDATA[김천]]></category>
+		<category><![CDATA[도착지-경상북도]]></category>
+		<category><![CDATA[창원중앙]]></category>
+		<category><![CDATA[출발지-경상남도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%b0%bd%ec%9b%90%ec%a4%91%ec%95%99-%ec%97%90%ec%84%9c-%ea%b9%80%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 09:09 도착 : 11:05 &#8211; ITX-새마을 16,100원 16:33 도착 : 18:22 &#8211; ITX-새마을 16,100원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>09:09</td>
+<td>도착 : 11:05 &#8211; ITX-새마을</td>
+<td>16,100원</td>
+</tr>
+<tr>
+<td>16:33</td>
+<td>도착 : 18:22 &#8211; ITX-새마을</td>
+<td>16,100원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>진영 에서 김천 가는 기차 시간표</title>
+		<link>/timetable/%ec%a7%84%ec%98%81-%ec%97%90%ec%84%9c-%ea%b9%80%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:40:24 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[ITX-새마을]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[경상북도]]></category>
+		<category><![CDATA[김천]]></category>
+		<category><![CDATA[도착지-경상북도]]></category>
+		<category><![CDATA[진영]]></category>
+		<category><![CDATA[출발지-경상남도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%a7%84%ec%98%81-%ec%97%90%ec%84%9c-%ea%b9%80%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 09:19 도착 : 11:05 &#8211; ITX-새마을 14,700원 16:43 도착 : 18:22 &#8211; ITX-새마을 14,700원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>09:19</td>
+<td>도착 : 11:05 &#8211; ITX-새마을</td>
+<td>14,700원</td>
+</tr>
+<tr>
+<td>16:43</td>
+<td>도착 : 18:22 &#8211; ITX-새마을</td>
+<td>14,700원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>신해운대 에서 김천 가는 기차 시간표</title>
+		<link>/timetable/%ec%8b%a0%ed%95%b4%ec%9a%b4%eb%8c%80-%ec%97%90%ec%84%9c-%ea%b9%80%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:38:53 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[ITX-새마을]]></category>
+		<category><![CDATA[경상북도]]></category>
+		<category><![CDATA[김천]]></category>
+		<category><![CDATA[도착지-경상북도]]></category>
+		<category><![CDATA[부산광역시]]></category>
+		<category><![CDATA[신해운대]]></category>
+		<category><![CDATA[출발지-부산광역시]]></category>
+		<guid isPermaLink="false">/timetable/%ec%8b%a0%ed%95%b4%ec%9a%b4%eb%8c%80-%ec%97%90%ec%84%9c-%ea%b9%80%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 17:13 도착 : 19:37 &#8211; ITX-새마을 19,100원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>17:13</td>
+<td>도착 : 19:37 &#8211; ITX-새마을</td>
+<td>19,100원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>부전 에서 김천 가는 기차 시간표</title>
+		<link>/timetable/%eb%b6%80%ec%a0%84-%ec%97%90%ec%84%9c-%ea%b9%80%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:38:01 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[ITX-새마을]]></category>
+		<category><![CDATA[경상북도]]></category>
+		<category><![CDATA[김천]]></category>
+		<category><![CDATA[도착지-경상북도]]></category>
+		<category><![CDATA[부산광역시]]></category>
+		<category><![CDATA[부전]]></category>
+		<category><![CDATA[출발지-부산광역시]]></category>
+		<guid isPermaLink="false">/timetable/%eb%b6%80%ec%a0%84-%ec%97%90%ec%84%9c-%ea%b9%80%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 17:26 도착 : 19:37 &#8211; ITX-새마을 17,700원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>17:26</td>
+<td>도착 : 19:37 &#8211; ITX-새마을</td>
+<td>17,700원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>예천 에서 김천 가는 기차 시간표</title>
+		<link>/timetable/%ec%98%88%ec%b2%9c-%ec%97%90%ec%84%9c-%ea%b9%80%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:33:54 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상북도]]></category>
+		<category><![CDATA[김천]]></category>
+		<category><![CDATA[도착지-경상북도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[예천]]></category>
+		<category><![CDATA[출발지-경상북도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%98%88%ec%b2%9c-%ec%97%90%ec%84%9c-%ea%b9%80%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 06:26 도착 : 08:04 &#8211; 무궁화호 5,300원 08:57 도착 : 10:36 &#8211; 무궁화호 5,300원 11:33 도착 : 13:10 &#8211; 무궁화호 5,300원 14:41 도착 : 16:19 &#8211; 무궁화호 5,300원 17:16 도착 : 18:54 &#8211; 무궁화호 5,300원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>06:26</td>
+<td>도착 : 08:04 &#8211; 무궁화호</td>
+<td>5,300원</td>
+</tr>
+<tr>
+<td>08:57</td>
+<td>도착 : 10:36 &#8211; 무궁화호</td>
+<td>5,300원</td>
+</tr>
+<tr>
+<td>11:33</td>
+<td>도착 : 13:10 &#8211; 무궁화호</td>
+<td>5,300원</td>
+</tr>
+<tr>
+<td>14:41</td>
+<td>도착 : 16:19 &#8211; 무궁화호</td>
+<td>5,300원</td>
+</tr>
+<tr>
+<td>17:16</td>
+<td>도착 : 18:54 &#8211; 무궁화호</td>
+<td>5,300원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>개포 에서 김천 가는 기차 시간표</title>
+		<link>/timetable/%ea%b0%9c%ed%8f%ac-%ec%97%90%ec%84%9c-%ea%b9%80%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:33:51 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[개포]]></category>
+		<category><![CDATA[경상북도]]></category>
+		<category><![CDATA[김천]]></category>
+		<category><![CDATA[도착지-경상북도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[출발지-경상북도]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b0%9c%ed%8f%ac-%ec%97%90%ec%84%9c-%ea%b9%80%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 06:40 도착 : 08:04 &#8211; 무궁화호 4,600원 09:11 도착 : 10:36 &#8211; 무궁화호 4,600원 11:47 도착 : 13:10 &#8211; 무궁화호 4,600원 14:55 도착 : 16:19 &#8211; 무궁화호 4,600원 17:30 도착 : 18:54 &#8211; 무궁화호 4,600원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>06:40</td>
+<td>도착 : 08:04 &#8211; 무궁화호</td>
+<td>4,600원</td>
+</tr>
+<tr>
+<td>09:11</td>
+<td>도착 : 10:36 &#8211; 무궁화호</td>
+<td>4,600원</td>
+</tr>
+<tr>
+<td>11:47</td>
+<td>도착 : 13:10 &#8211; 무궁화호</td>
+<td>4,600원</td>
+</tr>
+<tr>
+<td>14:55</td>
+<td>도착 : 16:19 &#8211; 무궁화호</td>
+<td>4,600원</td>
+</tr>
+<tr>
+<td>17:30</td>
+<td>도착 : 18:54 &#8211; 무궁화호</td>
+<td>4,600원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>용궁 에서 김천 가는 기차 시간표</title>
+		<link>/timetable/%ec%9a%a9%ea%b6%81-%ec%97%90%ec%84%9c-%ea%b9%80%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:33:48 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상북도]]></category>
+		<category><![CDATA[김천]]></category>
+		<category><![CDATA[도착지-경상북도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[용궁]]></category>
+		<category><![CDATA[출발지-경상북도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%9a%a9%ea%b6%81-%ec%97%90%ec%84%9c-%ea%b9%80%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 06:49 도착 : 08:04 &#8211; 무궁화호 4,200원 09:20 도착 : 10:36 &#8211; 무궁화호 4,200원 11:56 도착 : 13:10 &#8211; 무궁화호 4,200원 15:04 도착 : 16:19 &#8211; 무궁화호 4,200원 17:39 도착 : 18:54 &#8211; 무궁화호 4,200원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>06:49</td>
+<td>도착 : 08:04 &#8211; 무궁화호</td>
+<td>4,200원</td>
+</tr>
+<tr>
+<td>09:20</td>
+<td>도착 : 10:36 &#8211; 무궁화호</td>
+<td>4,200원</td>
+</tr>
+<tr>
+<td>11:56</td>
+<td>도착 : 13:10 &#8211; 무궁화호</td>
+<td>4,200원</td>
+</tr>
+<tr>
+<td>15:04</td>
+<td>도착 : 16:19 &#8211; 무궁화호</td>
+<td>4,200원</td>
+</tr>
+<tr>
+<td>17:39</td>
+<td>도착 : 18:54 &#8211; 무궁화호</td>
+<td>4,200원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>점촌 에서 김천 가는 기차 시간표</title>
+		<link>/timetable/%ec%a0%90%ec%b4%8c-%ec%97%90%ec%84%9c-%ea%b9%80%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:33:45 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상북도]]></category>
+		<category><![CDATA[김천]]></category>
+		<category><![CDATA[도착지-경상북도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[점촌]]></category>
+		<category><![CDATA[출발지-경상북도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%a0%90%ec%b4%8c-%ec%97%90%ec%84%9c-%ea%b9%80%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 06:59 도착 : 08:04 &#8211; 무궁화호 3,800원 09:30 도착 : 10:36 &#8211; 무궁화호 3,800원 12:06 도착 : 13:10 &#8211; 무궁화호 3,800원 15:14 도착 : 16:19 &#8211; 무궁화호 3,800원 17:49 도착 : 18:54 &#8211; 무궁화호 3,800원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>06:59</td>
+<td>도착 : 08:04 &#8211; 무궁화호</td>
+<td>3,800원</td>
+</tr>
+<tr>
+<td>09:30</td>
+<td>도착 : 10:36 &#8211; 무궁화호</td>
+<td>3,800원</td>
+</tr>
+<tr>
+<td>12:06</td>
+<td>도착 : 13:10 &#8211; 무궁화호</td>
+<td>3,800원</td>
+</tr>
+<tr>
+<td>15:14</td>
+<td>도착 : 16:19 &#8211; 무궁화호</td>
+<td>3,800원</td>
+</tr>
+<tr>
+<td>17:49</td>
+<td>도착 : 18:54 &#8211; 무궁화호</td>
+<td>3,800원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>함창 에서 김천 가는 기차 시간표</title>
+		<link>/timetable/%ed%95%a8%ec%b0%bd-%ec%97%90%ec%84%9c-%ea%b9%80%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:33:41 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상북도]]></category>
+		<category><![CDATA[김천]]></category>
+		<category><![CDATA[도착지-경상북도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[출발지-경상북도]]></category>
+		<category><![CDATA[함창]]></category>
+		<guid isPermaLink="false">/timetable/%ed%95%a8%ec%b0%bd-%ec%97%90%ec%84%9c-%ea%b9%80%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:05 도착 : 08:04 &#8211; 무궁화호 3,500원 09:36 도착 : 10:36 &#8211; 무궁화호 3,500원 12:12 도착 : 13:10 &#8211; 무궁화호 3,500원 15:20 도착 : 16:19 &#8211; 무궁화호 3,500원 17:55 도착 : 18:54 &#8211; 무궁화호 3,500원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:05</td>
+<td>도착 : 08:04 &#8211; 무궁화호</td>
+<td>3,500원</td>
+</tr>
+<tr>
+<td>09:36</td>
+<td>도착 : 10:36 &#8211; 무궁화호</td>
+<td>3,500원</td>
+</tr>
+<tr>
+<td>12:12</td>
+<td>도착 : 13:10 &#8211; 무궁화호</td>
+<td>3,500원</td>
+</tr>
+<tr>
+<td>15:20</td>
+<td>도착 : 16:19 &#8211; 무궁화호</td>
+<td>3,500원</td>
+</tr>
+<tr>
+<td>17:55</td>
+<td>도착 : 18:54 &#8211; 무궁화호</td>
+<td>3,500원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>상주 에서 김천 가는 기차 시간표</title>
+		<link>/timetable/%ec%83%81%ec%a3%bc-%ec%97%90%ec%84%9c-%ea%b9%80%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:33:39 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상북도]]></category>
+		<category><![CDATA[김천]]></category>
+		<category><![CDATA[도착지-경상북도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[상주]]></category>
+		<category><![CDATA[출발지-경상북도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%83%81%ec%a3%bc-%ec%97%90%ec%84%9c-%ea%b9%80%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:25 도착 : 08:04 &#8211; 무궁화호 2,600원 09:57 도착 : 10:36 &#8211; 무궁화호 2,600원 12:32 도착 : 13:10 &#8211; 무궁화호 2,600원 15:40 도착 : 16:19 &#8211; 무궁화호 2,600원 18:15 도착 : 18:54 &#8211; 무궁화호 2,600원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:25</td>
+<td>도착 : 08:04 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>09:57</td>
+<td>도착 : 10:36 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>12:32</td>
+<td>도착 : 13:10 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>15:40</td>
+<td>도착 : 16:19 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>18:15</td>
+<td>도착 : 18:54 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>청리 에서 김천 가는 기차 시간표</title>
+		<link>/timetable/%ec%b2%ad%eb%a6%ac-%ec%97%90%ec%84%9c-%ea%b9%80%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:33:36 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상북도]]></category>
+		<category><![CDATA[김천]]></category>
+		<category><![CDATA[도착지-경상북도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[청리]]></category>
+		<category><![CDATA[출발지-경상북도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%b2%ad%eb%a6%ac-%ec%97%90%ec%84%9c-%ea%b9%80%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:35 도착 : 08:04 &#8211; 무궁화호 2,600원 10:07 도착 : 10:36 &#8211; 무궁화호 2,600원 12:42 도착 : 13:10 &#8211; 무궁화호 2,600원 15:50 도착 : 16:19 &#8211; 무궁화호 2,600원 18:25 도착 : 18:54 &#8211; 무궁화호 2,600원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:35</td>
+<td>도착 : 08:04 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>10:07</td>
+<td>도착 : 10:36 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>12:42</td>
+<td>도착 : 13:10 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>15:50</td>
+<td>도착 : 16:19 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>18:25</td>
+<td>도착 : 18:54 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>옥산 에서 김천 가는 기차 시간표</title>
+		<link>/timetable/%ec%98%a5%ec%82%b0-%ec%97%90%ec%84%9c-%ea%b9%80%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:33:33 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상북도]]></category>
+		<category><![CDATA[김천]]></category>
+		<category><![CDATA[도착지-경상북도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[옥산]]></category>
+		<category><![CDATA[출발지-경상북도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%98%a5%ec%82%b0-%ec%97%90%ec%84%9c-%ea%b9%80%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:43 도착 : 08:04 &#8211; 무궁화호 2,600원 10:15 도착 : 10:36 &#8211; 무궁화호 2,600원 12:50 도착 : 13:10 &#8211; 무궁화호 2,600원 15:58 도착 : 16:19 &#8211; 무궁화호 2,600원 18:33 도착 : 18:54 &#8211; 무궁화호 2,600원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:43</td>
+<td>도착 : 08:04 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>10:15</td>
+<td>도착 : 10:36 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>12:50</td>
+<td>도착 : 13:10 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>15:58</td>
+<td>도착 : 16:19 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>18:33</td>
+<td>도착 : 18:54 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>충주 에서 김천 가는 기차 시간표</title>
+		<link>/timetable/%ec%b6%a9%ec%a3%bc-%ec%97%90%ec%84%9c-%ea%b9%80%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:30:41 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상북도]]></category>
+		<category><![CDATA[김천]]></category>
+		<category><![CDATA[도착지-경상북도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[출발지-충청북도]]></category>
+		<category><![CDATA[충주]]></category>
+		<category><![CDATA[충청북도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%b6%a9%ec%a3%bc-%ec%97%90%ec%84%9c-%ea%b9%80%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:45 도착 : 10:35 &#8211; 무궁화호 13,300원 18:36 도착 : 21:31 &#8211; 무궁화호 13,300원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:45</td>
+<td>도착 : 10:35 &#8211; 무궁화호</td>
+<td>13,300원</td>
+</tr>
+<tr>
+<td>18:36</td>
+<td>도착 : 21:31 &#8211; 무궁화호</td>
+<td>13,300원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>주덕 에서 김천 가는 기차 시간표</title>
+		<link>/timetable/%ec%a3%bc%eb%8d%95-%ec%97%90%ec%84%9c-%ea%b9%80%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:30:29 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상북도]]></category>
+		<category><![CDATA[김천]]></category>
+		<category><![CDATA[도착지-경상북도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[주덕]]></category>
+		<category><![CDATA[출발지-충청북도]]></category>
+		<category><![CDATA[충청북도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%a3%bc%eb%8d%95-%ec%97%90%ec%84%9c-%ea%b9%80%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:54 도착 : 10:35 &#8211; 무궁화호 12,600원 18:45 도착 : 21:31 &#8211; 무궁화호 12,600원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:54</td>
+<td>도착 : 10:35 &#8211; 무궁화호</td>
+<td>12,600원</td>
+</tr>
+<tr>
+<td>18:45</td>
+<td>도착 : 21:31 &#8211; 무궁화호</td>
+<td>12,600원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>음성 에서 김천 가는 기차 시간표</title>
+		<link>/timetable/%ec%9d%8c%ec%84%b1-%ec%97%90%ec%84%9c-%ea%b9%80%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:30:20 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상북도]]></category>
+		<category><![CDATA[김천]]></category>
+		<category><![CDATA[도착지-경상북도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[음성]]></category>
+		<category><![CDATA[출발지-충청북도]]></category>
+		<category><![CDATA[충청북도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%9d%8c%ec%84%b1-%ec%97%90%ec%84%9c-%ea%b9%80%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 08:04 도착 : 10:35 &#8211; 무궁화호 11,800원 18:55 도착 : 21:31 &#8211; 무궁화호 11,800원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>08:04</td>
+<td>도착 : 10:35 &#8211; 무궁화호</td>
+<td>11,800원</td>
+</tr>
+<tr>
+<td>18:55</td>
+<td>도착 : 21:31 &#8211; 무궁화호</td>
+<td>11,800원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>증평 에서 김천 가는 기차 시간표</title>
+		<link>/timetable/%ec%a6%9d%ed%8f%89-%ec%97%90%ec%84%9c-%ea%b9%80%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:30:08 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상북도]]></category>
+		<category><![CDATA[김천]]></category>
+		<category><![CDATA[도착지-경상북도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[증평]]></category>
+		<category><![CDATA[출발지-충청북도]]></category>
+		<category><![CDATA[충청북도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%a6%9d%ed%8f%89-%ec%97%90%ec%84%9c-%ea%b9%80%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 08:21 도착 : 10:35 &#8211; 무궁화호 10,400원 19:12 도착 : 21:31 &#8211; 무궁화호 10,400원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>08:21</td>
+<td>도착 : 10:35 &#8211; 무궁화호</td>
+<td>10,400원</td>
+</tr>
+<tr>
+<td>19:12</td>
+<td>도착 : 21:31 &#8211; 무궁화호</td>
+<td>10,400원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

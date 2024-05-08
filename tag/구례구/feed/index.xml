@@ -1,0 +1,1633 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>구례구 &#8211; 기차 시간표</title>
+	<atom:link href="/tag/%EA%B5%AC%EB%A1%80%EA%B5%AC/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Tue, 07 May 2024 22:50:25 +0000</lastBuildDate>
+	<language>ko-KR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/05/cropped-favicon-1-1-32x32.png</url>
+	<title>구례구 &#8211; 기차 시간표</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>공주 에서 구례구 가는 기차 시간표</title>
+		<link>/timetable/%ea%b3%b5%ec%a3%bc-%ec%97%90%ec%84%9c-%ea%b5%ac%eb%a1%80%ea%b5%ac-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:50:25 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[공주]]></category>
+		<category><![CDATA[구례구]]></category>
+		<category><![CDATA[도착지-전라남도]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[출발지-충청남도]]></category>
+		<category><![CDATA[충청남도]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b3%b5%ec%a3%bc-%ec%97%90%ec%84%9c-%ea%b5%ac%eb%a1%80%ea%b5%ac-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 08:19 도착 : 09:40 &#8211; KTX 19,000원 09:44 도착 : 11:07 &#8211; KTX 19,000원 12:02 도착 : 13:22 &#8211; KTX 19,000원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>08:19</td>
+<td>도착 : 09:40 &#8211; KTX</td>
+<td>19,000원</td>
+</tr>
+<tr>
+<td>09:44</td>
+<td>도착 : 11:07 &#8211; KTX</td>
+<td>19,000원</td>
+</tr>
+<tr>
+<td>12:02</td>
+<td>도착 : 13:22 &#8211; KTX</td>
+<td>19,000원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>천안아산 에서 구례구 가는 기차 시간표</title>
+		<link>/timetable/%ec%b2%9c%ec%95%88%ec%95%84%ec%82%b0-%ec%97%90%ec%84%9c-%ea%b5%ac%eb%a1%80%ea%b5%ac-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:49:57 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[KTX-산천(A-type)]]></category>
+		<category><![CDATA[구례구]]></category>
+		<category><![CDATA[도착지-전라남도]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[천안아산]]></category>
+		<category><![CDATA[출발지-충청남도]]></category>
+		<category><![CDATA[충청남도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%b2%9c%ec%95%88%ec%95%84%ec%82%b0-%ec%97%90%ec%84%9c-%ea%b5%ac%eb%a1%80%ea%b5%ac-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:50 도착 : 09:40 &#8211; KTX 29,400원 11:33 도착 : 13:22 &#8211; KTX 29,400원 15:18 도착 : 17:49 &#8211; KTX-산천(A-type) 28,900원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:50</td>
+<td>도착 : 09:40 &#8211; KTX</td>
+<td>29,400원</td>
+</tr>
+<tr>
+<td>11:33</td>
+<td>도착 : 13:22 &#8211; KTX</td>
+<td>29,400원</td>
+</tr>
+<tr>
+<td>15:18</td>
+<td>도착 : 17:49 &#8211; KTX-산천(A-type)</td>
+<td>28,900원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>광명 에서 구례구 가는 기차 시간표</title>
+		<link>/timetable/%ea%b4%91%eb%aa%85-%ec%97%90%ec%84%9c-%ea%b5%ac%eb%a1%80%ea%b5%ac-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:49:42 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[KTX-산천(A-type)]]></category>
+		<category><![CDATA[경기도]]></category>
+		<category><![CDATA[광명]]></category>
+		<category><![CDATA[구례구]]></category>
+		<category><![CDATA[도착지-전라남도]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[출발지-경기도]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b4%91%eb%aa%85-%ec%97%90%ec%84%9c-%ea%b5%ac%eb%a1%80%ea%b5%ac-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:27 도착 : 09:40 &#8211; KTX 39,600원 08:58 도착 : 11:07 &#8211; KTX 39,600원 11:10 도착 : 13:22 &#8211; KTX 39,600원 14:56 도착 : 17:49 &#8211; KTX-산천(A-type) 38,600원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:27</td>
+<td>도착 : 09:40 &#8211; KTX</td>
+<td>39,600원</td>
+</tr>
+<tr>
+<td>08:58</td>
+<td>도착 : 11:07 &#8211; KTX</td>
+<td>39,600원</td>
+</tr>
+<tr>
+<td>11:10</td>
+<td>도착 : 13:22 &#8211; KTX</td>
+<td>39,600원</td>
+</tr>
+<tr>
+<td>14:56</td>
+<td>도착 : 17:49 &#8211; KTX-산천(A-type)</td>
+<td>38,600원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>행신 에서 구례구 가는 기차 시간표</title>
+		<link>/timetable/%ed%96%89%ec%8b%a0-%ec%97%90%ec%84%9c-%ea%b5%ac%eb%a1%80%ea%b5%ac-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:32:48 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[경기도]]></category>
+		<category><![CDATA[구례구]]></category>
+		<category><![CDATA[도착지-전라남도]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[출발지-경기도]]></category>
+		<category><![CDATA[행신]]></category>
+		<guid isPermaLink="false">/timetable/%ed%96%89%ec%8b%a0-%ec%97%90%ec%84%9c-%ea%b5%ac%eb%a1%80%ea%b5%ac-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 06:41 도착 : 09:40 &#8211; KTX 43,100원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>06:41</td>
+<td>도착 : 09:40 &#8211; KTX</td>
+<td>43,100원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>오송 에서 구례구 가는 기차 시간표</title>
+		<link>/timetable/%ec%98%a4%ec%86%a1-%ec%97%90%ec%84%9c-%ea%b5%ac%eb%a1%80%ea%b5%ac-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:29:23 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[구례구]]></category>
+		<category><![CDATA[도착지-전라남도]]></category>
+		<category><![CDATA[오송]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[출발지-충청북도]]></category>
+		<category><![CDATA[충청북도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%98%a4%ec%86%a1-%ec%97%90%ec%84%9c-%ea%b5%ac%eb%a1%80%ea%b5%ac-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 08:02 도착 : 09:40 &#8211; KTX 25,500원 09:27 도착 : 11:07 &#8211; KTX 25,500원 11:45 도착 : 13:22 &#8211; KTX 25,500원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>08:02</td>
+<td>도착 : 09:40 &#8211; KTX</td>
+<td>25,500원</td>
+</tr>
+<tr>
+<td>09:27</td>
+<td>도착 : 11:07 &#8211; KTX</td>
+<td>25,500원</td>
+</tr>
+<tr>
+<td>11:45</td>
+<td>도착 : 13:22 &#8211; KTX</td>
+<td>25,500원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>여수EXPO 에서 구례구 가는 기차 시간표</title>
+		<link>/timetable/%ec%97%ac%ec%88%98expo-%ec%97%90%ec%84%9c-%ea%b5%ac%eb%a1%80%ea%b5%ac-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:29:09 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[ITX-새마을]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[KTX-산천(A-type)]]></category>
+		<category><![CDATA[구례구]]></category>
+		<category><![CDATA[도착지-전라남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[여수EXPO]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%97%ac%ec%88%98expo-%ec%97%90%ec%84%9c-%ea%b5%ac%eb%a1%80%ea%b5%ac-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 05:06 도착 : 05:41 &#8211; KTX-산천(A-type) 8,400원 06:30 도착 : 07:10 &#8211; 무궁화호 4,100원 07:38 도착 : 08:18 &#8211; 무궁화호 4,100원 08:12 도착 : 08:50 &#8211; ITX-새마을 6,100원 08:42 도착 : 09:17 &#8211; KTX-산천(A-type) 8,400원 08:58 도착 : 09:35 &#8211; 무궁화호 4,100원 12:09 도착 : 12:42 &#8211; KTX 8,400원 12:15 도착 : ... <a title="여수EXPO 에서 구례구 가는 기차 시간표" class="read-more" href="/timetable/%ec%97%ac%ec%88%98expo-%ec%97%90%ec%84%9c-%ea%b5%ac%eb%a1%80%ea%b5%ac-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/" aria-label="Read more about 여수EXPO 에서 구례구 가는 기차 시간표">Read more</a>]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>05:06</td>
+<td>도착 : 05:41 &#8211; KTX-산천(A-type)</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>06:30</td>
+<td>도착 : 07:10 &#8211; 무궁화호</td>
+<td>4,100원</td>
+</tr>
+<tr>
+<td>07:38</td>
+<td>도착 : 08:18 &#8211; 무궁화호</td>
+<td>4,100원</td>
+</tr>
+<tr>
+<td>08:12</td>
+<td>도착 : 08:50 &#8211; ITX-새마을</td>
+<td>6,100원</td>
+</tr>
+<tr>
+<td>08:42</td>
+<td>도착 : 09:17 &#8211; KTX-산천(A-type)</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>08:58</td>
+<td>도착 : 09:35 &#8211; 무궁화호</td>
+<td>4,100원</td>
+</tr>
+<tr>
+<td>12:09</td>
+<td>도착 : 12:42 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>12:15</td>
+<td>도착 : 12:55 &#8211; 무궁화호</td>
+<td>4,100원</td>
+</tr>
+<tr>
+<td>13:19</td>
+<td>도착 : 14:00 &#8211; 무궁화호</td>
+<td>4,100원</td>
+</tr>
+<tr>
+<td>14:10</td>
+<td>도착 : 14:49 &#8211; ITX-새마을</td>
+<td>6,100원</td>
+</tr>
+<tr>
+<td>14:44</td>
+<td>도착 : 15:24 &#8211; 무궁화호</td>
+<td>4,100원</td>
+</tr>
+<tr>
+<td>14:58</td>
+<td>도착 : 15:33 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>16:45</td>
+<td>도착 : 17:25 &#8211; 무궁화호</td>
+<td>4,100원</td>
+</tr>
+<tr>
+<td>18:05</td>
+<td>도착 : 18:41 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>18:12</td>
+<td>도착 : 18:55 &#8211; 무궁화호</td>
+<td>4,100원</td>
+</tr>
+<tr>
+<td>19:14</td>
+<td>도착 : 19:54 &#8211; 무궁화호</td>
+<td>4,100원</td>
+</tr>
+<tr>
+<td>22:40</td>
+<td>도착 : 23:20 &#8211; 무궁화호</td>
+<td>4,100원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>여천 에서 구례구 가는 기차 시간표</title>
+		<link>/timetable/%ec%97%ac%ec%b2%9c-%ec%97%90%ec%84%9c-%ea%b5%ac%eb%a1%80%ea%b5%ac-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:28:56 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[ITX-새마을]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[KTX-산천(A-type)]]></category>
+		<category><![CDATA[구례구]]></category>
+		<category><![CDATA[도착지-전라남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[여천]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%97%ac%ec%b2%9c-%ec%97%90%ec%84%9c-%ea%b5%ac%eb%a1%80%ea%b5%ac-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 05:14 도착 : 05:41 &#8211; KTX-산천(A-type) 8,400원 06:38 도착 : 07:10 &#8211; 무궁화호 3,500원 07:46 도착 : 08:18 &#8211; 무궁화호 3,500원 08:20 도착 : 08:50 &#8211; ITX-새마을 5,200원 08:50 도착 : 09:17 &#8211; KTX-산천(A-type) 8,400원 09:06 도착 : 09:35 &#8211; 무궁화호 3,500원 12:23 도착 : 12:55 &#8211; 무궁화호 3,500원 13:28 도착 : ... <a title="여천 에서 구례구 가는 기차 시간표" class="read-more" href="/timetable/%ec%97%ac%ec%b2%9c-%ec%97%90%ec%84%9c-%ea%b5%ac%eb%a1%80%ea%b5%ac-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/" aria-label="Read more about 여천 에서 구례구 가는 기차 시간표">Read more</a>]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>05:14</td>
+<td>도착 : 05:41 &#8211; KTX-산천(A-type)</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>06:38</td>
+<td>도착 : 07:10 &#8211; 무궁화호</td>
+<td>3,500원</td>
+</tr>
+<tr>
+<td>07:46</td>
+<td>도착 : 08:18 &#8211; 무궁화호</td>
+<td>3,500원</td>
+</tr>
+<tr>
+<td>08:20</td>
+<td>도착 : 08:50 &#8211; ITX-새마을</td>
+<td>5,200원</td>
+</tr>
+<tr>
+<td>08:50</td>
+<td>도착 : 09:17 &#8211; KTX-산천(A-type)</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>09:06</td>
+<td>도착 : 09:35 &#8211; 무궁화호</td>
+<td>3,500원</td>
+</tr>
+<tr>
+<td>12:23</td>
+<td>도착 : 12:55 &#8211; 무궁화호</td>
+<td>3,500원</td>
+</tr>
+<tr>
+<td>13:28</td>
+<td>도착 : 14:00 &#8211; 무궁화호</td>
+<td>3,500원</td>
+</tr>
+<tr>
+<td>14:19</td>
+<td>도착 : 14:49 &#8211; ITX-새마을</td>
+<td>5,200원</td>
+</tr>
+<tr>
+<td>14:52</td>
+<td>도착 : 15:24 &#8211; 무궁화호</td>
+<td>3,500원</td>
+</tr>
+<tr>
+<td>15:05</td>
+<td>도착 : 15:33 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>16:53</td>
+<td>도착 : 17:25 &#8211; 무궁화호</td>
+<td>3,500원</td>
+</tr>
+<tr>
+<td>18:13</td>
+<td>도착 : 18:41 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>18:21</td>
+<td>도착 : 18:55 &#8211; 무궁화호</td>
+<td>3,500원</td>
+</tr>
+<tr>
+<td>19:22</td>
+<td>도착 : 19:54 &#8211; 무궁화호</td>
+<td>3,500원</td>
+</tr>
+<tr>
+<td>22:48</td>
+<td>도착 : 23:20 &#8211; 무궁화호</td>
+<td>3,500원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>순천 에서 구례구 가는 기차 시간표</title>
+		<link>/timetable/%ec%88%9c%ec%b2%9c-%ec%97%90%ec%84%9c-%ea%b5%ac%eb%a1%80%ea%b5%ac-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:28:38 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[ITX-새마을]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[KTX-산천(A-type)]]></category>
+		<category><![CDATA[구례구]]></category>
+		<category><![CDATA[도착지-전라남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[순천]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%88%9c%ec%b2%9c-%ec%97%90%ec%84%9c-%ea%b5%ac%eb%a1%80%ea%b5%ac-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 05:27 도착 : 05:41 &#8211; KTX-산천(A-type) 8,400원 06:54 도착 : 07:10 &#8211; 무궁화호 2,600원 08:02 도착 : 08:18 &#8211; 무궁화호 2,600원 08:35 도착 : 08:50 &#8211; ITX-새마을 4,800원 09:04 도착 : 09:17 &#8211; KTX-산천(A-type) 8,400원 09:21 도착 : 09:35 &#8211; 무궁화호 2,600원 12:28 도착 : 12:42 &#8211; KTX 8,400원 12:39 도착 : ... <a title="순천 에서 구례구 가는 기차 시간표" class="read-more" href="/timetable/%ec%88%9c%ec%b2%9c-%ec%97%90%ec%84%9c-%ea%b5%ac%eb%a1%80%ea%b5%ac-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/" aria-label="Read more about 순천 에서 구례구 가는 기차 시간표">Read more</a>]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>05:27</td>
+<td>도착 : 05:41 &#8211; KTX-산천(A-type)</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>06:54</td>
+<td>도착 : 07:10 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>08:02</td>
+<td>도착 : 08:18 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>08:35</td>
+<td>도착 : 08:50 &#8211; ITX-새마을</td>
+<td>4,800원</td>
+</tr>
+<tr>
+<td>09:04</td>
+<td>도착 : 09:17 &#8211; KTX-산천(A-type)</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>09:21</td>
+<td>도착 : 09:35 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>12:28</td>
+<td>도착 : 12:42 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>12:39</td>
+<td>도착 : 12:55 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>13:44</td>
+<td>도착 : 14:00 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>14:34</td>
+<td>도착 : 14:49 &#8211; ITX-새마을</td>
+<td>4,800원</td>
+</tr>
+<tr>
+<td>15:08</td>
+<td>도착 : 15:24 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>15:19</td>
+<td>도착 : 15:33 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>17:09</td>
+<td>도착 : 17:25 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>18:27</td>
+<td>도착 : 18:41 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>18:38</td>
+<td>도착 : 18:55 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>19:38</td>
+<td>도착 : 19:54 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>23:04</td>
+<td>도착 : 23:20 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>구례구 에서 공주 가는 기차 시간표</title>
+		<link>/timetable/%ea%b5%ac%eb%a1%80%ea%b5%ac-%ec%97%90%ec%84%9c-%ea%b3%b5%ec%a3%bc-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:28:25 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[KTX-산천(A-type)]]></category>
+		<category><![CDATA[공주]]></category>
+		<category><![CDATA[구례구]]></category>
+		<category><![CDATA[도착지-충청남도]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<category><![CDATA[충청남도]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b5%ac%eb%a1%80%ea%b5%ac-%ec%97%90%ec%84%9c-%ea%b3%b5%ec%a3%bc-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 05:42 도착 : 07:03 &#8211; KTX-산천(A-type) 19,000원 15:34 도착 : 16:52 &#8211; KTX 19,000원 18:42 도착 : 20:03 &#8211; KTX 19,000원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>05:42</td>
+<td>도착 : 07:03 &#8211; KTX-산천(A-type)</td>
+<td>19,000원</td>
+</tr>
+<tr>
+<td>15:34</td>
+<td>도착 : 16:52 &#8211; KTX</td>
+<td>19,000원</td>
+</tr>
+<tr>
+<td>18:42</td>
+<td>도착 : 20:03 &#8211; KTX</td>
+<td>19,000원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>구례구 에서 천안아산 가는 기차 시간표</title>
+		<link>/timetable/%ea%b5%ac%eb%a1%80%ea%b5%ac-%ec%97%90%ec%84%9c-%ec%b2%9c%ec%95%88%ec%95%84%ec%82%b0-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:28:24 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[구례구]]></category>
+		<category><![CDATA[도착지-충청남도]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[천안아산]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<category><![CDATA[충청남도]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b5%ac%eb%a1%80%ea%b5%ac-%ec%97%90%ec%84%9c-%ec%b2%9c%ec%95%88%ec%95%84%ec%82%b0-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 12:43 도착 : 15:13 &#8211; KTX 28,900원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>12:43</td>
+<td>도착 : 15:13 &#8211; KTX</td>
+<td>28,900원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>구례구 에서 광명 가는 기차 시간표</title>
+		<link>/timetable/%ea%b5%ac%eb%a1%80%ea%b5%ac-%ec%97%90%ec%84%9c-%ea%b4%91%eb%aa%85-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:28:24 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[KTX-산천(A-type)]]></category>
+		<category><![CDATA[경기도]]></category>
+		<category><![CDATA[광명]]></category>
+		<category><![CDATA[구례구]]></category>
+		<category><![CDATA[도착지-경기도]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b5%ac%eb%a1%80%ea%b5%ac-%ec%97%90%ec%84%9c-%ea%b4%91%eb%aa%85-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 05:42 도착 : 07:56 &#8211; KTX-산천(A-type) 39,600원 09:19 도착 : 11:18 &#8211; KTX-산천(A-type) 39,600원 15:34 도착 : 17:43 &#8211; KTX 39,600원 18:42 도착 : 20:55 &#8211; KTX 39,600원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>05:42</td>
+<td>도착 : 07:56 &#8211; KTX-산천(A-type)</td>
+<td>39,600원</td>
+</tr>
+<tr>
+<td>09:19</td>
+<td>도착 : 11:18 &#8211; KTX-산천(A-type)</td>
+<td>39,600원</td>
+</tr>
+<tr>
+<td>15:34</td>
+<td>도착 : 17:43 &#8211; KTX</td>
+<td>39,600원</td>
+</tr>
+<tr>
+<td>18:42</td>
+<td>도착 : 20:55 &#8211; KTX</td>
+<td>39,600원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>구례구 에서 행신 가는 기차 시간표</title>
+		<link>/timetable/%ea%b5%ac%eb%a1%80%ea%b5%ac-%ec%97%90%ec%84%9c-%ed%96%89%ec%8b%a0-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:28:24 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[KTX-산천(A-type)]]></category>
+		<category><![CDATA[경기도]]></category>
+		<category><![CDATA[구례구]]></category>
+		<category><![CDATA[도착지-경기도]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<category><![CDATA[행신]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b5%ac%eb%a1%80%ea%b5%ac-%ec%97%90%ec%84%9c-%ed%96%89%ec%8b%a0-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 05:42 도착 : 08:43 &#8211; KTX-산천(A-type) 43,100원 18:42 도착 : 21:41 &#8211; KTX 43,100원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>05:42</td>
+<td>도착 : 08:43 &#8211; KTX-산천(A-type)</td>
+<td>43,100원</td>
+</tr>
+<tr>
+<td>18:42</td>
+<td>도착 : 21:41 &#8211; KTX</td>
+<td>43,100원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>구례구 에서 오송 가는 기차 시간표</title>
+		<link>/timetable/%ea%b5%ac%eb%a1%80%ea%b5%ac-%ec%97%90%ec%84%9c-%ec%98%a4%ec%86%a1-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:28:24 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[KTX-산천(A-type)]]></category>
+		<category><![CDATA[구례구]]></category>
+		<category><![CDATA[도착지-충청북도]]></category>
+		<category><![CDATA[오송]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<category><![CDATA[충청북도]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b5%ac%eb%a1%80%ea%b5%ac-%ec%97%90%ec%84%9c-%ec%98%a4%ec%86%a1-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 05:42 도착 : 07:21 &#8211; KTX-산천(A-type) 25,500원 12:43 도착 : 15:00 &#8211; KTX 25,100원 15:34 도착 : 17:10 &#8211; KTX 25,500원 18:42 도착 : 20:21 &#8211; KTX 25,500원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>05:42</td>
+<td>도착 : 07:21 &#8211; KTX-산천(A-type)</td>
+<td>25,500원</td>
+</tr>
+<tr>
+<td>12:43</td>
+<td>도착 : 15:00 &#8211; KTX</td>
+<td>25,100원</td>
+</tr>
+<tr>
+<td>15:34</td>
+<td>도착 : 17:10 &#8211; KTX</td>
+<td>25,500원</td>
+</tr>
+<tr>
+<td>18:42</td>
+<td>도착 : 20:21 &#8211; KTX</td>
+<td>25,500원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>구례구 에서 여수EXPO 가는 기차 시간표</title>
+		<link>/timetable/%ea%b5%ac%eb%a1%80%ea%b5%ac-%ec%97%90%ec%84%9c-%ec%97%ac%ec%88%98expo-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:28:24 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[ITX-새마을]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[KTX-산천(A-type)]]></category>
+		<category><![CDATA[구례구]]></category>
+		<category><![CDATA[도착지-전라남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[여수EXPO]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b5%ac%eb%a1%80%ea%b5%ac-%ec%97%90%ec%84%9c-%ec%97%ac%ec%88%98expo-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 08:01 도착 : 08:41 &#8211; 무궁화호 4,100원 08:52 도착 : 09:32 &#8211; 무궁화호 4,100원 09:41 도착 : 10:19 &#8211; KTX 8,400원 10:24 도착 : 11:05 &#8211; 무궁화호 4,100원 11:08 도착 : 11:46 &#8211; KTX 8,400원 11:17 도착 : 11:56 &#8211; ITX-새마을 6,100원 13:23 도착 : 14:01 &#8211; KTX 8,400원 14:30 도착 : ... <a title="구례구 에서 여수EXPO 가는 기차 시간표" class="read-more" href="/timetable/%ea%b5%ac%eb%a1%80%ea%b5%ac-%ec%97%90%ec%84%9c-%ec%97%ac%ec%88%98expo-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/" aria-label="Read more about 구례구 에서 여수EXPO 가는 기차 시간표">Read more</a>]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>08:01</td>
+<td>도착 : 08:41 &#8211; 무궁화호</td>
+<td>4,100원</td>
+</tr>
+<tr>
+<td>08:52</td>
+<td>도착 : 09:32 &#8211; 무궁화호</td>
+<td>4,100원</td>
+</tr>
+<tr>
+<td>09:41</td>
+<td>도착 : 10:19 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>10:24</td>
+<td>도착 : 11:05 &#8211; 무궁화호</td>
+<td>4,100원</td>
+</tr>
+<tr>
+<td>11:08</td>
+<td>도착 : 11:46 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>11:17</td>
+<td>도착 : 11:56 &#8211; ITX-새마을</td>
+<td>6,100원</td>
+</tr>
+<tr>
+<td>13:23</td>
+<td>도착 : 14:01 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>14:30</td>
+<td>도착 : 15:13 &#8211; 무궁화호</td>
+<td>4,100원</td>
+</tr>
+<tr>
+<td>17:00</td>
+<td>도착 : 17:43 &#8211; 무궁화호</td>
+<td>4,100원</td>
+</tr>
+<tr>
+<td>17:50</td>
+<td>도착 : 18:28 &#8211; KTX-산천(A-type)</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>19:39</td>
+<td>도착 : 20:20 &#8211; 무궁화호</td>
+<td>4,100원</td>
+</tr>
+<tr>
+<td>20:20</td>
+<td>도착 : 21:01 &#8211; 무궁화호</td>
+<td>4,100원</td>
+</tr>
+<tr>
+<td>20:42</td>
+<td>도착 : 21:22 &#8211; ITX-새마을</td>
+<td>6,100원</td>
+</tr>
+<tr>
+<td>21:51</td>
+<td>도착 : 22:32 &#8211; 무궁화호</td>
+<td>4,100원</td>
+</tr>
+<tr>
+<td>22:42</td>
+<td>도착 : 23:26 &#8211; 무궁화호</td>
+<td>4,100원</td>
+</tr>
+<tr>
+<td>23:45</td>
+<td>도착 : 00:26 &#8211; 무궁화호</td>
+<td>4,100원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>구례구 에서 순천 가는 기차 시간표</title>
+		<link>/timetable/%ea%b5%ac%eb%a1%80%ea%b5%ac-%ec%97%90%ec%84%9c-%ec%88%9c%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:28:23 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[ITX-새마을]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[KTX-산천(A-type)]]></category>
+		<category><![CDATA[구례구]]></category>
+		<category><![CDATA[도착지-전라남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[순천]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b5%ac%eb%a1%80%ea%b5%ac-%ec%97%90%ec%84%9c-%ec%88%9c%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 08:01 도착 : 08:17 &#8211; 무궁화호 2,600원 08:52 도착 : 09:08 &#8211; 무궁화호 2,600원 09:41 도착 : 09:55 &#8211; KTX 8,400원 10:24 도착 : 10:40 &#8211; 무궁화호 2,600원 11:08 도착 : 11:22 &#8211; KTX 8,400원 11:17 도착 : 11:32 &#8211; ITX-새마을 4,800원 13:23 도착 : 13:37 &#8211; KTX 8,400원 14:30 도착 : ... <a title="구례구 에서 순천 가는 기차 시간표" class="read-more" href="/timetable/%ea%b5%ac%eb%a1%80%ea%b5%ac-%ec%97%90%ec%84%9c-%ec%88%9c%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/" aria-label="Read more about 구례구 에서 순천 가는 기차 시간표">Read more</a>]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>08:01</td>
+<td>도착 : 08:17 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>08:52</td>
+<td>도착 : 09:08 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>09:41</td>
+<td>도착 : 09:55 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>10:24</td>
+<td>도착 : 10:40 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>11:08</td>
+<td>도착 : 11:22 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>11:17</td>
+<td>도착 : 11:32 &#8211; ITX-새마을</td>
+<td>4,800원</td>
+</tr>
+<tr>
+<td>13:23</td>
+<td>도착 : 13:37 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>14:30</td>
+<td>도착 : 14:47 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>17:00</td>
+<td>도착 : 17:17 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>17:50</td>
+<td>도착 : 18:04 &#8211; KTX-산천(A-type)</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>19:39</td>
+<td>도착 : 19:54 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>20:20</td>
+<td>도착 : 20:36 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>20:42</td>
+<td>도착 : 20:57 &#8211; ITX-새마을</td>
+<td>4,800원</td>
+</tr>
+<tr>
+<td>21:51</td>
+<td>도착 : 22:06 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>22:42</td>
+<td>도착 : 22:59 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>23:45</td>
+<td>도착 : 00:01 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>구례구 에서 오수 가는 기차 시간표</title>
+		<link>/timetable/%ea%b5%ac%eb%a1%80%ea%b5%ac-%ec%97%90%ec%84%9c-%ec%98%a4%ec%88%98-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:28:23 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[구례구]]></category>
+		<category><![CDATA[도착지-전라북도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[오수]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[전라북도]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b5%ac%eb%a1%80%ea%b5%ac-%ec%97%90%ec%84%9c-%ec%98%a4%ec%88%98-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:11 도착 : 07:45 &#8211; 무궁화호 3,500원 08:19 도착 : 09:00 &#8211; 무궁화호 3,500원 09:36 도착 : 10:09 &#8211; 무궁화호 3,500원 12:56 도착 : 13:29 &#8211; 무궁화호 3,500원 14:01 도착 : 14:36 &#8211; 무궁화호 3,500원 15:25 도착 : 16:06 &#8211; 무궁화호 3,500원 17:26 도착 : 17:59 &#8211; 무궁화호 3,500원 18:56 도착 : ... <a title="구례구 에서 오수 가는 기차 시간표" class="read-more" href="/timetable/%ea%b5%ac%eb%a1%80%ea%b5%ac-%ec%97%90%ec%84%9c-%ec%98%a4%ec%88%98-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/" aria-label="Read more about 구례구 에서 오수 가는 기차 시간표">Read more</a>]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:11</td>
+<td>도착 : 07:45 &#8211; 무궁화호</td>
+<td>3,500원</td>
+</tr>
+<tr>
+<td>08:19</td>
+<td>도착 : 09:00 &#8211; 무궁화호</td>
+<td>3,500원</td>
+</tr>
+<tr>
+<td>09:36</td>
+<td>도착 : 10:09 &#8211; 무궁화호</td>
+<td>3,500원</td>
+</tr>
+<tr>
+<td>12:56</td>
+<td>도착 : 13:29 &#8211; 무궁화호</td>
+<td>3,500원</td>
+</tr>
+<tr>
+<td>14:01</td>
+<td>도착 : 14:36 &#8211; 무궁화호</td>
+<td>3,500원</td>
+</tr>
+<tr>
+<td>15:25</td>
+<td>도착 : 16:06 &#8211; 무궁화호</td>
+<td>3,500원</td>
+</tr>
+<tr>
+<td>17:26</td>
+<td>도착 : 17:59 &#8211; 무궁화호</td>
+<td>3,500원</td>
+</tr>
+<tr>
+<td>18:56</td>
+<td>도착 : 19:30 &#8211; 무궁화호</td>
+<td>3,500원</td>
+</tr>
+<tr>
+<td>19:55</td>
+<td>도착 : 20:38 &#8211; 무궁화호</td>
+<td>3,500원</td>
+</tr>
+<tr>
+<td>23:21</td>
+<td>도착 : 23:54 &#8211; 무궁화호</td>
+<td>3,500원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>구례구 에서 남원 가는 기차 시간표</title>
+		<link>/timetable/%ea%b5%ac%eb%a1%80%ea%b5%ac-%ec%97%90%ec%84%9c-%eb%82%a8%ec%9b%90-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:28:23 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[ITX-새마을]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[KTX-산천(A-type)]]></category>
+		<category><![CDATA[구례구]]></category>
+		<category><![CDATA[남원]]></category>
+		<category><![CDATA[도착지-전라북도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[전라북도]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b5%ac%eb%a1%80%ea%b5%ac-%ec%97%90%ec%84%9c-%eb%82%a8%ec%9b%90-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 05:42 도착 : 05:59 &#8211; KTX-산천(A-type) 8,400원 07:11 도착 : 07:33 &#8211; 무궁화호 2,600원 08:19 도착 : 08:42 &#8211; 무궁화호 2,600원 08:51 도착 : 09:12 &#8211; ITX-새마을 4,800원 09:19 도착 : 09:36 &#8211; KTX-산천(A-type) 8,400원 09:36 도착 : 09:58 &#8211; 무궁화호 2,600원 12:43 도착 : 13:00 &#8211; KTX 8,400원 12:56 도착 : ... <a title="구례구 에서 남원 가는 기차 시간표" class="read-more" href="/timetable/%ea%b5%ac%eb%a1%80%ea%b5%ac-%ec%97%90%ec%84%9c-%eb%82%a8%ec%9b%90-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/" aria-label="Read more about 구례구 에서 남원 가는 기차 시간표">Read more</a>]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>05:42</td>
+<td>도착 : 05:59 &#8211; KTX-산천(A-type)</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>07:11</td>
+<td>도착 : 07:33 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>08:19</td>
+<td>도착 : 08:42 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>08:51</td>
+<td>도착 : 09:12 &#8211; ITX-새마을</td>
+<td>4,800원</td>
+</tr>
+<tr>
+<td>09:19</td>
+<td>도착 : 09:36 &#8211; KTX-산천(A-type)</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>09:36</td>
+<td>도착 : 09:58 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>12:43</td>
+<td>도착 : 13:00 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>12:56</td>
+<td>도착 : 13:18 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>14:01</td>
+<td>도착 : 14:24 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>14:50</td>
+<td>도착 : 15:11 &#8211; ITX-새마을</td>
+<td>4,800원</td>
+</tr>
+<tr>
+<td>15:25</td>
+<td>도착 : 15:48 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>15:34</td>
+<td>도착 : 15:51 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>17:26</td>
+<td>도착 : 17:48 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>18:42</td>
+<td>도착 : 19:03 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>18:56</td>
+<td>도착 : 19:18 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>19:55</td>
+<td>도착 : 20:26 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>23:21</td>
+<td>도착 : 23:43 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>구례구 에서 곡성 가는 기차 시간표</title>
+		<link>/timetable/%ea%b5%ac%eb%a1%80%ea%b5%ac-%ec%97%90%ec%84%9c-%ea%b3%a1%ec%84%b1-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:28:23 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[ITX-새마을]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[곡성]]></category>
+		<category><![CDATA[구례구]]></category>
+		<category><![CDATA[도착지-전라남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b5%ac%eb%a1%80%ea%b5%ac-%ec%97%90%ec%84%9c-%ea%b3%a1%ec%84%b1-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:11 도착 : 07:22 &#8211; 무궁화호 2,600원 08:19 도착 : 08:30 &#8211; 무궁화호 2,600원 08:51 도착 : 09:02 &#8211; ITX-새마을 4,800원 09:36 도착 : 09:47 &#8211; 무궁화호 2,600원 12:56 도착 : 13:07 &#8211; 무궁화호 2,600원 14:01 도착 : 14:12 &#8211; 무궁화호 2,600원 14:50 도착 : 15:01 &#8211; ITX-새마을 4,800원 15:25 도착 : ... <a title="구례구 에서 곡성 가는 기차 시간표" class="read-more" href="/timetable/%ea%b5%ac%eb%a1%80%ea%b5%ac-%ec%97%90%ec%84%9c-%ea%b3%a1%ec%84%b1-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/" aria-label="Read more about 구례구 에서 곡성 가는 기차 시간표">Read more</a>]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:11</td>
+<td>도착 : 07:22 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>08:19</td>
+<td>도착 : 08:30 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>08:51</td>
+<td>도착 : 09:02 &#8211; ITX-새마을</td>
+<td>4,800원</td>
+</tr>
+<tr>
+<td>09:36</td>
+<td>도착 : 09:47 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>12:56</td>
+<td>도착 : 13:07 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>14:01</td>
+<td>도착 : 14:12 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>14:50</td>
+<td>도착 : 15:01 &#8211; ITX-새마을</td>
+<td>4,800원</td>
+</tr>
+<tr>
+<td>15:25</td>
+<td>도착 : 15:36 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>17:26</td>
+<td>도착 : 17:37 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>18:42</td>
+<td>도착 : 18:52 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>18:56</td>
+<td>도착 : 19:07 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>19:55</td>
+<td>도착 : 20:07 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>23:21</td>
+<td>도착 : 23:32 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>구례구 에서 여천 가는 기차 시간표</title>
+		<link>/timetable/%ea%b5%ac%eb%a1%80%ea%b5%ac-%ec%97%90%ec%84%9c-%ec%97%ac%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:28:23 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[ITX-새마을]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[KTX-산천(A-type)]]></category>
+		<category><![CDATA[구례구]]></category>
+		<category><![CDATA[도착지-전라남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[여천]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b5%ac%eb%a1%80%ea%b5%ac-%ec%97%90%ec%84%9c-%ec%97%ac%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 08:01 도착 : 08:32 &#8211; 무궁화호 3,500원 08:52 도착 : 09:23 &#8211; 무궁화호 3,500원 09:41 도착 : 10:09 &#8211; KTX 8,400원 10:24 도착 : 10:56 &#8211; 무궁화호 3,500원 11:08 도착 : 11:36 &#8211; KTX 8,400원 11:17 도착 : 11:47 &#8211; ITX-새마을 5,200원 13:23 도착 : 13:51 &#8211; KTX 8,400원 14:30 도착 : ... <a title="구례구 에서 여천 가는 기차 시간표" class="read-more" href="/timetable/%ea%b5%ac%eb%a1%80%ea%b5%ac-%ec%97%90%ec%84%9c-%ec%97%ac%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/" aria-label="Read more about 구례구 에서 여천 가는 기차 시간표">Read more</a>]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>08:01</td>
+<td>도착 : 08:32 &#8211; 무궁화호</td>
+<td>3,500원</td>
+</tr>
+<tr>
+<td>08:52</td>
+<td>도착 : 09:23 &#8211; 무궁화호</td>
+<td>3,500원</td>
+</tr>
+<tr>
+<td>09:41</td>
+<td>도착 : 10:09 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>10:24</td>
+<td>도착 : 10:56 &#8211; 무궁화호</td>
+<td>3,500원</td>
+</tr>
+<tr>
+<td>11:08</td>
+<td>도착 : 11:36 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>11:17</td>
+<td>도착 : 11:47 &#8211; ITX-새마을</td>
+<td>5,200원</td>
+</tr>
+<tr>
+<td>13:23</td>
+<td>도착 : 13:51 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>14:30</td>
+<td>도착 : 15:03 &#8211; 무궁화호</td>
+<td>3,500원</td>
+</tr>
+<tr>
+<td>17:00</td>
+<td>도착 : 17:33 &#8211; 무궁화호</td>
+<td>3,500원</td>
+</tr>
+<tr>
+<td>17:50</td>
+<td>도착 : 18:19 &#8211; KTX-산천(A-type)</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>19:39</td>
+<td>도착 : 20:10 &#8211; 무궁화호</td>
+<td>3,500원</td>
+</tr>
+<tr>
+<td>20:20</td>
+<td>도착 : 20:52 &#8211; 무궁화호</td>
+<td>3,500원</td>
+</tr>
+<tr>
+<td>20:42</td>
+<td>도착 : 21:12 &#8211; ITX-새마을</td>
+<td>5,200원</td>
+</tr>
+<tr>
+<td>21:51</td>
+<td>도착 : 22:22 &#8211; 무궁화호</td>
+<td>3,500원</td>
+</tr>
+<tr>
+<td>22:42</td>
+<td>도착 : 23:16 &#8211; 무궁화호</td>
+<td>3,500원</td>
+</tr>
+<tr>
+<td>23:45</td>
+<td>도착 : 00:16 &#8211; 무궁화호</td>
+<td>3,500원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>구례구 에서 임실 가는 기차 시간표</title>
+		<link>/timetable/%ea%b5%ac%eb%a1%80%ea%b5%ac-%ec%97%90%ec%84%9c-%ec%9e%84%ec%8b%a4-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:28:22 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[구례구]]></category>
+		<category><![CDATA[도착지-전라북도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[임실]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[전라북도]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b5%ac%eb%a1%80%ea%b5%ac-%ec%97%90%ec%84%9c-%ec%9e%84%ec%8b%a4-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:11 도착 : 07:54 &#8211; 무궁화호 4,200원 08:19 도착 : 09:08 &#8211; 무궁화호 4,200원 09:36 도착 : 10:17 &#8211; 무궁화호 4,200원 12:56 도착 : 13:37 &#8211; 무궁화호 4,200원 14:01 도착 : 14:44 &#8211; 무궁화호 4,200원 15:25 도착 : 16:14 &#8211; 무궁화호 4,200원 17:26 도착 : 18:07 &#8211; 무궁화호 4,200원 18:56 도착 : ... <a title="구례구 에서 임실 가는 기차 시간표" class="read-more" href="/timetable/%ea%b5%ac%eb%a1%80%ea%b5%ac-%ec%97%90%ec%84%9c-%ec%9e%84%ec%8b%a4-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/" aria-label="Read more about 구례구 에서 임실 가는 기차 시간표">Read more</a>]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:11</td>
+<td>도착 : 07:54 &#8211; 무궁화호</td>
+<td>4,200원</td>
+</tr>
+<tr>
+<td>08:19</td>
+<td>도착 : 09:08 &#8211; 무궁화호</td>
+<td>4,200원</td>
+</tr>
+<tr>
+<td>09:36</td>
+<td>도착 : 10:17 &#8211; 무궁화호</td>
+<td>4,200원</td>
+</tr>
+<tr>
+<td>12:56</td>
+<td>도착 : 13:37 &#8211; 무궁화호</td>
+<td>4,200원</td>
+</tr>
+<tr>
+<td>14:01</td>
+<td>도착 : 14:44 &#8211; 무궁화호</td>
+<td>4,200원</td>
+</tr>
+<tr>
+<td>15:25</td>
+<td>도착 : 16:14 &#8211; 무궁화호</td>
+<td>4,200원</td>
+</tr>
+<tr>
+<td>17:26</td>
+<td>도착 : 18:07 &#8211; 무궁화호</td>
+<td>4,200원</td>
+</tr>
+<tr>
+<td>18:56</td>
+<td>도착 : 19:39 &#8211; 무궁화호</td>
+<td>4,200원</td>
+</tr>
+<tr>
+<td>19:55</td>
+<td>도착 : 20:46 &#8211; 무궁화호</td>
+<td>4,200원</td>
+</tr>
+<tr>
+<td>23:21</td>
+<td>도착 : 00:02 &#8211; 무궁화호</td>
+<td>4,200원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

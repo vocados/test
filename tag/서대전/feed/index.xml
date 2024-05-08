@@ -1,0 +1,1269 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>서대전 &#8211; 기차 시간표</title>
+	<atom:link href="/tag/%EC%84%9C%EB%8C%80%EC%A0%84/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Tue, 07 May 2024 22:49:52 +0000</lastBuildDate>
+	<language>ko-KR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/05/cropped-favicon-1-1-32x32.png</url>
+	<title>서대전 &#8211; 기차 시간표</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>천안아산 에서 서대전 가는 기차 시간표</title>
+		<link>/timetable/%ec%b2%9c%ec%95%88%ec%95%84%ec%82%b0-%ec%97%90%ec%84%9c-%ec%84%9c%eb%8c%80%ec%a0%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:49:52 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[KTX-산천(A-type)]]></category>
+		<category><![CDATA[대전광역시]]></category>
+		<category><![CDATA[도착지-대전광역시]]></category>
+		<category><![CDATA[서대전]]></category>
+		<category><![CDATA[천안아산]]></category>
+		<category><![CDATA[출발지-충청남도]]></category>
+		<category><![CDATA[충청남도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%b2%9c%ec%95%88%ec%95%84%ec%82%b0-%ec%97%90%ec%84%9c-%ec%84%9c%eb%8c%80%ec%a0%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:33 도착 : 08:03 &#8211; KTX 9,700원 10:44 도착 : 11:09 &#8211; KTX 9,700원 15:18 도착 : 15:47 &#8211; KTX-산천(A-type) 9,700원 18:23 도착 : 18:48 &#8211; KTX 9,700원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:33</td>
+<td>도착 : 08:03 &#8211; KTX</td>
+<td>9,700원</td>
+</tr>
+<tr>
+<td>10:44</td>
+<td>도착 : 11:09 &#8211; KTX</td>
+<td>9,700원</td>
+</tr>
+<tr>
+<td>15:18</td>
+<td>도착 : 15:47 &#8211; KTX-산천(A-type)</td>
+<td>9,700원</td>
+</tr>
+<tr>
+<td>18:23</td>
+<td>도착 : 18:48 &#8211; KTX</td>
+<td>9,700원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>광명 에서 서대전 가는 기차 시간표</title>
+		<link>/timetable/%ea%b4%91%eb%aa%85-%ec%97%90%ec%84%9c-%ec%84%9c%eb%8c%80%ec%a0%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:49:36 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[KTX-산천(A-type)]]></category>
+		<category><![CDATA[경기도]]></category>
+		<category><![CDATA[광명]]></category>
+		<category><![CDATA[대전광역시]]></category>
+		<category><![CDATA[도착지-대전광역시]]></category>
+		<category><![CDATA[서대전]]></category>
+		<category><![CDATA[출발지-경기도]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b4%91%eb%aa%85-%ec%97%90%ec%84%9c-%ec%84%9c%eb%8c%80%ec%a0%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:11 도착 : 08:03 &#8211; KTX 21,300원 08:01 도착 : 08:42 &#8211; KTX 21,300원 10:22 도착 : 11:09 &#8211; KTX 21,300원 14:56 도착 : 15:47 &#8211; KTX-산천(A-type) 21,300원 17:28 도착 : 18:09 &#8211; KTX 21,300원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:11</td>
+<td>도착 : 08:03 &#8211; KTX</td>
+<td>21,300원</td>
+</tr>
+<tr>
+<td>08:01</td>
+<td>도착 : 08:42 &#8211; KTX</td>
+<td>21,300원</td>
+</tr>
+<tr>
+<td>10:22</td>
+<td>도착 : 11:09 &#8211; KTX</td>
+<td>21,300원</td>
+</tr>
+<tr>
+<td>14:56</td>
+<td>도착 : 15:47 &#8211; KTX-산천(A-type)</td>
+<td>21,300원</td>
+</tr>
+<tr>
+<td>17:28</td>
+<td>도착 : 18:09 &#8211; KTX</td>
+<td>21,300원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>극락강 에서 서대전 가는 기차 시간표</title>
+		<link>/timetable/%ea%b7%b9%eb%9d%bd%ea%b0%95-%ec%97%90%ec%84%9c-%ec%84%9c%eb%8c%80%ec%a0%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:49:19 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[광주광역시]]></category>
+		<category><![CDATA[극락강]]></category>
+		<category><![CDATA[대전광역시]]></category>
+		<category><![CDATA[도착지-대전광역시]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[서대전]]></category>
+		<category><![CDATA[출발지-광주광역시]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b7%b9%eb%9d%bd%ea%b0%95-%ec%97%90%ec%84%9c-%ec%84%9c%eb%8c%80%ec%a0%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 05:46 도착 : 08:17 &#8211; 무궁화호 11,900원 12:20 도착 : 14:48 &#8211; 무궁화호 11,900원 21:29 도착 : 23:50 &#8211; 무궁화호 11,900원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>05:46</td>
+<td>도착 : 08:17 &#8211; 무궁화호</td>
+<td>11,900원</td>
+</tr>
+<tr>
+<td>12:20</td>
+<td>도착 : 14:48 &#8211; 무궁화호</td>
+<td>11,900원</td>
+</tr>
+<tr>
+<td>21:29</td>
+<td>도착 : 23:50 &#8211; 무궁화호</td>
+<td>11,900원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>광주 에서 서대전 가는 기차 시간표</title>
+		<link>/timetable/%ea%b4%91%ec%a3%bc-%ec%97%90%ec%84%9c-%ec%84%9c%eb%8c%80%ec%a0%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:49:07 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[ITX-새마을]]></category>
+		<category><![CDATA[광주]]></category>
+		<category><![CDATA[광주광역시]]></category>
+		<category><![CDATA[대전광역시]]></category>
+		<category><![CDATA[도착지-대전광역시]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[서대전]]></category>
+		<category><![CDATA[출발지-광주광역시]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b4%91%ec%a3%bc-%ec%97%90%ec%84%9c-%ec%84%9c%eb%8c%80%ec%a0%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 05:37 도착 : 08:17 &#8211; 무궁화호 12,400원 06:27 도착 : 08:38 &#8211; ITX-새마을 18,500원 09:16 도착 : 11:33 &#8211; ITX-새마을 18,500원 12:11 도착 : 14:48 &#8211; 무궁화호 12,400원 12:43 도착 : 15:09 &#8211; 무궁화호 12,400원 13:32 도착 : 15:46 &#8211; ITX-새마을 18,500원 14:59 도착 : 17:31 &#8211; 무궁화호 12,400원 18:29 도착 : ... <a title="광주 에서 서대전 가는 기차 시간표" class="read-more" href="/timetable/%ea%b4%91%ec%a3%bc-%ec%97%90%ec%84%9c-%ec%84%9c%eb%8c%80%ec%a0%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/" aria-label="Read more about 광주 에서 서대전 가는 기차 시간표">Read more</a>]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>05:37</td>
+<td>도착 : 08:17 &#8211; 무궁화호</td>
+<td>12,400원</td>
+</tr>
+<tr>
+<td>06:27</td>
+<td>도착 : 08:38 &#8211; ITX-새마을</td>
+<td>18,500원</td>
+</tr>
+<tr>
+<td>09:16</td>
+<td>도착 : 11:33 &#8211; ITX-새마을</td>
+<td>18,500원</td>
+</tr>
+<tr>
+<td>12:11</td>
+<td>도착 : 14:48 &#8211; 무궁화호</td>
+<td>12,400원</td>
+</tr>
+<tr>
+<td>12:43</td>
+<td>도착 : 15:09 &#8211; 무궁화호</td>
+<td>12,400원</td>
+</tr>
+<tr>
+<td>13:32</td>
+<td>도착 : 15:46 &#8211; ITX-새마을</td>
+<td>18,500원</td>
+</tr>
+<tr>
+<td>14:59</td>
+<td>도착 : 17:31 &#8211; 무궁화호</td>
+<td>12,400원</td>
+</tr>
+<tr>
+<td>18:29</td>
+<td>도착 : 20:43 &#8211; ITX-새마을</td>
+<td>18,500원</td>
+</tr>
+<tr>
+<td>21:20</td>
+<td>도착 : 23:50 &#8211; 무궁화호</td>
+<td>12,400원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>오송 에서 서대전 가는 기차 시간표</title>
+		<link>/timetable/%ec%98%a4%ec%86%a1-%ec%97%90%ec%84%9c-%ec%84%9c%eb%8c%80%ec%a0%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:29:20 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[KTX-산천(A-type)]]></category>
+		<category><![CDATA[대전광역시]]></category>
+		<category><![CDATA[도착지-대전광역시]]></category>
+		<category><![CDATA[서대전]]></category>
+		<category><![CDATA[오송]]></category>
+		<category><![CDATA[출발지-충청북도]]></category>
+		<category><![CDATA[충청북도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%98%a4%ec%86%a1-%ec%97%90%ec%84%9c-%ec%84%9c%eb%8c%80%ec%a0%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:46 도착 : 08:03 &#8211; KTX 8,400원 15:31 도착 : 15:47 &#8211; KTX-산천(A-type) 8,400원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:46</td>
+<td>도착 : 08:03 &#8211; KTX</td>
+<td>8,400원</td>
+</tr>
+<tr>
+<td>15:31</td>
+<td>도착 : 15:47 &#8211; KTX-산천(A-type)</td>
+<td>8,400원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>여수EXPO 에서 서대전 가는 기차 시간표</title>
+		<link>/timetable/%ec%97%ac%ec%88%98expo-%ec%97%90%ec%84%9c-%ec%84%9c%eb%8c%80%ec%a0%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:29:04 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[ITX-새마을]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[대전광역시]]></category>
+		<category><![CDATA[도착지-대전광역시]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[서대전]]></category>
+		<category><![CDATA[여수EXPO]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%97%ac%ec%88%98expo-%ec%97%90%ec%84%9c-%ec%84%9c%eb%8c%80%ec%a0%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 06:30 도착 : 09:49 &#8211; 무궁화호 17,000원 08:12 도착 : 10:59 &#8211; ITX-새마을 25,300원 12:09 도착 : 14:41 &#8211; KTX 26,400원 13:19 도착 : 16:33 &#8211; 무궁화호 17,000원 14:10 도착 : 17:06 &#8211; ITX-새마을 25,300원 18:12 도착 : 21:28 &#8211; 무궁화호 17,000원 19:14 도착 : 22:31 &#8211; 무궁화호 17,000원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>06:30</td>
+<td>도착 : 09:49 &#8211; 무궁화호</td>
+<td>17,000원</td>
+</tr>
+<tr>
+<td>08:12</td>
+<td>도착 : 10:59 &#8211; ITX-새마을</td>
+<td>25,300원</td>
+</tr>
+<tr>
+<td>12:09</td>
+<td>도착 : 14:41 &#8211; KTX</td>
+<td>26,400원</td>
+</tr>
+<tr>
+<td>13:19</td>
+<td>도착 : 16:33 &#8211; 무궁화호</td>
+<td>17,000원</td>
+</tr>
+<tr>
+<td>14:10</td>
+<td>도착 : 17:06 &#8211; ITX-새마을</td>
+<td>25,300원</td>
+</tr>
+<tr>
+<td>18:12</td>
+<td>도착 : 21:28 &#8211; 무궁화호</td>
+<td>17,000원</td>
+</tr>
+<tr>
+<td>19:14</td>
+<td>도착 : 22:31 &#8211; 무궁화호</td>
+<td>17,000원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>여천 에서 서대전 가는 기차 시간표</title>
+		<link>/timetable/%ec%97%ac%ec%b2%9c-%ec%97%90%ec%84%9c-%ec%84%9c%eb%8c%80%ec%a0%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:28:52 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[ITX-새마을]]></category>
+		<category><![CDATA[대전광역시]]></category>
+		<category><![CDATA[도착지-대전광역시]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[서대전]]></category>
+		<category><![CDATA[여천]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%97%ac%ec%b2%9c-%ec%97%90%ec%84%9c-%ec%84%9c%eb%8c%80%ec%a0%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 06:38 도착 : 09:49 &#8211; 무궁화호 16,400원 08:20 도착 : 10:59 &#8211; ITX-새마을 24,400원 13:28 도착 : 16:33 &#8211; 무궁화호 16,400원 14:19 도착 : 17:06 &#8211; ITX-새마을 24,400원 18:21 도착 : 21:28 &#8211; 무궁화호 16,400원 19:22 도착 : 22:31 &#8211; 무궁화호 16,400원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>06:38</td>
+<td>도착 : 09:49 &#8211; 무궁화호</td>
+<td>16,400원</td>
+</tr>
+<tr>
+<td>08:20</td>
+<td>도착 : 10:59 &#8211; ITX-새마을</td>
+<td>24,400원</td>
+</tr>
+<tr>
+<td>13:28</td>
+<td>도착 : 16:33 &#8211; 무궁화호</td>
+<td>16,400원</td>
+</tr>
+<tr>
+<td>14:19</td>
+<td>도착 : 17:06 &#8211; ITX-새마을</td>
+<td>24,400원</td>
+</tr>
+<tr>
+<td>18:21</td>
+<td>도착 : 21:28 &#8211; 무궁화호</td>
+<td>16,400원</td>
+</tr>
+<tr>
+<td>19:22</td>
+<td>도착 : 22:31 &#8211; 무궁화호</td>
+<td>16,400원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>순천 에서 서대전 가는 기차 시간표</title>
+		<link>/timetable/%ec%88%9c%ec%b2%9c-%ec%97%90%ec%84%9c-%ec%84%9c%eb%8c%80%ec%a0%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:28:31 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[ITX-새마을]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[대전광역시]]></category>
+		<category><![CDATA[도착지-대전광역시]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[서대전]]></category>
+		<category><![CDATA[순천]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%88%9c%ec%b2%9c-%ec%97%90%ec%84%9c-%ec%84%9c%eb%8c%80%ec%a0%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 06:54 도착 : 09:49 &#8211; 무궁화호 14,800원 08:35 도착 : 10:59 &#8211; ITX-새마을 22,000원 12:28 도착 : 14:41 &#8211; KTX 23,300원 13:44 도착 : 16:33 &#8211; 무궁화호 14,800원 14:34 도착 : 17:06 &#8211; ITX-새마을 22,000원 18:38 도착 : 21:28 &#8211; 무궁화호 14,800원 19:38 도착 : 22:31 &#8211; 무궁화호 14,800원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>06:54</td>
+<td>도착 : 09:49 &#8211; 무궁화호</td>
+<td>14,800원</td>
+</tr>
+<tr>
+<td>08:35</td>
+<td>도착 : 10:59 &#8211; ITX-새마을</td>
+<td>22,000원</td>
+</tr>
+<tr>
+<td>12:28</td>
+<td>도착 : 14:41 &#8211; KTX</td>
+<td>23,300원</td>
+</tr>
+<tr>
+<td>13:44</td>
+<td>도착 : 16:33 &#8211; 무궁화호</td>
+<td>14,800원</td>
+</tr>
+<tr>
+<td>14:34</td>
+<td>도착 : 17:06 &#8211; ITX-새마을</td>
+<td>22,000원</td>
+</tr>
+<tr>
+<td>18:38</td>
+<td>도착 : 21:28 &#8211; 무궁화호</td>
+<td>14,800원</td>
+</tr>
+<tr>
+<td>19:38</td>
+<td>도착 : 22:31 &#8211; 무궁화호</td>
+<td>14,800원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>구례구 에서 서대전 가는 기차 시간표</title>
+		<link>/timetable/%ea%b5%ac%eb%a1%80%ea%b5%ac-%ec%97%90%ec%84%9c-%ec%84%9c%eb%8c%80%ec%a0%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:28:18 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[ITX-새마을]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[구례구]]></category>
+		<category><![CDATA[대전광역시]]></category>
+		<category><![CDATA[도착지-대전광역시]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[서대전]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b5%ac%eb%a1%80%ea%b5%ac-%ec%97%90%ec%84%9c-%ec%84%9c%eb%8c%80%ec%a0%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:11 도착 : 09:49 &#8211; 무궁화호 12,900원 08:51 도착 : 10:59 &#8211; ITX-새마을 19,200원 12:43 도착 : 14:41 &#8211; KTX 20,700원 14:01 도착 : 16:33 &#8211; 무궁화호 12,900원 14:50 도착 : 17:06 &#8211; ITX-새마을 19,200원 18:56 도착 : 21:28 &#8211; 무궁화호 12,900원 19:55 도착 : 22:31 &#8211; 무궁화호 12,900원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:11</td>
+<td>도착 : 09:49 &#8211; 무궁화호</td>
+<td>12,900원</td>
+</tr>
+<tr>
+<td>08:51</td>
+<td>도착 : 10:59 &#8211; ITX-새마을</td>
+<td>19,200원</td>
+</tr>
+<tr>
+<td>12:43</td>
+<td>도착 : 14:41 &#8211; KTX</td>
+<td>20,700원</td>
+</tr>
+<tr>
+<td>14:01</td>
+<td>도착 : 16:33 &#8211; 무궁화호</td>
+<td>12,900원</td>
+</tr>
+<tr>
+<td>14:50</td>
+<td>도착 : 17:06 &#8211; ITX-새마을</td>
+<td>19,200원</td>
+</tr>
+<tr>
+<td>18:56</td>
+<td>도착 : 21:28 &#8211; 무궁화호</td>
+<td>12,900원</td>
+</tr>
+<tr>
+<td>19:55</td>
+<td>도착 : 22:31 &#8211; 무궁화호</td>
+<td>12,900원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>곡성 에서 서대전 가는 기차 시간표</title>
+		<link>/timetable/%ea%b3%a1%ec%84%b1-%ec%97%90%ec%84%9c-%ec%84%9c%eb%8c%80%ec%a0%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:28:10 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[ITX-새마을]]></category>
+		<category><![CDATA[곡성]]></category>
+		<category><![CDATA[대전광역시]]></category>
+		<category><![CDATA[도착지-대전광역시]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[서대전]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b3%a1%ec%84%b1-%ec%97%90%ec%84%9c-%ec%84%9c%eb%8c%80%ec%a0%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:23 도착 : 09:49 &#8211; 무궁화호 11,600원 09:03 도착 : 10:59 &#8211; ITX-새마을 17,300원 14:14 도착 : 16:33 &#8211; 무궁화호 11,600원 15:02 도착 : 17:06 &#8211; ITX-새마을 17,300원 19:08 도착 : 21:28 &#8211; 무궁화호 11,600원 20:14 도착 : 22:31 &#8211; 무궁화호 11,600원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:23</td>
+<td>도착 : 09:49 &#8211; 무궁화호</td>
+<td>11,600원</td>
+</tr>
+<tr>
+<td>09:03</td>
+<td>도착 : 10:59 &#8211; ITX-새마을</td>
+<td>17,300원</td>
+</tr>
+<tr>
+<td>14:14</td>
+<td>도착 : 16:33 &#8211; 무궁화호</td>
+<td>11,600원</td>
+</tr>
+<tr>
+<td>15:02</td>
+<td>도착 : 17:06 &#8211; ITX-새마을</td>
+<td>17,300원</td>
+</tr>
+<tr>
+<td>19:08</td>
+<td>도착 : 21:28 &#8211; 무궁화호</td>
+<td>11,600원</td>
+</tr>
+<tr>
+<td>20:14</td>
+<td>도착 : 22:31 &#8211; 무궁화호</td>
+<td>11,600원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>남원 에서 서대전 가는 기차 시간표</title>
+		<link>/timetable/%eb%82%a8%ec%9b%90-%ec%97%90%ec%84%9c-%ec%84%9c%eb%8c%80%ec%a0%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:27:59 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[ITX-새마을]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[남원]]></category>
+		<category><![CDATA[대전광역시]]></category>
+		<category><![CDATA[도착지-대전광역시]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[새마을호]]></category>
+		<category><![CDATA[서대전]]></category>
+		<category><![CDATA[전라북도]]></category>
+		<category><![CDATA[출발지-전라북도]]></category>
+		<guid isPermaLink="false">/timetable/%eb%82%a8%ec%9b%90-%ec%97%90%ec%84%9c-%ec%84%9c%eb%8c%80%ec%a0%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:35 도착 : 09:49 &#8211; 무궁화호 10,500원 09:13 도착 : 10:59 &#8211; ITX-새마을 15,600원 13:02 도착 : 14:41 &#8211; KTX 16,800원 14:26 도착 : 16:33 &#8211; 무궁화호 10,500원 15:13 도착 : 17:06 &#8211; ITX-새마을 15,600원 18:28 도착 : 20:16 &#8211; 새마을호 15,600원 19:19 도착 : 21:28 &#8211; 무궁화호 10,500원 20:28 도착 : ... <a title="남원 에서 서대전 가는 기차 시간표" class="read-more" href="/timetable/%eb%82%a8%ec%9b%90-%ec%97%90%ec%84%9c-%ec%84%9c%eb%8c%80%ec%a0%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/" aria-label="Read more about 남원 에서 서대전 가는 기차 시간표">Read more</a>]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:35</td>
+<td>도착 : 09:49 &#8211; 무궁화호</td>
+<td>10,500원</td>
+</tr>
+<tr>
+<td>09:13</td>
+<td>도착 : 10:59 &#8211; ITX-새마을</td>
+<td>15,600원</td>
+</tr>
+<tr>
+<td>13:02</td>
+<td>도착 : 14:41 &#8211; KTX</td>
+<td>16,800원</td>
+</tr>
+<tr>
+<td>14:26</td>
+<td>도착 : 16:33 &#8211; 무궁화호</td>
+<td>10,500원</td>
+</tr>
+<tr>
+<td>15:13</td>
+<td>도착 : 17:06 &#8211; ITX-새마을</td>
+<td>15,600원</td>
+</tr>
+<tr>
+<td>18:28</td>
+<td>도착 : 20:16 &#8211; 새마을호</td>
+<td>15,600원</td>
+</tr>
+<tr>
+<td>19:19</td>
+<td>도착 : 21:28 &#8211; 무궁화호</td>
+<td>10,500원</td>
+</tr>
+<tr>
+<td>20:28</td>
+<td>도착 : 22:31 &#8211; 무궁화호</td>
+<td>10,500원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>오수 에서 서대전 가는 기차 시간표</title>
+		<link>/timetable/%ec%98%a4%ec%88%98-%ec%97%90%ec%84%9c-%ec%84%9c%eb%8c%80%ec%a0%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:27:51 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[대전광역시]]></category>
+		<category><![CDATA[도착지-대전광역시]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[서대전]]></category>
+		<category><![CDATA[오수]]></category>
+		<category><![CDATA[전라북도]]></category>
+		<category><![CDATA[출발지-전라북도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%98%a4%ec%88%98-%ec%97%90%ec%84%9c-%ec%84%9c%eb%8c%80%ec%a0%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:46 도착 : 09:49 &#8211; 무궁화호 9,400원 14:37 도착 : 16:33 &#8211; 무궁화호 9,400원 19:31 도착 : 21:28 &#8211; 무궁화호 9,400원 20:39 도착 : 22:31 &#8211; 무궁화호 9,400원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:46</td>
+<td>도착 : 09:49 &#8211; 무궁화호</td>
+<td>9,400원</td>
+</tr>
+<tr>
+<td>14:37</td>
+<td>도착 : 16:33 &#8211; 무궁화호</td>
+<td>9,400원</td>
+</tr>
+<tr>
+<td>19:31</td>
+<td>도착 : 21:28 &#8211; 무궁화호</td>
+<td>9,400원</td>
+</tr>
+<tr>
+<td>20:39</td>
+<td>도착 : 22:31 &#8211; 무궁화호</td>
+<td>9,400원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>임실 에서 서대전 가는 기차 시간표</title>
+		<link>/timetable/%ec%9e%84%ec%8b%a4-%ec%97%90%ec%84%9c-%ec%84%9c%eb%8c%80%ec%a0%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:27:42 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[대전광역시]]></category>
+		<category><![CDATA[도착지-대전광역시]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[서대전]]></category>
+		<category><![CDATA[임실]]></category>
+		<category><![CDATA[전라북도]]></category>
+		<category><![CDATA[출발지-전라북도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%9e%84%ec%8b%a4-%ec%97%90%ec%84%9c-%ec%84%9c%eb%8c%80%ec%a0%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:59 도착 : 09:49 &#8211; 무궁화호 8,800원 14:45 도착 : 16:33 &#8211; 무궁화호 8,800원 19:40 도착 : 21:28 &#8211; 무궁화호 8,800원 20:47 도착 : 22:31 &#8211; 무궁화호 8,800원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:59</td>
+<td>도착 : 09:49 &#8211; 무궁화호</td>
+<td>8,800원</td>
+</tr>
+<tr>
+<td>14:45</td>
+<td>도착 : 16:33 &#8211; 무궁화호</td>
+<td>8,800원</td>
+</tr>
+<tr>
+<td>19:40</td>
+<td>도착 : 21:28 &#8211; 무궁화호</td>
+<td>8,800원</td>
+</tr>
+<tr>
+<td>20:47</td>
+<td>도착 : 22:31 &#8211; 무궁화호</td>
+<td>8,800원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>전주 에서 서대전 가는 기차 시간표</title>
+		<link>/timetable/%ec%a0%84%ec%a3%bc-%ec%97%90%ec%84%9c-%ec%84%9c%eb%8c%80%ec%a0%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:27:33 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[ITX-새마을]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[대전광역시]]></category>
+		<category><![CDATA[도착지-대전광역시]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[새마을호]]></category>
+		<category><![CDATA[서대전]]></category>
+		<category><![CDATA[전라북도]]></category>
+		<category><![CDATA[전주]]></category>
+		<category><![CDATA[출발지-전라북도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%a0%84%ec%a3%bc-%ec%97%90%ec%84%9c-%ec%84%9c%eb%8c%80%ec%a0%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 08:18 도착 : 09:49 &#8211; 무궁화호 7,000원 09:44 도착 : 10:59 &#8211; ITX-새마을 10,400원 12:54 도착 : 14:07 &#8211; KTX 11,200원 13:27 도착 : 14:41 &#8211; KTX 11,200원 15:03 도착 : 16:33 &#8211; 무궁화호 7,000원 15:44 도착 : 17:06 &#8211; ITX-새마을 10,400원 19:01 도착 : 20:16 &#8211; 새마을호 10,400원 19:57 도착 : ... <a title="전주 에서 서대전 가는 기차 시간표" class="read-more" href="/timetable/%ec%a0%84%ec%a3%bc-%ec%97%90%ec%84%9c-%ec%84%9c%eb%8c%80%ec%a0%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/" aria-label="Read more about 전주 에서 서대전 가는 기차 시간표">Read more</a>]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>08:18</td>
+<td>도착 : 09:49 &#8211; 무궁화호</td>
+<td>7,000원</td>
+</tr>
+<tr>
+<td>09:44</td>
+<td>도착 : 10:59 &#8211; ITX-새마을</td>
+<td>10,400원</td>
+</tr>
+<tr>
+<td>12:54</td>
+<td>도착 : 14:07 &#8211; KTX</td>
+<td>11,200원</td>
+</tr>
+<tr>
+<td>13:27</td>
+<td>도착 : 14:41 &#8211; KTX</td>
+<td>11,200원</td>
+</tr>
+<tr>
+<td>15:03</td>
+<td>도착 : 16:33 &#8211; 무궁화호</td>
+<td>7,000원</td>
+</tr>
+<tr>
+<td>15:44</td>
+<td>도착 : 17:06 &#8211; ITX-새마을</td>
+<td>10,400원</td>
+</tr>
+<tr>
+<td>19:01</td>
+<td>도착 : 20:16 &#8211; 새마을호</td>
+<td>10,400원</td>
+</tr>
+<tr>
+<td>19:57</td>
+<td>도착 : 21:28 &#8211; 무궁화호</td>
+<td>7,000원</td>
+</tr>
+<tr>
+<td>21:04</td>
+<td>도착 : 22:31 &#8211; 무궁화호</td>
+<td>7,000원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>삼례 에서 서대전 가는 기차 시간표</title>
+		<link>/timetable/%ec%82%bc%eb%a1%80-%ec%97%90%ec%84%9c-%ec%84%9c%eb%8c%80%ec%a0%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:27:23 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[대전광역시]]></category>
+		<category><![CDATA[도착지-대전광역시]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[삼례]]></category>
+		<category><![CDATA[서대전]]></category>
+		<category><![CDATA[전라북도]]></category>
+		<category><![CDATA[출발지-전라북도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%82%bc%eb%a1%80-%ec%97%90%ec%84%9c-%ec%84%9c%eb%8c%80%ec%a0%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 08:27 도착 : 09:49 &#8211; 무궁화호 6,200원 15:12 도착 : 16:33 &#8211; 무궁화호 6,200원 20:06 도착 : 21:28 &#8211; 무궁화호 6,200원 21:13 도착 : 22:31 &#8211; 무궁화호 6,200원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>08:27</td>
+<td>도착 : 09:49 &#8211; 무궁화호</td>
+<td>6,200원</td>
+</tr>
+<tr>
+<td>15:12</td>
+<td>도착 : 16:33 &#8211; 무궁화호</td>
+<td>6,200원</td>
+</tr>
+<tr>
+<td>20:06</td>
+<td>도착 : 21:28 &#8211; 무궁화호</td>
+<td>6,200원</td>
+</tr>
+<tr>
+<td>21:13</td>
+<td>도착 : 22:31 &#8211; 무궁화호</td>
+<td>6,200원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>목포 에서 서대전 가는 기차 시간표</title>
+		<link>/timetable/%eb%aa%a9%ed%8f%ac-%ec%97%90%ec%84%9c-%ec%84%9c%eb%8c%80%ec%a0%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:27:03 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[ITX-새마을]]></category>
+		<category><![CDATA[KTX]]></category>
+		<category><![CDATA[KTX-산천(A-type)]]></category>
+		<category><![CDATA[대전광역시]]></category>
+		<category><![CDATA[도착지-대전광역시]]></category>
+		<category><![CDATA[목포]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[서대전]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<guid isPermaLink="false">/timetable/%eb%aa%a9%ed%8f%ac-%ec%97%90%ec%84%9c-%ec%84%9c%eb%8c%80%ec%a0%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 05:32 도착 : 08:08 &#8211; KTX 25,000원 07:11 도착 : 10:21 &#8211; 무궁화호 16,000원 10:28 도착 : 13:19 &#8211; ITX-새마을 23,800원 16:11 도착 : 19:32 &#8211; 무궁화호 16,000원 16:26 도착 : 19:05 &#8211; KTX-산천(A-type) 25,000원 17:38 도착 : 20:26 &#8211; ITX-새마을 23,800원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>05:32</td>
+<td>도착 : 08:08 &#8211; KTX</td>
+<td>25,000원</td>
+</tr>
+<tr>
+<td>07:11</td>
+<td>도착 : 10:21 &#8211; 무궁화호</td>
+<td>16,000원</td>
+</tr>
+<tr>
+<td>10:28</td>
+<td>도착 : 13:19 &#8211; ITX-새마을</td>
+<td>23,800원</td>
+</tr>
+<tr>
+<td>16:11</td>
+<td>도착 : 19:32 &#8211; 무궁화호</td>
+<td>16,000원</td>
+</tr>
+<tr>
+<td>16:26</td>
+<td>도착 : 19:05 &#8211; KTX-산천(A-type)</td>
+<td>25,000원</td>
+</tr>
+<tr>
+<td>17:38</td>
+<td>도착 : 20:26 &#8211; ITX-새마을</td>
+<td>23,800원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>일로 에서 서대전 가는 기차 시간표</title>
+		<link>/timetable/%ec%9d%bc%eb%a1%9c-%ec%97%90%ec%84%9c-%ec%84%9c%eb%8c%80%ec%a0%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:26:29 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[ITX-새마을]]></category>
+		<category><![CDATA[대전광역시]]></category>
+		<category><![CDATA[도착지-대전광역시]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[서대전]]></category>
+		<category><![CDATA[일로]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%9d%bc%eb%a1%9c-%ec%97%90%ec%84%9c-%ec%84%9c%eb%8c%80%ec%a0%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:21 도착 : 10:21 &#8211; 무궁화호 15,200원 10:38 도착 : 13:19 &#8211; ITX-새마을 22,600원 16:22 도착 : 19:32 &#8211; 무궁화호 15,200원 17:48 도착 : 20:26 &#8211; ITX-새마을 22,600원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:21</td>
+<td>도착 : 10:21 &#8211; 무궁화호</td>
+<td>15,200원</td>
+</tr>
+<tr>
+<td>10:38</td>
+<td>도착 : 13:19 &#8211; ITX-새마을</td>
+<td>22,600원</td>
+</tr>
+<tr>
+<td>16:22</td>
+<td>도착 : 19:32 &#8211; 무궁화호</td>
+<td>15,200원</td>
+</tr>
+<tr>
+<td>17:48</td>
+<td>도착 : 20:26 &#8211; ITX-새마을</td>
+<td>22,600원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>몽탄 에서 서대전 가는 기차 시간표</title>
+		<link>/timetable/%eb%aa%bd%ed%83%84-%ec%97%90%ec%84%9c-%ec%84%9c%eb%8c%80%ec%a0%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:26:08 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[대전광역시]]></category>
+		<category><![CDATA[도착지-대전광역시]]></category>
+		<category><![CDATA[몽탄]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[서대전]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<guid isPermaLink="false">/timetable/%eb%aa%bd%ed%83%84-%ec%97%90%ec%84%9c-%ec%84%9c%eb%8c%80%ec%a0%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:28 도착 : 10:21 &#8211; 무궁화호 14,500원 16:30 도착 : 19:32 &#8211; 무궁화호 14,500원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:28</td>
+<td>도착 : 10:21 &#8211; 무궁화호</td>
+<td>14,500원</td>
+</tr>
+<tr>
+<td>16:30</td>
+<td>도착 : 19:32 &#8211; 무궁화호</td>
+<td>14,500원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>무안 에서 서대전 가는 기차 시간표</title>
+		<link>/timetable/%eb%ac%b4%ec%95%88-%ec%97%90%ec%84%9c-%ec%84%9c%eb%8c%80%ec%a0%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:25:46 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[대전광역시]]></category>
+		<category><![CDATA[도착지-대전광역시]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[무안]]></category>
+		<category><![CDATA[서대전]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<guid isPermaLink="false">/timetable/%eb%ac%b4%ec%95%88-%ec%97%90%ec%84%9c-%ec%84%9c%eb%8c%80%ec%a0%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:33 도착 : 10:21 &#8211; 무궁화호 14,300원 16:34 도착 : 19:32 &#8211; 무궁화호 14,300원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:33</td>
+<td>도착 : 10:21 &#8211; 무궁화호</td>
+<td>14,300원</td>
+</tr>
+<tr>
+<td>16:34</td>
+<td>도착 : 19:32 &#8211; 무궁화호</td>
+<td>14,300원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>함평 에서 서대전 가는 기차 시간표</title>
+		<link>/timetable/%ed%95%a8%ed%8f%89-%ec%97%90%ec%84%9c-%ec%84%9c%eb%8c%80%ec%a0%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:25:26 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[ITX-새마을]]></category>
+		<category><![CDATA[대전광역시]]></category>
+		<category><![CDATA[도착지-대전광역시]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[서대전]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<category><![CDATA[함평]]></category>
+		<guid isPermaLink="false">/timetable/%ed%95%a8%ed%8f%89-%ec%97%90%ec%84%9c-%ec%84%9c%eb%8c%80%ec%a0%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:39 도착 : 10:21 &#8211; 무궁화호 13,800원 10:53 도착 : 13:19 &#8211; ITX-새마을 20,500원 16:46 도착 : 19:32 &#8211; 무궁화호 13,800원 18:00 도착 : 20:26 &#8211; ITX-새마을 20,500원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:39</td>
+<td>도착 : 10:21 &#8211; 무궁화호</td>
+<td>13,800원</td>
+</tr>
+<tr>
+<td>10:53</td>
+<td>도착 : 13:19 &#8211; ITX-새마을</td>
+<td>20,500원</td>
+</tr>
+<tr>
+<td>16:46</td>
+<td>도착 : 19:32 &#8211; 무궁화호</td>
+<td>13,800원</td>
+</tr>
+<tr>
+<td>18:00</td>
+<td>도착 : 20:26 &#8211; ITX-새마을</td>
+<td>20,500원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

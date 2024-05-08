@@ -1,0 +1,930 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>진례 &#8211; 기차 시간표</title>
+	<atom:link href="/tag/%EC%A7%84%EB%A1%80/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Tue, 07 May 2024 22:45:37 +0000</lastBuildDate>
+	<language>ko-KR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/05/cropped-favicon-1-1-32x32.png</url>
+	<title>진례 &#8211; 기차 시간표</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>광양 에서 진례 가는 기차 시간표</title>
+		<link>/timetable/%ea%b4%91%ec%96%91-%ec%97%90%ec%84%9c-%ec%a7%84%eb%a1%80-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:45:37 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[광양]]></category>
+		<category><![CDATA[도착지-경상남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[진례]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b4%91%ec%96%91-%ec%97%90%ec%84%9c-%ec%a7%84%eb%a1%80-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 09:27 도착 : 11:20 &#8211; 무궁화호 8,000원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>09:27</td>
+<td>도착 : 11:20 &#8211; 무궁화호</td>
+<td>8,000원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>진상 에서 진례 가는 기차 시간표</title>
+		<link>/timetable/%ec%a7%84%ec%83%81-%ec%97%90%ec%84%9c-%ec%a7%84%eb%a1%80-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:45:20 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[도착지-경상남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[진례]]></category>
+		<category><![CDATA[진상]]></category>
+		<category><![CDATA[출발지-전라남도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%a7%84%ec%83%81-%ec%97%90%ec%84%9c-%ec%a7%84%eb%a1%80-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 09:37 도착 : 11:20 &#8211; 무궁화호 7,000원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>09:37</td>
+<td>도착 : 11:20 &#8211; 무궁화호</td>
+<td>7,000원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>하동 에서 진례 가는 기차 시간표</title>
+		<link>/timetable/%ed%95%98%eb%8f%99-%ec%97%90%ec%84%9c-%ec%a7%84%eb%a1%80-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:45:03 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[도착지-경상남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[진례]]></category>
+		<category><![CDATA[출발지-경상남도]]></category>
+		<category><![CDATA[하동]]></category>
+		<guid isPermaLink="false">/timetable/%ed%95%98%eb%8f%99-%ec%97%90%ec%84%9c-%ec%a7%84%eb%a1%80-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 09:44 도착 : 11:20 &#8211; 무궁화호 6,600원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>09:44</td>
+<td>도착 : 11:20 &#8211; 무궁화호</td>
+<td>6,600원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>횡천 에서 진례 가는 기차 시간표</title>
+		<link>/timetable/%ed%9a%a1%ec%b2%9c-%ec%97%90%ec%84%9c-%ec%a7%84%eb%a1%80-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:44:44 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[도착지-경상남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[진례]]></category>
+		<category><![CDATA[출발지-경상남도]]></category>
+		<category><![CDATA[횡천]]></category>
+		<guid isPermaLink="false">/timetable/%ed%9a%a1%ec%b2%9c-%ec%97%90%ec%84%9c-%ec%a7%84%eb%a1%80-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 09:50 도착 : 11:20 &#8211; 무궁화호 6,200원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>09:50</td>
+<td>도착 : 11:20 &#8211; 무궁화호</td>
+<td>6,200원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>북천 에서 진례 가는 기차 시간표</title>
+		<link>/timetable/%eb%b6%81%ec%b2%9c-%ec%97%90%ec%84%9c-%ec%a7%84%eb%a1%80-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:44:28 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[도착지-경상남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[북천]]></category>
+		<category><![CDATA[진례]]></category>
+		<category><![CDATA[출발지-경상남도]]></category>
+		<guid isPermaLink="false">/timetable/%eb%b6%81%ec%b2%9c-%ec%97%90%ec%84%9c-%ec%a7%84%eb%a1%80-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 09:58 도착 : 11:20 &#8211; 무궁화호 5,700원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>09:58</td>
+<td>도착 : 11:20 &#8211; 무궁화호</td>
+<td>5,700원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>완사 에서 진례 가는 기차 시간표</title>
+		<link>/timetable/%ec%99%84%ec%82%ac-%ec%97%90%ec%84%9c-%ec%a7%84%eb%a1%80-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:44:12 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[도착지-경상남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[완사]]></category>
+		<category><![CDATA[진례]]></category>
+		<category><![CDATA[출발지-경상남도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%99%84%ec%82%ac-%ec%97%90%ec%84%9c-%ec%a7%84%eb%a1%80-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 10:06 도착 : 11:20 &#8211; 무궁화호 5,100원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>10:06</td>
+<td>도착 : 11:20 &#8211; 무궁화호</td>
+<td>5,100원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>진주 에서 진례 가는 기차 시간표</title>
+		<link>/timetable/%ec%a7%84%ec%a3%bc-%ec%97%90%ec%84%9c-%ec%a7%84%eb%a1%80-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:43:52 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[도착지-경상남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[진례]]></category>
+		<category><![CDATA[진주]]></category>
+		<category><![CDATA[출발지-경상남도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%a7%84%ec%a3%bc-%ec%97%90%ec%84%9c-%ec%a7%84%eb%a1%80-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 06:41 도착 : 07:51 &#8211; 무궁화호 4,300원 07:55 도착 : 08:54 &#8211; 무궁화호 4,300원 10:15 도착 : 11:20 &#8211; 무궁화호 4,300원 10:54 도착 : 11:54 &#8211; 무궁화호 4,300원 17:54 도착 : 18:53 &#8211; 무궁화호 4,300원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>06:41</td>
+<td>도착 : 07:51 &#8211; 무궁화호</td>
+<td>4,300원</td>
+</tr>
+<tr>
+<td>07:55</td>
+<td>도착 : 08:54 &#8211; 무궁화호</td>
+<td>4,300원</td>
+</tr>
+<tr>
+<td>10:15</td>
+<td>도착 : 11:20 &#8211; 무궁화호</td>
+<td>4,300원</td>
+</tr>
+<tr>
+<td>10:54</td>
+<td>도착 : 11:54 &#8211; 무궁화호</td>
+<td>4,300원</td>
+</tr>
+<tr>
+<td>17:54</td>
+<td>도착 : 18:53 &#8211; 무궁화호</td>
+<td>4,300원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>반성 에서 진례 가는 기차 시간표</title>
+		<link>/timetable/%eb%b0%98%ec%84%b1-%ec%97%90%ec%84%9c-%ec%a7%84%eb%a1%80-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:43:24 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[도착지-경상남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[반성]]></category>
+		<category><![CDATA[진례]]></category>
+		<category><![CDATA[출발지-경상남도]]></category>
+		<guid isPermaLink="false">/timetable/%eb%b0%98%ec%84%b1-%ec%97%90%ec%84%9c-%ec%a7%84%eb%a1%80-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 06:53 도착 : 07:51 &#8211; 무궁화호 3,400원 10:26 도착 : 11:20 &#8211; 무궁화호 3,400원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>06:53</td>
+<td>도착 : 07:51 &#8211; 무궁화호</td>
+<td>3,400원</td>
+</tr>
+<tr>
+<td>10:26</td>
+<td>도착 : 11:20 &#8211; 무궁화호</td>
+<td>3,400원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>군북 에서 진례 가는 기차 시간표</title>
+		<link>/timetable/%ea%b5%b0%eb%b6%81-%ec%97%90%ec%84%9c-%ec%a7%84%eb%a1%80-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:43:07 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[군북]]></category>
+		<category><![CDATA[도착지-경상남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[진례]]></category>
+		<category><![CDATA[출발지-경상남도]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b5%b0%eb%b6%81-%ec%97%90%ec%84%9c-%ec%a7%84%eb%a1%80-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:04 도착 : 07:51 &#8211; 무궁화호 2,600원 10:36 도착 : 11:20 &#8211; 무궁화호 2,600원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:04</td>
+<td>도착 : 07:51 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>10:36</td>
+<td>도착 : 11:20 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>함안 에서 진례 가는 기차 시간표</title>
+		<link>/timetable/%ed%95%a8%ec%95%88-%ec%97%90%ec%84%9c-%ec%a7%84%eb%a1%80-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:42:50 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[도착지-경상남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[진례]]></category>
+		<category><![CDATA[출발지-경상남도]]></category>
+		<category><![CDATA[함안]]></category>
+		<guid isPermaLink="false">/timetable/%ed%95%a8%ec%95%88-%ec%97%90%ec%84%9c-%ec%a7%84%eb%a1%80-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:12 도착 : 07:51 &#8211; 무궁화호 2,600원 08:20 도착 : 08:54 &#8211; 무궁화호 2,600원 10:43 도착 : 11:20 &#8211; 무궁화호 2,600원 11:19 도착 : 11:54 &#8211; 무궁화호 2,600원 18:19 도착 : 18:53 &#8211; 무궁화호 2,600원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:12</td>
+<td>도착 : 07:51 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>08:20</td>
+<td>도착 : 08:54 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>10:43</td>
+<td>도착 : 11:20 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>11:19</td>
+<td>도착 : 11:54 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>18:19</td>
+<td>도착 : 18:53 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>중리 에서 진례 가는 기차 시간표</title>
+		<link>/timetable/%ec%a4%91%eb%a6%ac-%ec%97%90%ec%84%9c-%ec%a7%84%eb%a1%80-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:42:26 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[도착지-경상남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[중리]]></category>
+		<category><![CDATA[진례]]></category>
+		<category><![CDATA[출발지-경상남도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%a4%91%eb%a6%ac-%ec%97%90%ec%84%9c-%ec%a7%84%eb%a1%80-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:20 도착 : 07:51 &#8211; 무궁화호 2,600원 10:50 도착 : 11:20 &#8211; 무궁화호 2,600원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:20</td>
+<td>도착 : 07:51 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>10:50</td>
+<td>도착 : 11:20 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>마산 에서 진례 가는 기차 시간표</title>
+		<link>/timetable/%eb%a7%88%ec%82%b0-%ec%97%90%ec%84%9c-%ec%a7%84%eb%a1%80-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:42:06 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[도착지-경상남도]]></category>
+		<category><![CDATA[마산]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[진례]]></category>
+		<category><![CDATA[출발지-경상남도]]></category>
+		<guid isPermaLink="false">/timetable/%eb%a7%88%ec%82%b0-%ec%97%90%ec%84%9c-%ec%a7%84%eb%a1%80-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:27 도착 : 07:51 &#8211; 무궁화호 2,600원 08:31 도착 : 08:54 &#8211; 무궁화호 2,600원 10:58 도착 : 11:20 &#8211; 무궁화호 2,600원 11:31 도착 : 11:54 &#8211; 무궁화호 2,600원 18:30 도착 : 18:53 &#8211; 무궁화호 2,600원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:27</td>
+<td>도착 : 07:51 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>08:31</td>
+<td>도착 : 08:54 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>10:58</td>
+<td>도착 : 11:20 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>11:31</td>
+<td>도착 : 11:54 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>18:30</td>
+<td>도착 : 18:53 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>창원 에서 진례 가는 기차 시간표</title>
+		<link>/timetable/%ec%b0%bd%ec%9b%90-%ec%97%90%ec%84%9c-%ec%a7%84%eb%a1%80-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:41:40 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[도착지-경상남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[진례]]></category>
+		<category><![CDATA[창원]]></category>
+		<category><![CDATA[출발지-경상남도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%b0%bd%ec%9b%90-%ec%97%90%ec%84%9c-%ec%a7%84%eb%a1%80-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:33 도착 : 07:51 &#8211; 무궁화호 2,600원 08:37 도착 : 08:54 &#8211; 무궁화호 2,600원 11:04 도착 : 11:20 &#8211; 무궁화호 2,600원 11:37 도착 : 11:54 &#8211; 무궁화호 2,600원 18:36 도착 : 18:53 &#8211; 무궁화호 2,600원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:33</td>
+<td>도착 : 07:51 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>08:37</td>
+<td>도착 : 08:54 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>11:04</td>
+<td>도착 : 11:20 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>11:37</td>
+<td>도착 : 11:54 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>18:36</td>
+<td>도착 : 18:53 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>창원중앙 에서 진례 가는 기차 시간표</title>
+		<link>/timetable/%ec%b0%bd%ec%9b%90%ec%a4%91%ec%95%99-%ec%97%90%ec%84%9c-%ec%a7%84%eb%a1%80-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:41:12 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[도착지-경상남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[진례]]></category>
+		<category><![CDATA[창원중앙]]></category>
+		<category><![CDATA[출발지-경상남도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%b0%bd%ec%9b%90%ec%a4%91%ec%95%99-%ec%97%90%ec%84%9c-%ec%a7%84%eb%a1%80-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:42 도착 : 07:51 &#8211; 무궁화호 2,600원 08:46 도착 : 08:54 &#8211; 무궁화호 2,600원 11:13 도착 : 11:20 &#8211; 무궁화호 2,600원 11:47 도착 : 11:54 &#8211; 무궁화호 2,600원 18:45 도착 : 18:53 &#8211; 무궁화호 2,600원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:42</td>
+<td>도착 : 07:51 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>08:46</td>
+<td>도착 : 08:54 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>11:13</td>
+<td>도착 : 11:20 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>11:47</td>
+<td>도착 : 11:54 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>18:45</td>
+<td>도착 : 18:53 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>진례 에서 광양 가는 기차 시간표</title>
+		<link>/timetable/%ec%a7%84%eb%a1%80-%ec%97%90%ec%84%9c-%ea%b4%91%ec%96%91-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:40:56 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[광양]]></category>
+		<category><![CDATA[도착지-전라남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[진례]]></category>
+		<category><![CDATA[출발지-경상남도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%a7%84%eb%a1%80-%ec%97%90%ec%84%9c-%ea%b4%91%ec%96%91-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 20:00 도착 : 21:54 &#8211; 무궁화호 8,000원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>20:00</td>
+<td>도착 : 21:54 &#8211; 무궁화호</td>
+<td>8,000원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>진례 에서 진상 가는 기차 시간표</title>
+		<link>/timetable/%ec%a7%84%eb%a1%80-%ec%97%90%ec%84%9c-%ec%a7%84%ec%83%81-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:40:56 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[도착지-전라남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[진례]]></category>
+		<category><![CDATA[진상]]></category>
+		<category><![CDATA[출발지-경상남도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%a7%84%eb%a1%80-%ec%97%90%ec%84%9c-%ec%a7%84%ec%83%81-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 20:00 도착 : 21:44 &#8211; 무궁화호 7,000원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>20:00</td>
+<td>도착 : 21:44 &#8211; 무궁화호</td>
+<td>7,000원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>진례 에서 하동 가는 기차 시간표</title>
+		<link>/timetable/%ec%a7%84%eb%a1%80-%ec%97%90%ec%84%9c-%ed%95%98%eb%8f%99-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:40:55 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[도착지-경상남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[진례]]></category>
+		<category><![CDATA[출발지-경상남도]]></category>
+		<category><![CDATA[하동]]></category>
+		<guid isPermaLink="false">/timetable/%ec%a7%84%eb%a1%80-%ec%97%90%ec%84%9c-%ed%95%98%eb%8f%99-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 20:00 도착 : 21:37 &#8211; 무궁화호 6,600원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>20:00</td>
+<td>도착 : 21:37 &#8211; 무궁화호</td>
+<td>6,600원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>진례 에서 횡천 가는 기차 시간표</title>
+		<link>/timetable/%ec%a7%84%eb%a1%80-%ec%97%90%ec%84%9c-%ed%9a%a1%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:40:55 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[도착지-경상남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[진례]]></category>
+		<category><![CDATA[출발지-경상남도]]></category>
+		<category><![CDATA[횡천]]></category>
+		<guid isPermaLink="false">/timetable/%ec%a7%84%eb%a1%80-%ec%97%90%ec%84%9c-%ed%9a%a1%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 20:00 도착 : 21:31 &#8211; 무궁화호 6,200원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>20:00</td>
+<td>도착 : 21:31 &#8211; 무궁화호</td>
+<td>6,200원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>진례 에서 북천 가는 기차 시간표</title>
+		<link>/timetable/%ec%a7%84%eb%a1%80-%ec%97%90%ec%84%9c-%eb%b6%81%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:40:55 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[도착지-경상남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[북천]]></category>
+		<category><![CDATA[진례]]></category>
+		<category><![CDATA[출발지-경상남도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%a7%84%eb%a1%80-%ec%97%90%ec%84%9c-%eb%b6%81%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 20:00 도착 : 21:24 &#8211; 무궁화호 5,700원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>20:00</td>
+<td>도착 : 21:24 &#8211; 무궁화호</td>
+<td>5,700원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>진례 에서 완사 가는 기차 시간표</title>
+		<link>/timetable/%ec%a7%84%eb%a1%80-%ec%97%90%ec%84%9c-%ec%99%84%ec%82%ac-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:40:55 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[경상남도]]></category>
+		<category><![CDATA[도착지-경상남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[완사]]></category>
+		<category><![CDATA[진례]]></category>
+		<category><![CDATA[출발지-경상남도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%a7%84%eb%a1%80-%ec%97%90%ec%84%9c-%ec%99%84%ec%82%ac-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 20:00 도착 : 21:16 &#8211; 무궁화호 5,100원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>20:00</td>
+<td>도착 : 21:16 &#8211; 무궁화호</td>
+<td>5,100원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

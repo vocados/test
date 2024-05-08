@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>청평 &#8211; 기차 시간표</title>
+	<atom:link href="/tag/%EC%B2%AD%ED%8F%89/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Tue, 07 May 2024 22:33:32 +0000</lastBuildDate>
+	<language>ko-KR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/05/cropped-favicon-1-1-32x32.png</url>
+	<title>청평 &#8211; 기차 시간표</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>춘천 에서 청평 가는 기차 시간표</title>
+		<link>/timetable/%ec%b6%98%ec%b2%9c-%ec%97%90%ec%84%9c-%ec%b2%ad%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:33:32 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[ITX-청춘]]></category>
+		<category><![CDATA[강원도]]></category>
+		<category><![CDATA[경기도]]></category>
+		<category><![CDATA[도착지-경기도]]></category>
+		<category><![CDATA[청평]]></category>
+		<category><![CDATA[춘천]]></category>
+		<category><![CDATA[출발지-강원도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%b6%98%ec%b2%9c-%ec%97%90%ec%84%9c-%ec%b2%ad%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:22 도착 : 07:51 &#8211; ITX-청춘 4,100원 14:06 도착 : 14:35 &#8211; ITX-청춘 4,100원 19:38 도착 : 20:07 &#8211; ITX-청춘 4,100원 21:12 도착 : 21:41 &#8211; ITX-청춘 4,100원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:22</td>
+<td>도착 : 07:51 &#8211; ITX-청춘</td>
+<td>4,100원</td>
+</tr>
+<tr>
+<td>14:06</td>
+<td>도착 : 14:35 &#8211; ITX-청춘</td>
+<td>4,100원</td>
+</tr>
+<tr>
+<td>19:38</td>
+<td>도착 : 20:07 &#8211; ITX-청춘</td>
+<td>4,100원</td>
+</tr>
+<tr>
+<td>21:12</td>
+<td>도착 : 21:41 &#8211; ITX-청춘</td>
+<td>4,100원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>남춘천 에서 청평 가는 기차 시간표</title>
+		<link>/timetable/%eb%82%a8%ec%b6%98%ec%b2%9c-%ec%97%90%ec%84%9c-%ec%b2%ad%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:33:27 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[ITX-청춘]]></category>
+		<category><![CDATA[강원도]]></category>
+		<category><![CDATA[경기도]]></category>
+		<category><![CDATA[남춘천]]></category>
+		<category><![CDATA[도착지-경기도]]></category>
+		<category><![CDATA[청평]]></category>
+		<category><![CDATA[출발지-강원도]]></category>
+		<guid isPermaLink="false">/timetable/%eb%82%a8%ec%b6%98%ec%b2%9c-%ec%97%90%ec%84%9c-%ec%b2%ad%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:26 도착 : 07:51 &#8211; ITX-청춘 3,800원 14:10 도착 : 14:35 &#8211; ITX-청춘 3,800원 19:42 도착 : 20:07 &#8211; ITX-청춘 3,800원 21:16 도착 : 21:41 &#8211; ITX-청춘 3,800원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:26</td>
+<td>도착 : 07:51 &#8211; ITX-청춘</td>
+<td>3,800원</td>
+</tr>
+<tr>
+<td>14:10</td>
+<td>도착 : 14:35 &#8211; ITX-청춘</td>
+<td>3,800원</td>
+</tr>
+<tr>
+<td>19:42</td>
+<td>도착 : 20:07 &#8211; ITX-청춘</td>
+<td>3,800원</td>
+</tr>
+<tr>
+<td>21:16</td>
+<td>도착 : 21:41 &#8211; ITX-청춘</td>
+<td>3,800원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>가평 에서 청평 가는 기차 시간표</title>
+		<link>/timetable/%ea%b0%80%ed%8f%89-%ec%97%90%ec%84%9c-%ec%b2%ad%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:33:21 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[ITX-청춘]]></category>
+		<category><![CDATA[가평]]></category>
+		<category><![CDATA[경기도]]></category>
+		<category><![CDATA[도착지-경기도]]></category>
+		<category><![CDATA[청평]]></category>
+		<category><![CDATA[출발지-경기도]]></category>
+		<guid isPermaLink="false">/timetable/%ea%b0%80%ed%8f%89-%ec%97%90%ec%84%9c-%ec%b2%ad%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:44 도착 : 07:51 &#8211; ITX-청춘 3,000원 14:28 도착 : 14:35 &#8211; ITX-청춘 3,000원 20:00 도착 : 20:07 &#8211; ITX-청춘 3,000원 21:34 도착 : 21:41 &#8211; ITX-청춘 3,000원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:44</td>
+<td>도착 : 07:51 &#8211; ITX-청춘</td>
+<td>3,000원</td>
+</tr>
+<tr>
+<td>14:28</td>
+<td>도착 : 14:35 &#8211; ITX-청춘</td>
+<td>3,000원</td>
+</tr>
+<tr>
+<td>20:00</td>
+<td>도착 : 20:07 &#8211; ITX-청춘</td>
+<td>3,000원</td>
+</tr>
+<tr>
+<td>21:34</td>
+<td>도착 : 21:41 &#8211; ITX-청춘</td>
+<td>3,000원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>청평 에서 평내호평 가는 기차 시간표</title>
+		<link>/timetable/%ec%b2%ad%ed%8f%89-%ec%97%90%ec%84%9c-%ed%8f%89%eb%82%b4%ed%98%b8%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:33:20 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[ITX-청춘]]></category>
+		<category><![CDATA[경기도]]></category>
+		<category><![CDATA[도착지-경기도]]></category>
+		<category><![CDATA[청평]]></category>
+		<category><![CDATA[출발지-경기도]]></category>
+		<category><![CDATA[평내호평]]></category>
+		<guid isPermaLink="false">/timetable/%ec%b2%ad%ed%8f%89-%ec%97%90%ec%84%9c-%ed%8f%89%eb%82%b4%ed%98%b8%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:52 도착 : 08:06 &#8211; ITX-청춘 3,000원 14:36 도착 : 14:48 &#8211; ITX-청춘 3,000원 20:08 도착 : 20:20 &#8211; ITX-청춘 3,000원 21:42 도착 : 21:54 &#8211; ITX-청춘 3,000원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:52</td>
+<td>도착 : 08:06 &#8211; ITX-청춘</td>
+<td>3,000원</td>
+</tr>
+<tr>
+<td>14:36</td>
+<td>도착 : 14:48 &#8211; ITX-청춘</td>
+<td>3,000원</td>
+</tr>
+<tr>
+<td>20:08</td>
+<td>도착 : 20:20 &#8211; ITX-청춘</td>
+<td>3,000원</td>
+</tr>
+<tr>
+<td>21:42</td>
+<td>도착 : 21:54 &#8211; ITX-청춘</td>
+<td>3,000원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>청평 에서 가평 가는 기차 시간표</title>
+		<link>/timetable/%ec%b2%ad%ed%8f%89-%ec%97%90%ec%84%9c-%ea%b0%80%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:33:20 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[ITX-청춘]]></category>
+		<category><![CDATA[가평]]></category>
+		<category><![CDATA[경기도]]></category>
+		<category><![CDATA[도착지-경기도]]></category>
+		<category><![CDATA[청평]]></category>
+		<category><![CDATA[출발지-경기도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%b2%ad%ed%8f%89-%ec%97%90%ec%84%9c-%ea%b0%80%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 13:44 도착 : 13:51 &#8211; ITX-청춘 3,000원 16:51 도착 : 16:58 &#8211; ITX-청춘 3,000원 21:26 도착 : 21:33 &#8211; ITX-청춘 3,000원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>13:44</td>
+<td>도착 : 13:51 &#8211; ITX-청춘</td>
+<td>3,000원</td>
+</tr>
+<tr>
+<td>16:51</td>
+<td>도착 : 16:58 &#8211; ITX-청춘</td>
+<td>3,000원</td>
+</tr>
+<tr>
+<td>21:26</td>
+<td>도착 : 21:33 &#8211; ITX-청춘</td>
+<td>3,000원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>청평 에서 남춘천 가는 기차 시간표</title>
+		<link>/timetable/%ec%b2%ad%ed%8f%89-%ec%97%90%ec%84%9c-%eb%82%a8%ec%b6%98%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:33:20 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[ITX-청춘]]></category>
+		<category><![CDATA[강원도]]></category>
+		<category><![CDATA[경기도]]></category>
+		<category><![CDATA[남춘천]]></category>
+		<category><![CDATA[도착지-강원도]]></category>
+		<category><![CDATA[청평]]></category>
+		<category><![CDATA[출발지-경기도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%b2%ad%ed%8f%89-%ec%97%90%ec%84%9c-%eb%82%a8%ec%b6%98%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 13:44 도착 : 14:08 &#8211; ITX-청춘 3,800원 16:51 도착 : 17:15 &#8211; ITX-청춘 3,800원 21:26 도착 : 21:50 &#8211; ITX-청춘 3,800원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>13:44</td>
+<td>도착 : 14:08 &#8211; ITX-청춘</td>
+<td>3,800원</td>
+</tr>
+<tr>
+<td>16:51</td>
+<td>도착 : 17:15 &#8211; ITX-청춘</td>
+<td>3,800원</td>
+</tr>
+<tr>
+<td>21:26</td>
+<td>도착 : 21:50 &#8211; ITX-청춘</td>
+<td>3,800원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>청평 에서 춘천 가는 기차 시간표</title>
+		<link>/timetable/%ec%b2%ad%ed%8f%89-%ec%97%90%ec%84%9c-%ec%b6%98%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:33:20 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[ITX-청춘]]></category>
+		<category><![CDATA[강원도]]></category>
+		<category><![CDATA[경기도]]></category>
+		<category><![CDATA[도착지-강원도]]></category>
+		<category><![CDATA[청평]]></category>
+		<category><![CDATA[춘천]]></category>
+		<category><![CDATA[출발지-경기도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%b2%ad%ed%8f%89-%ec%97%90%ec%84%9c-%ec%b6%98%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 13:44 도착 : 14:12 &#8211; ITX-청춘 4,100원 16:51 도착 : 17:19 &#8211; ITX-청춘 4,100원 21:26 도착 : 21:54 &#8211; ITX-청춘 4,100원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>13:44</td>
+<td>도착 : 14:12 &#8211; ITX-청춘</td>
+<td>4,100원</td>
+</tr>
+<tr>
+<td>16:51</td>
+<td>도착 : 17:19 &#8211; ITX-청춘</td>
+<td>4,100원</td>
+</tr>
+<tr>
+<td>21:26</td>
+<td>도착 : 21:54 &#8211; ITX-청춘</td>
+<td>4,100원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>청평 에서 용산 가는 기차 시간표</title>
+		<link>/timetable/%ec%b2%ad%ed%8f%89-%ec%97%90%ec%84%9c-%ec%9a%a9%ec%82%b0-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:33:19 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[ITX-청춘]]></category>
+		<category><![CDATA[경기도]]></category>
+		<category><![CDATA[도착지-서울특별시]]></category>
+		<category><![CDATA[서울특별시]]></category>
+		<category><![CDATA[용산]]></category>
+		<category><![CDATA[청평]]></category>
+		<category><![CDATA[출발지-경기도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%b2%ad%ed%8f%89-%ec%97%90%ec%84%9c-%ec%9a%a9%ec%82%b0-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:52 도착 : 08:47 &#8211; ITX-청춘 5,700원 14:36 도착 : 15:27 &#8211; ITX-청춘 5,700원 20:08 도착 : 21:00 &#8211; ITX-청춘 5,700원 21:42 도착 : 22:33 &#8211; ITX-청춘 5,700원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:52</td>
+<td>도착 : 08:47 &#8211; ITX-청춘</td>
+<td>5,700원</td>
+</tr>
+<tr>
+<td>14:36</td>
+<td>도착 : 15:27 &#8211; ITX-청춘</td>
+<td>5,700원</td>
+</tr>
+<tr>
+<td>20:08</td>
+<td>도착 : 21:00 &#8211; ITX-청춘</td>
+<td>5,700원</td>
+</tr>
+<tr>
+<td>21:42</td>
+<td>도착 : 22:33 &#8211; ITX-청춘</td>
+<td>5,700원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>청평 에서 청량리 가는 기차 시간표</title>
+		<link>/timetable/%ec%b2%ad%ed%8f%89-%ec%97%90%ec%84%9c-%ec%b2%ad%eb%9f%89%eb%a6%ac-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:33:19 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[ITX-청춘]]></category>
+		<category><![CDATA[경기도]]></category>
+		<category><![CDATA[도착지-서울특별시]]></category>
+		<category><![CDATA[서울특별시]]></category>
+		<category><![CDATA[청량리]]></category>
+		<category><![CDATA[청평]]></category>
+		<category><![CDATA[출발지-경기도]]></category>
+		<guid isPermaLink="false">/timetable/%ec%b2%ad%ed%8f%89-%ec%97%90%ec%84%9c-%ec%b2%ad%eb%9f%89%eb%a6%ac-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 07:52 도착 : 08:28 &#8211; ITX-청춘 4,500원 14:36 도착 : 15:10 &#8211; ITX-청춘 4,500원 20:08 도착 : 20:43 &#8211; ITX-청춘 4,500원 21:42 도착 : 22:16 &#8211; ITX-청춘 4,500원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07:52</td>
+<td>도착 : 08:28 &#8211; ITX-청춘</td>
+<td>4,500원</td>
+</tr>
+<tr>
+<td>14:36</td>
+<td>도착 : 15:10 &#8211; ITX-청춘</td>
+<td>4,500원</td>
+</tr>
+<tr>
+<td>20:08</td>
+<td>도착 : 20:43 &#8211; ITX-청춘</td>
+<td>4,500원</td>
+</tr>
+<tr>
+<td>21:42</td>
+<td>도착 : 22:16 &#8211; ITX-청춘</td>
+<td>4,500원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>평내호평 에서 청평 가는 기차 시간표</title>
+		<link>/timetable/%ed%8f%89%eb%82%b4%ed%98%b8%ed%8f%89-%ec%97%90%ec%84%9c-%ec%b2%ad%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:33:18 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[ITX-청춘]]></category>
+		<category><![CDATA[경기도]]></category>
+		<category><![CDATA[도착지-경기도]]></category>
+		<category><![CDATA[청평]]></category>
+		<category><![CDATA[출발지-경기도]]></category>
+		<category><![CDATA[평내호평]]></category>
+		<guid isPermaLink="false">/timetable/%ed%8f%89%eb%82%b4%ed%98%b8%ed%8f%89-%ec%97%90%ec%84%9c-%ec%b2%ad%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 13:31 도착 : 13:43 &#8211; ITX-청춘 3,000원 16:38 도착 : 16:50 &#8211; ITX-청춘 3,000원 21:10 도착 : 21:25 &#8211; ITX-청춘 3,000원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>13:31</td>
+<td>도착 : 13:43 &#8211; ITX-청춘</td>
+<td>3,000원</td>
+</tr>
+<tr>
+<td>16:38</td>
+<td>도착 : 16:50 &#8211; ITX-청춘</td>
+<td>3,000원</td>
+</tr>
+<tr>
+<td>21:10</td>
+<td>도착 : 21:25 &#8211; ITX-청춘</td>
+<td>3,000원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>청량리 에서 청평 가는 기차 시간표</title>
+		<link>/timetable/%ec%b2%ad%eb%9f%89%eb%a6%ac-%ec%97%90%ec%84%9c-%ec%b2%ad%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:33:09 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[ITX-청춘]]></category>
+		<category><![CDATA[경기도]]></category>
+		<category><![CDATA[도착지-경기도]]></category>
+		<category><![CDATA[서울특별시]]></category>
+		<category><![CDATA[청량리]]></category>
+		<category><![CDATA[청평]]></category>
+		<category><![CDATA[출발지-서울특별시]]></category>
+		<guid isPermaLink="false">/timetable/%ec%b2%ad%eb%9f%89%eb%a6%ac-%ec%97%90%ec%84%9c-%ec%b2%ad%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 13:09 도착 : 13:43 &#8211; ITX-청춘 4,500원 16:16 도착 : 16:50 &#8211; ITX-청춘 4,500원 20:49 도착 : 21:25 &#8211; ITX-청춘 4,500원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>13:09</td>
+<td>도착 : 13:43 &#8211; ITX-청춘</td>
+<td>4,500원</td>
+</tr>
+<tr>
+<td>16:16</td>
+<td>도착 : 16:50 &#8211; ITX-청춘</td>
+<td>4,500원</td>
+</tr>
+<tr>
+<td>20:49</td>
+<td>도착 : 21:25 &#8211; ITX-청춘</td>
+<td>4,500원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>용산 에서 청평 가는 기차 시간표</title>
+		<link>/timetable/%ec%9a%a9%ec%82%b0-%ec%97%90%ec%84%9c-%ec%b2%ad%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:04:13 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[ITX-청춘]]></category>
+		<category><![CDATA[경기도]]></category>
+		<category><![CDATA[도착지-경기도]]></category>
+		<category><![CDATA[서울특별시]]></category>
+		<category><![CDATA[용산]]></category>
+		<category><![CDATA[청평]]></category>
+		<category><![CDATA[출발지-서울특별시]]></category>
+		<guid isPermaLink="false">/timetable/%ec%9a%a9%ec%82%b0-%ec%97%90%ec%84%9c-%ec%b2%ad%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 12:53 도착 : 13:43 &#8211; ITX-청춘 5,700원 16:00 도착 : 16:50 &#8211; ITX-청춘 5,700원 20:32 도착 : 21:25 &#8211; ITX-청춘 5,700원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>12:53</td>
+<td>도착 : 13:43 &#8211; ITX-청춘</td>
+<td>5,700원</td>
+</tr>
+<tr>
+<td>16:00</td>
+<td>도착 : 16:50 &#8211; ITX-청춘</td>
+<td>5,700원</td>
+</tr>
+<tr>
+<td>20:32</td>
+<td>도착 : 21:25 &#8211; ITX-청춘</td>
+<td>5,700원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://train.vicharas.net/wp-sitemap.xml

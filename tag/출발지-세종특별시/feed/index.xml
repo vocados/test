@@ -1,0 +1,881 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>출발지-세종특별시 &#8211; 기차 시간표</title>
+	<atom:link href="/tag/%EC%B6%9C%EB%B0%9C%EC%A7%80-%EC%84%B8%EC%A2%85%ED%8A%B9%EB%B3%84%EC%8B%9C/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Tue, 07 May 2024 22:08:26 +0000</lastBuildDate>
+	<language>ko-KR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/05/cropped-favicon-1-1-32x32.png</url>
+	<title>출발지-세종특별시 &#8211; 기차 시간표</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>부강 에서 충주 가는 기차 시간표</title>
+		<link>/timetable/%eb%b6%80%ea%b0%95-%ec%97%90%ec%84%9c-%ec%b6%a9%ec%a3%bc-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:08:26 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[도착지-충청북도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[부강]]></category>
+		<category><![CDATA[세종특별시]]></category>
+		<category><![CDATA[출발지-세종특별시]]></category>
+		<category><![CDATA[충주]]></category>
+		<category><![CDATA[충청북도]]></category>
+		<guid isPermaLink="false">/timetable/%eb%b6%80%ea%b0%95-%ec%97%90%ec%84%9c-%ec%b6%a9%ec%a3%bc-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 08:16 도착 : 09:39 &#8211; 무궁화호 5,900원 20:33 도착 : 21:57 &#8211; 무궁화호 5,900원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>08:16</td>
+<td>도착 : 09:39 &#8211; 무궁화호</td>
+<td>5,900원</td>
+</tr>
+<tr>
+<td>20:33</td>
+<td>도착 : 21:57 &#8211; 무궁화호</td>
+<td>5,900원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>부강 에서 삼탄 가는 기차 시간표</title>
+		<link>/timetable/%eb%b6%80%ea%b0%95-%ec%97%90%ec%84%9c-%ec%82%bc%ed%83%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:08:26 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[도착지-충청북도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[부강]]></category>
+		<category><![CDATA[삼탄]]></category>
+		<category><![CDATA[세종특별시]]></category>
+		<category><![CDATA[출발지-세종특별시]]></category>
+		<category><![CDATA[충청북도]]></category>
+		<guid isPermaLink="false">/timetable/%eb%b6%80%ea%b0%95-%ec%97%90%ec%84%9c-%ec%82%bc%ed%83%84-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 08:16 도착 : 09:54 &#8211; 무궁화호 7,100원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>08:16</td>
+<td>도착 : 09:54 &#8211; 무궁화호</td>
+<td>7,100원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>부강 에서 청주공항 가는 기차 시간표</title>
+		<link>/timetable/%eb%b6%80%ea%b0%95-%ec%97%90%ec%84%9c-%ec%b2%ad%ec%a3%bc%ea%b3%b5%ed%95%ad-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:08:25 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[도착지-충청북도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[부강]]></category>
+		<category><![CDATA[세종특별시]]></category>
+		<category><![CDATA[청주공항]]></category>
+		<category><![CDATA[출발지-세종특별시]]></category>
+		<category><![CDATA[충청북도]]></category>
+		<guid isPermaLink="false">/timetable/%eb%b6%80%ea%b0%95-%ec%97%90%ec%84%9c-%ec%b2%ad%ec%a3%bc%ea%b3%b5%ed%95%ad-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 08:16 도착 : 08:53 &#8211; 무궁화호 2,600원 20:33 도착 : 21:12 &#8211; 무궁화호 2,600원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>08:16</td>
+<td>도착 : 08:53 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>20:33</td>
+<td>도착 : 21:12 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>부강 에서 증평 가는 기차 시간표</title>
+		<link>/timetable/%eb%b6%80%ea%b0%95-%ec%97%90%ec%84%9c-%ec%a6%9d%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:08:25 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[도착지-충청북도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[부강]]></category>
+		<category><![CDATA[세종특별시]]></category>
+		<category><![CDATA[증평]]></category>
+		<category><![CDATA[출발지-세종특별시]]></category>
+		<category><![CDATA[충청북도]]></category>
+		<guid isPermaLink="false">/timetable/%eb%b6%80%ea%b0%95-%ec%97%90%ec%84%9c-%ec%a6%9d%ed%8f%89-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 08:16 도착 : 09:03 &#8211; 무궁화호 3,000원 20:33 도착 : 21:21 &#8211; 무궁화호 3,000원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>08:16</td>
+<td>도착 : 09:03 &#8211; 무궁화호</td>
+<td>3,000원</td>
+</tr>
+<tr>
+<td>20:33</td>
+<td>도착 : 21:21 &#8211; 무궁화호</td>
+<td>3,000원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>부강 에서 음성 가는 기차 시간표</title>
+		<link>/timetable/%eb%b6%80%ea%b0%95-%ec%97%90%ec%84%9c-%ec%9d%8c%ec%84%b1-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:08:25 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[도착지-충청북도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[부강]]></category>
+		<category><![CDATA[세종특별시]]></category>
+		<category><![CDATA[음성]]></category>
+		<category><![CDATA[출발지-세종특별시]]></category>
+		<category><![CDATA[충청북도]]></category>
+		<guid isPermaLink="false">/timetable/%eb%b6%80%ea%b0%95-%ec%97%90%ec%84%9c-%ec%9d%8c%ec%84%b1-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 08:16 도착 : 09:20 &#8211; 무궁화호 4,500원 20:33 도착 : 21:38 &#8211; 무궁화호 4,500원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>08:16</td>
+<td>도착 : 09:20 &#8211; 무궁화호</td>
+<td>4,500원</td>
+</tr>
+<tr>
+<td>20:33</td>
+<td>도착 : 21:38 &#8211; 무궁화호</td>
+<td>4,500원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>부강 에서 주덕 가는 기차 시간표</title>
+		<link>/timetable/%eb%b6%80%ea%b0%95-%ec%97%90%ec%84%9c-%ec%a3%bc%eb%8d%95-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:08:25 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[도착지-충청북도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[부강]]></category>
+		<category><![CDATA[세종특별시]]></category>
+		<category><![CDATA[주덕]]></category>
+		<category><![CDATA[출발지-세종특별시]]></category>
+		<category><![CDATA[충청북도]]></category>
+		<guid isPermaLink="false">/timetable/%eb%b6%80%ea%b0%95-%ec%97%90%ec%84%9c-%ec%a3%bc%eb%8d%95-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 08:16 도착 : 09:30 &#8211; 무궁화호 5,200원 20:33 도착 : 21:48 &#8211; 무궁화호 5,200원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>08:16</td>
+<td>도착 : 09:30 &#8211; 무궁화호</td>
+<td>5,200원</td>
+</tr>
+<tr>
+<td>20:33</td>
+<td>도착 : 21:48 &#8211; 무궁화호</td>
+<td>5,200원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>부강 에서 오송 가는 기차 시간표</title>
+		<link>/timetable/%eb%b6%80%ea%b0%95-%ec%97%90%ec%84%9c-%ec%98%a4%ec%86%a1-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:08:24 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[도착지-충청북도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[부강]]></category>
+		<category><![CDATA[세종특별시]]></category>
+		<category><![CDATA[오송]]></category>
+		<category><![CDATA[출발지-세종특별시]]></category>
+		<category><![CDATA[충청북도]]></category>
+		<guid isPermaLink="false">/timetable/%eb%b6%80%ea%b0%95-%ec%97%90%ec%84%9c-%ec%98%a4%ec%86%a1-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 08:16 도착 : 08:32 &#8211; 무궁화호 2,600원 20:33 도착 : 20:50 &#8211; 무궁화호 2,600원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>08:16</td>
+<td>도착 : 08:32 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>20:33</td>
+<td>도착 : 20:50 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>부강 에서 청주 가는 기차 시간표</title>
+		<link>/timetable/%eb%b6%80%ea%b0%95-%ec%97%90%ec%84%9c-%ec%b2%ad%ec%a3%bc-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:08:24 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[도착지-충청북도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[부강]]></category>
+		<category><![CDATA[세종특별시]]></category>
+		<category><![CDATA[청주]]></category>
+		<category><![CDATA[출발지-세종특별시]]></category>
+		<category><![CDATA[충청북도]]></category>
+		<guid isPermaLink="false">/timetable/%eb%b6%80%ea%b0%95-%ec%97%90%ec%84%9c-%ec%b2%ad%ec%a3%bc-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 08:16 도착 : 08:41 &#8211; 무궁화호 2,600원 20:33 도착 : 20:59 &#8211; 무궁화호 2,600원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>08:16</td>
+<td>도착 : 08:41 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>20:33</td>
+<td>도착 : 20:59 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>부강 에서 오근장 가는 기차 시간표</title>
+		<link>/timetable/%eb%b6%80%ea%b0%95-%ec%97%90%ec%84%9c-%ec%98%a4%ea%b7%bc%ec%9e%a5-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:08:24 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[도착지-충청북도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[부강]]></category>
+		<category><![CDATA[세종특별시]]></category>
+		<category><![CDATA[오근장]]></category>
+		<category><![CDATA[출발지-세종특별시]]></category>
+		<category><![CDATA[충청북도]]></category>
+		<guid isPermaLink="false">/timetable/%eb%b6%80%ea%b0%95-%ec%97%90%ec%84%9c-%ec%98%a4%ea%b7%bc%ec%9e%a5-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 08:16 도착 : 08:49 &#8211; 무궁화호 2,600원 20:33 도착 : 21:07 &#8211; 무궁화호 2,600원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>08:16</td>
+<td>도착 : 08:49 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+<tr>
+<td>20:33</td>
+<td>도착 : 21:07 &#8211; 무궁화호</td>
+<td>2,600원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>부강 에서 여천 가는 기차 시간표</title>
+		<link>/timetable/%eb%b6%80%ea%b0%95-%ec%97%90%ec%84%9c-%ec%97%ac%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:08:22 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[도착지-전라남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[부강]]></category>
+		<category><![CDATA[세종특별시]]></category>
+		<category><![CDATA[여천]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[출발지-세종특별시]]></category>
+		<guid isPermaLink="false">/timetable/%eb%b6%80%ea%b0%95-%ec%97%90%ec%84%9c-%ec%97%ac%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 11:24 도착 : 15:03 &#8211; 무궁화호 18,200원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>11:24</td>
+<td>도착 : 15:03 &#8211; 무궁화호</td>
+<td>18,200원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>부강 에서 여수EXPO 가는 기차 시간표</title>
+		<link>/timetable/%eb%b6%80%ea%b0%95-%ec%97%90%ec%84%9c-%ec%97%ac%ec%88%98expo-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:08:22 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[도착지-전라남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[부강]]></category>
+		<category><![CDATA[세종특별시]]></category>
+		<category><![CDATA[여수EXPO]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[출발지-세종특별시]]></category>
+		<guid isPermaLink="false">/timetable/%eb%b6%80%ea%b0%95-%ec%97%90%ec%84%9c-%ec%97%ac%ec%88%98expo-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 11:24 도착 : 15:13 &#8211; 무궁화호 18,800원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>11:24</td>
+<td>도착 : 15:13 &#8211; 무궁화호</td>
+<td>18,800원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>부강 에서 임실 가는 기차 시간표</title>
+		<link>/timetable/%eb%b6%80%ea%b0%95-%ec%97%90%ec%84%9c-%ec%9e%84%ec%8b%a4-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:08:21 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[도착지-전라북도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[부강]]></category>
+		<category><![CDATA[세종특별시]]></category>
+		<category><![CDATA[임실]]></category>
+		<category><![CDATA[전라북도]]></category>
+		<category><![CDATA[출발지-세종특별시]]></category>
+		<guid isPermaLink="false">/timetable/%eb%b6%80%ea%b0%95-%ec%97%90%ec%84%9c-%ec%9e%84%ec%8b%a4-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 11:24 도착 : 13:46 &#8211; 무궁화호 10,500원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>11:24</td>
+<td>도착 : 13:46 &#8211; 무궁화호</td>
+<td>10,500원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>부강 에서 오수 가는 기차 시간표</title>
+		<link>/timetable/%eb%b6%80%ea%b0%95-%ec%97%90%ec%84%9c-%ec%98%a4%ec%88%98-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:08:21 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[도착지-전라북도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[부강]]></category>
+		<category><![CDATA[세종특별시]]></category>
+		<category><![CDATA[오수]]></category>
+		<category><![CDATA[전라북도]]></category>
+		<category><![CDATA[출발지-세종특별시]]></category>
+		<guid isPermaLink="false">/timetable/%eb%b6%80%ea%b0%95-%ec%97%90%ec%84%9c-%ec%98%a4%ec%88%98-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 11:24 도착 : 13:54 &#8211; 무궁화호 11,200원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>11:24</td>
+<td>도착 : 13:54 &#8211; 무궁화호</td>
+<td>11,200원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>부강 에서 남원 가는 기차 시간표</title>
+		<link>/timetable/%eb%b6%80%ea%b0%95-%ec%97%90%ec%84%9c-%eb%82%a8%ec%9b%90-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:08:21 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[남원]]></category>
+		<category><![CDATA[도착지-전라북도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[부강]]></category>
+		<category><![CDATA[세종특별시]]></category>
+		<category><![CDATA[전라북도]]></category>
+		<category><![CDATA[출발지-세종특별시]]></category>
+		<guid isPermaLink="false">/timetable/%eb%b6%80%ea%b0%95-%ec%97%90%ec%84%9c-%eb%82%a8%ec%9b%90-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 11:24 도착 : 14:05 &#8211; 무궁화호 12,300원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>11:24</td>
+<td>도착 : 14:05 &#8211; 무궁화호</td>
+<td>12,300원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>부강 에서 곡성 가는 기차 시간표</title>
+		<link>/timetable/%eb%b6%80%ea%b0%95-%ec%97%90%ec%84%9c-%ea%b3%a1%ec%84%b1-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:08:21 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[곡성]]></category>
+		<category><![CDATA[도착지-전라남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[부강]]></category>
+		<category><![CDATA[세종특별시]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[출발지-세종특별시]]></category>
+		<guid isPermaLink="false">/timetable/%eb%b6%80%ea%b0%95-%ec%97%90%ec%84%9c-%ea%b3%a1%ec%84%b1-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 11:24 도착 : 14:17 &#8211; 무궁화호 13,400원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>11:24</td>
+<td>도착 : 14:17 &#8211; 무궁화호</td>
+<td>13,400원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>부강 에서 구례구 가는 기차 시간표</title>
+		<link>/timetable/%eb%b6%80%ea%b0%95-%ec%97%90%ec%84%9c-%ea%b5%ac%eb%a1%80%ea%b5%ac-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:08:21 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[구례구]]></category>
+		<category><![CDATA[도착지-전라남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[부강]]></category>
+		<category><![CDATA[세종특별시]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[출발지-세종특별시]]></category>
+		<guid isPermaLink="false">/timetable/%eb%b6%80%ea%b0%95-%ec%97%90%ec%84%9c-%ea%b5%ac%eb%a1%80%ea%b5%ac-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 11:24 도착 : 14:29 &#8211; 무궁화호 14,700원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>11:24</td>
+<td>도착 : 14:29 &#8211; 무궁화호</td>
+<td>14,700원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>부강 에서 순천 가는 기차 시간표</title>
+		<link>/timetable/%eb%b6%80%ea%b0%95-%ec%97%90%ec%84%9c-%ec%88%9c%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:08:21 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[도착지-전라남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[부강]]></category>
+		<category><![CDATA[세종특별시]]></category>
+		<category><![CDATA[순천]]></category>
+		<category><![CDATA[전라남도]]></category>
+		<category><![CDATA[출발지-세종특별시]]></category>
+		<guid isPermaLink="false">/timetable/%eb%b6%80%ea%b0%95-%ec%97%90%ec%84%9c-%ec%88%9c%ec%b2%9c-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 11:24 도착 : 14:47 &#8211; 무궁화호 16,500원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>11:24</td>
+<td>도착 : 14:47 &#8211; 무궁화호</td>
+<td>16,500원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>부강 에서 계룡 가는 기차 시간표</title>
+		<link>/timetable/%eb%b6%80%ea%b0%95-%ec%97%90%ec%84%9c-%ea%b3%84%eb%a3%a1-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:08:20 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[계룡]]></category>
+		<category><![CDATA[도착지-충청남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[부강]]></category>
+		<category><![CDATA[세종특별시]]></category>
+		<category><![CDATA[출발지-세종특별시]]></category>
+		<category><![CDATA[충청남도]]></category>
+		<guid isPermaLink="false">/timetable/%eb%b6%80%ea%b0%95-%ec%97%90%ec%84%9c-%ea%b3%84%eb%a3%a1-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 11:24 도착 : 12:06 &#8211; 무궁화호 3,000원 19:51 도착 : 20:33 &#8211; 무궁화호 3,000원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>11:24</td>
+<td>도착 : 12:06 &#8211; 무궁화호</td>
+<td>3,000원</td>
+</tr>
+<tr>
+<td>19:51</td>
+<td>도착 : 20:33 &#8211; 무궁화호</td>
+<td>3,000원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>부강 에서 연산 가는 기차 시간표</title>
+		<link>/timetable/%eb%b6%80%ea%b0%95-%ec%97%90%ec%84%9c-%ec%97%b0%ec%82%b0-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:08:20 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[도착지-충청남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[부강]]></category>
+		<category><![CDATA[세종특별시]]></category>
+		<category><![CDATA[연산]]></category>
+		<category><![CDATA[출발지-세종특별시]]></category>
+		<category><![CDATA[충청남도]]></category>
+		<guid isPermaLink="false">/timetable/%eb%b6%80%ea%b0%95-%ec%97%90%ec%84%9c-%ec%97%b0%ec%82%b0-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 11:24 도착 : 12:25 &#8211; 무궁화호 4,000원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>11:24</td>
+<td>도착 : 12:25 &#8211; 무궁화호</td>
+<td>4,000원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>부강 에서 논산 가는 기차 시간표</title>
+		<link>/timetable/%eb%b6%80%ea%b0%95-%ec%97%90%ec%84%9c-%eb%85%bc%ec%82%b0-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+		
+		<dc:creator><![CDATA[train]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 22:08:20 +0000</pubDate>
+				<category><![CDATA[timetable]]></category>
+		<category><![CDATA[논산]]></category>
+		<category><![CDATA[도착지-충청남도]]></category>
+		<category><![CDATA[무궁화호]]></category>
+		<category><![CDATA[부강]]></category>
+		<category><![CDATA[세종특별시]]></category>
+		<category><![CDATA[출발지-세종특별시]]></category>
+		<category><![CDATA[충청남도]]></category>
+		<guid isPermaLink="false">/timetable/%eb%b6%80%ea%b0%95-%ec%97%90%ec%84%9c-%eb%85%bc%ec%82%b0-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</guid>
+
+					<description><![CDATA[출발시간 차편정보 운임 11:24 도착 : 12:35 &#8211; 무궁화호 4,700원 19:51 도착 : 20:52 &#8211; 무궁화호 4,700원]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-table">
+<table>
+<thead>
+<tr>
+<th>출발시간</th>
+<th>차편정보</th>
+<th>운임</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>11:24</td>
+<td>도착 : 12:35 &#8211; 무궁화호</td>
+<td>4,700원</td>
+</tr>
+<tr>
+<td>19:51</td>
+<td>도착 : 20:52 &#8211; 무궁화호</td>
+<td>4,700원</td>
+</tr>
+</tbody>
+</table>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
