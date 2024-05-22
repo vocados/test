@@ -1,5 +1,4 @@
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+Allow: /
 
-Sitemap: https://train.vicharas.net/wp-sitemap.xml
+Sitemap: https://vocados.github.io/sitemap.xml
