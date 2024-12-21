@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://train.vicharas.net/sitemap.xml

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	댓글: 오근장 에서 구미 가는 기차 시간표	</title>
+	<atom:link href="/timetable/%EC%98%A4%EA%B7%BC%EC%9E%A5-%EC%97%90%EC%84%9C-%EA%B5%AC%EB%AF%B8-%EA%B0%80%EB%8A%94-%EA%B8%B0%EC%B0%A8-%EC%8B%9C%EA%B0%84%ED%91%9C/feed/" rel="self" type="application/rss+xml" />
+	<link>/timetable/%ec%98%a4%ea%b7%bc%ec%9e%a5-%ec%97%90%ec%84%9c-%ea%b5%ac%eb%af%b8-%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%b0%a8-%ec%8b%9c%ea%b0%84%ed%91%9c/</link>
+	<description>KTX, ITX, 청춘, 열차에 대한 시간표를 제공합니다.</description>
+	<lastBuildDate>Fri, 20 Dec 2024 20:07:40 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+</channel>
+</rss>
