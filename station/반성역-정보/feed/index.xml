@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	댓글: 반성역 정보	</title>
+	<atom:link href="/station/%EB%B0%98%EC%84%B1%EC%97%AD-%EC%A0%95%EB%B3%B4/feed/" rel="self" type="application/rss+xml" />
+	<link>/station/%eb%b0%98%ec%84%b1%ec%97%ad-%ec%a0%95%eb%b3%b4/</link>
+	<description>KTX, ITX, 청춘, 열차에 대한 시간표를 제공합니다.</description>
+	<lastBuildDate>Sun, 22 Dec 2024 20:11:48 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+</channel>
+</rss>
